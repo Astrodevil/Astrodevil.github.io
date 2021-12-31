@@ -8,11 +8,17 @@
     <loc>https://astrodevil.github.io/posts/</loc>
     <lastmod>2021-12-31T17:50:05+05:30</lastmod>
   </url><url>
-    <loc>https://astrodevil.github.io/posts/my-second-post/</loc>
+    <loc>https://astrodevil.github.io/posts/some-cool-github-actions-you-wont-believe-exists/</loc>
     <lastmod>2021-12-31T17:50:05+05:30</lastmod>
   </url><url>
-    <loc>https://astrodevil.github.io/posts/my-first-post/</loc>
+    <loc>https://astrodevil.github.io/posts/some-apps-you-should-use-as-a-student-developer/</loc>
     <lastmod>2021-12-30T20:57:05+05:30</lastmod>
+  </url><url>
+    <loc>https://astrodevil.github.io/about/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://astrodevil.github.io/featured/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://astrodevil.github.io/categories/</loc>
   </url><url>
