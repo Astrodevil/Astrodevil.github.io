@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Mr. Ånand</title>
+    <link>https://astrodevil.github.io/posts/</link>
+    <description>Recent content in Posts on Mr. Ånand</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Dec 2021 17:50:05 +0530</lastBuildDate><atom:link href="https://astrodevil.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some Cool GitHub Actions You Won&#39;t Believe Exists</title>
+      <link>https://astrodevil.github.io/posts/my-second-post/</link>
+      <pubDate>Fri, 31 Dec 2021 17:50:05 +0530</pubDate>
+      
+      <guid>https://astrodevil.github.io/posts/my-second-post/</guid>
+      <description>With GitHub Actions, you can automate, customize, and execute your software development workflows right in your repository. You may find, create, and distribute actions for any job you want to do, including CI/CD, and combine actions in a fully customized workflow.
+In this Article, I am going to discuss Some Cool GitHub Actions You Won&amp;#39;t Believe Exists.</description>
+    </item>
+    
+    <item>
+      <title>Some Apps You Should Use As a Student Developer</title>
+      <link>https://astrodevil.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 30 Dec 2021 20:57:05 +0530</pubDate>
+      
+      <guid>https://astrodevil.github.io/posts/my-first-post/</guid>
+      <description>Having useful apps in phones is very important now-a-days. And as a student you must use apps useful for you.</description>
+    </item>
+    
+  </channel>
+</rss>
