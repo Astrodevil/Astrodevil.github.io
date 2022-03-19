@@ -1,0 +1,99 @@
+baseURL = 'https://astrodevil.github.io/'
+languageCode = 'en-us'
+title = 'Mr. Ånand'
+theme = 'PaperMod'
+
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+googleAnalytics = "UA-108898246-4"
+
+[minify]
+disableXML = false
+minifyOutput = true
+
+[params]
+env = "production"
+ShowShareButtons = true
+
+
+
+[[menu.main]]
+identifier = "blog"
+name = "Blogs"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "Featured"
+name = "Featured"
+url = "/featured/"
+weight = 20
+
+[[menu.main]]
+identifier = "Gallery"
+name = "Gallery"
+url = "/gallery/"
+weight = 30
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 40
+
+
+[params.profileMode]
+enabled = true
+title = "Mr. Ånand"
+subtitle = "Student | Content Creator | Explorer and Learner"
+imageUrl = "https://cdn.bio.link/uploads/profile_pictures/2021-12-17/rIgWZLgFZMi84ZKzAZ2Rw3K2PbIJ5PJk.png"
+imageTitle = "Mr. Ånand"
+imageWidth = 120
+imageHeight = 120
+
+
+
+[[params.profileMode.buttons]]
+  name = "GitHub"
+  url = "https://github.com/Astrodevil/Astrodevil.github.io"
+
+[[params.profileMode.buttons]]  
+  name = "Newsletter"
+  url = "https://www.getrevue.co/profile/astrodevil_"
+[[params.profileMode.buttons]]
+  name = "Resume"
+  url = "https://drive.google.com/file/d/1zC81LO5XOmLDd7KhCJlsM96w1J4HaEcw/view?usp=sharing"
+
+
+[analytics.google]
+SiteVerificationTag = "XYZabc"
+
+[analytics.bing]
+SiteVerificationTag = "F5A3921E8BDE49E6E1D5718A318B8C2B"
+
+[analytics.yandex]
+SiteVerificationTag = "XYZabc"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://mobile.twitter.com/astrodevil_"
+
+[[params.socialIcons]]
+name = "medium"
+url = "https://astrodevil.medium.com/"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/codes.astro/"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/Astrodevil"
+
+[[params.socialIcons]]
+name = "other"
+url = "https://bio.link/astrodevil"
+
