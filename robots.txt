@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://astrodevil.github.io/sitemap.xml
