@@ -56,9 +56,6 @@ imageHeight = 120
 
 
 
-[[params.profileMode.buttons]]
-  name = "GitHub"
-  url = "https://github.com/Astrodevil/Astrodevil.github.io"
 
 [[params.profileMode.buttons]]  
   name = "Newsletter"
@@ -92,6 +89,10 @@ url = "https://www.instagram.com/codes.astro/"
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/Astrodevil"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/amitesh1208/"
 
 [[params.socialIcons]]
 name = "other"
