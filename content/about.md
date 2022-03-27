@@ -1,13 +1,14 @@
+### About🙏🏼
 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. 
 
 🌱 I am currently learning **Web Development** and writing **Tech Articles**.
 
 🎯 My Goal is to Contribute to as many **Open Source** projects as possible.
 
-✨ I love to create different types of **contents**.
+✨ I love to create different types of **Contents**.
 
 
-**My Experiences🙌🏼**
+### My Experiences🧑🏼‍💻
 
 - [GSSoC' 22 Project Admin](https://www.linkedin.com/in/amitesh1208/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BI40IE49nRveAC3Ax%2FMwYsg%3D%3D#experience): Collaborating with maintainers and contributors for ZeroOctave-JavaScript-Projects.
 - [GSSoC'21 Participant](https://github.com/Astrodevil/Astrodevil/blob/main/src/Certificate%20-%20Amitesh%20Anand.png): Contributed to some projects, mainly based on Web Development.

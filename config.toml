@@ -65,6 +65,7 @@ imageHeight = 120
   url = "https://drive.google.com/file/d/1zC81LO5XOmLDd7KhCJlsM96w1J4HaEcw/view?usp=sharing"
 
 
+
 [analytics.google]
 SiteVerificationTag = "XYZabc"
 
@@ -89,6 +90,7 @@ url = "https://www.instagram.com/codes.astro/"
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/Astrodevil"
+
 
 [[params.socialIcons]]
 name = "linkedin"
