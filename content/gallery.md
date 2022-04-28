@@ -9,7 +9,7 @@ The motive🎯 of this project is to help new learners like you to get familiar 
 
 Happy learning.👍
 
-## [Developer Tech🔮](https://www.amazon.in/shop/amiteshanand?listId=3FM5KPV7Y33SP)
+## [Developer Tech🔮](https://www.amazon.in/shop/astro/list/3FM5KPV7Y33SP)
 A curated list of Gadgets a developer needs in the different price ranges.
 
 This Amazon idealist is a great place to find gadgets, tools, and other things that you can use if you have no idea about the tech needed for a proper setup.
