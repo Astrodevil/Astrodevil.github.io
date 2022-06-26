@@ -37,3 +37,5 @@ Hackathon & Opportunity is a [Showwcase](https://www.showwcase.com/) community.
 Find hackathons, open-source, and various good opportunities.  Many hackathon participants find it hard to get teammates, you can find them here by making a post.
 
 You are welcome to share valuable opportunities to help students and beginners. 
+
+[![Buy Me a Coffee at ko-fi.com](https://cdn.ko-fi.com/cdn/kofi6.png?v=3)](https://ko-fi.com/astrodevil)

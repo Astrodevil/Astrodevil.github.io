@@ -1,3 +1,7 @@
+### Articles For Others🤝🏼
+[**flycode**](https://www.flycode.com/)
+- [Say No to Coding! Introduction to Low-Code / No-Code](https://blog.flycode.com/say-no-to-coding-introduction-to-low-code-no-code)
+
 
 ### Featured On [daily.dev](https://app.daily.dev/)🔥
 
@@ -17,3 +21,5 @@
 - [25 Must-Visit Killer Websites For Developers](https://devdojo.com/posts/25-must-visit-killer-websites-for-developers)
 
 ### Featured On [GirlScript Summer of Code Blog](https://gssoc.girlscript.tech/blog)🔥
+
+[![Buy Me a Coffee at ko-fi.com](https://cdn.ko-fi.com/cdn/kofi6.png?v=3)](https://ko-fi.com/astrodevil)
