@@ -14,7 +14,7 @@ A curated list of Gadgets a developer needs in the different price ranges.
 
 This Amazon idealist is a great place to find gadgets, tools, and other things that you can use if you have no idea about the tech needed for a proper setup.
 
-## [Resources Gallery📔](https://github.com/Astrodevil/Open-Source-Gallery#more-resource-gallery)
+## [Resources Gallery📔](https://astrodevil.gumroad.com/l/dsHfg)
 If you want to find resources realted to following topics:
 
 - 🌐 Web Development
@@ -23,6 +23,7 @@ If you want to find resources realted to following topics:
 - ☕ Programmers Must Know
 - 🐍 Python
 - 🔥 Web3/Blockchain
+- ⚡ Low-Code/No-Code
 
 Huge resources gallery in making....
 
