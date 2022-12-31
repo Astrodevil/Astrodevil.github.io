@@ -23,7 +23,7 @@ ShowShareButtons = true
 [[menu.main]]
 identifier = "blog"
 name = "Blogs"
-url = "/posts/"
+url = "/blogs/"
 weight = 10
 
 [[menu.main]]
