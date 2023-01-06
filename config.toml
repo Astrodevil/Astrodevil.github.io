@@ -62,7 +62,7 @@ imageHeight = 120
   url = "https://bio.link/astrodevil"
 [[params.profileMode.buttons]]
   name = "Newsletter"
-  url = "https://mranand.com#tally-open=3jep7Q&tally-layout=modal&tally-emoji-text=👋&tally-emoji-animation=wave&tally-auto-close=1000"
+  url = "https://tally.so/r/3jep7Q"
 [[params.profileMode.buttons]]
   name = "Resume"
   url = "https://drive.google.com/file/d/1zC81LO5XOmLDd7KhCJlsM96w1J4HaEcw/view?usp=sharing"
