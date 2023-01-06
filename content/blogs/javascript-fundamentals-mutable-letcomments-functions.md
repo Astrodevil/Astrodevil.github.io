@@ -41,7 +41,7 @@ Today is the 2nd day of my **#100DaysOfCode** journey with JavaScript.
 
 I am going to write about my learnings in an explained way through my [blogs](https://astrodevil.hashnode.dev/) and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. **Let's learn together!🫱🏼‍🫲🏼**
 
-This Article is a part of the [JavaScript Fundamentals](https://astrodevil.hashnode.dev/series/js-fundamentals) series**.**
+This Article is a part of the [JavaScript Fundamentals](https://blog.mranand.com/series/js-fundamentals) series.
 
 ### Mutable let
 
