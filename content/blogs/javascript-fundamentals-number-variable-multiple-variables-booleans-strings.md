@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["javascript", "tutorial", "webdevelopment", "100daysofcode", "programming", "coding"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -15,12 +15,12 @@ hidemeta: false
 comments: false
 description: "Day 1 of #100DaysOfCode"
 
-canonicalURL: "https://blog.mranand.com/javascript-fundamentals-number-variable-multiple-variables-booleans-strings"
+# canonicalURL: "https://blog.mranand.com/javascript-fundamentals-number-variable-multiple-variables-booleans-strings"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

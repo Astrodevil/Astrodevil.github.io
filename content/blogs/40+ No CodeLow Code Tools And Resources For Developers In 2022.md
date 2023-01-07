@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["nocode", "lowcode", "tools", "developer"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -17,12 +17,12 @@ description: "There are so many no-code tools to make the work of developers eas
 
 90% of developers don’t know about these resources."
 
-canonicalURL: "https://astrodevil.hashnode.dev/40-no-codelow-code-tools-and-resources-for-developers-in-2022"
+# canonicalURL: "https://astrodevil.hashnode.dev/40-no-codelow-code-tools-and-resources-for-developers-in-2022"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["github", "tool", "opensource"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -17,12 +17,12 @@ description: "With GitHub Actions, you can automate, customize, and execute your
 
 In this Article, I am going to discuss Some Cool GitHub Actions You Won't Believe Exists."
 
-canonicalURL: "https://astrodevil.hashnode.dev/some-cool-github-actions-you-wont-believe-exists"
+# canonicalURL: "https://astrodevil.hashnode.dev/some-cool-github-actions-you-wont-believe-exists"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["GSSoC", "opensource", "career", "experience", "project", "coding", "programming"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -17,12 +17,12 @@ description: "GSSoC stands for GirlScript Summer of Code. It is a three-month-lo
 
 In this article, I am going to share my experiences from being a contributor in an open-source program to the project admin & mentor of one. "
 
-canonicalURL: "https://zerooctave.hashnode.dev/girlscript-summer-of-code-learning-and-experiences-from-contributor-to-project-admin"
+# canonicalURL: "https://zerooctave.hashnode.dev/girlscript-summer-of-code-learning-and-experiences-from-contributor-to-project-admin"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

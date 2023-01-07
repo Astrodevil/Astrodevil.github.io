@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["websites", "developer", "webdevelopment"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -17,12 +17,12 @@ description: "There are so many websites to make the work of developers easier. 
 
 90% of developers don’t know about these websites"
 
-canonicalURL: "https://astrodevil.hashnode.dev/25-must-visit-killer-websites-for-developers"
+# canonicalURL: "https://astrodevil.hashnode.dev/25-must-visit-killer-websites-for-developers"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

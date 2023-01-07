@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["gitHub", "career", "portfolio"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -15,12 +15,12 @@ hidemeta: false
 comments: false
 description: "To screen candidates, the industry is shifting away from resumes and toward GitHub profiles. In the software industry, Open Source projects are widely regarded now. How can recruiters know that the abilities you claim to have are truly the skills you have? When you're a fresher with no professional experience open-source contributions come in useful. Without any prior industry expertise, GitHub allows you to exhibit your work. As a result, it's important to make GitHub Profile stand out and present the best version of yourself."
 
-canonicalURL: "https://astrodevil.hashnode.dev/make-your-github-profile-standout-to-attract-better-opportunities"
+# canonicalURL: "https://astrodevil.hashnode.dev/make-your-github-profile-standout-to-attract-better-opportunities"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

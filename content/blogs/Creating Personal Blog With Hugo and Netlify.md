@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["hugo", "netlify", "blog", "website"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -15,12 +15,12 @@ hidemeta: false
 comments: false
 description: "Blog website using a static site generator Hugo and deploying it to Netlify"
 
-canonicalURL: "https://astrodevil.hashnode.dev/creating-personal-blog-with-hugo-and-netlify"
+# canonicalURL: "https://astrodevil.hashnode.dev/creating-personal-blog-with-hugo-and-netlify"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

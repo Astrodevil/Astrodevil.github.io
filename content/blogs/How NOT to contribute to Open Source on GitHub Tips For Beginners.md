@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["github", "opensource", "tutorial"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -17,12 +17,12 @@ description: "While maintaining some projects on GitHub during Hacktoberfest 202
 
 In this article, I am going to discuss some tips on - How Not to contribute to Open-Source on GitHub."
 
-canonicalURL: "https://astrodevil.hashnode.dev/how-not-to-contribute-to-open-source-on-github-tips-for-beginners"
+# canonicalURL: "https://astrodevil.hashnode.dev/how-not-to-contribute-to-open-source-on-github-tips-for-beginners"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

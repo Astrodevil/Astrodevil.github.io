@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["apps", "website", "student", "developer"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -15,12 +15,12 @@ hidemeta: false
 comments: false
 description: "Having useful apps in phones is very important now-a-days. And as a student you must use apps useful for you."
 
-canonicalURL: "https://astrodevil.hashnode.dev/some-apps-for-student-developer"
+# canonicalURL: "https://astrodevil.hashnode.dev/some-apps-for-student-developer"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

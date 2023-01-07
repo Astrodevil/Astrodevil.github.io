@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["opensource", "git", "github", "resource"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -17,12 +17,12 @@ description: "Do you want to start your open source journey? Don't know where to
 
 Tutorials, Docs, Projects, and Communities to Get You Started."
 
-canonicalURL: "https://astrodevil.hashnode.dev/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery"
+# canonicalURL: "https://astrodevil.hashnode.dev/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["nocode", "lowcode", "developer", "community"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -15,12 +15,12 @@ hidemeta: false
 comments: false
 description: "No-Code /Low-Code is a new trend in tech and you can master this new tech by involving in communities."
 
-canonicalURL: "https://astrodevil.hashnode.dev/learn-and-explore-low-code-no-code-stack-by-involving-in-these-communities"
+# canonicalURL: "https://astrodevil.hashnode.dev/learn-and-explore-low-code-no-code-stack-by-involving-in-these-communities"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

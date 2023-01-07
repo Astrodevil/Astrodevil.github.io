@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["github", "web3", "developer", "blockchain"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -15,12 +15,12 @@ hidemeta: false
 comments: false
 description: "GitHub Repositories you can contribute to and enhance your practical knowledge of web3 technologies."
 
-canonicalURL: "https://astrodevil.hashnode.dev/some-useful-github-repositories-to-enhance-your-web3-skills"
+# canonicalURL: "https://astrodevil.hashnode.dev/some-useful-github-repositories-to-enhance-your-web3-skills"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

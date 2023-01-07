@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["Astrodevil", "2022", "wrap", "developer"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -15,12 +15,12 @@ hidemeta: false
 comments: false
 description: "Dev Retro 2022"
 
-canonicalURL: "https://blog.mranand.com/astrodevils-2022-wrapped-dev-retro-2022"
+# canonicalURL: "https://blog.mranand.com/astrodevils-2022-wrapped-dev-retro-2022"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

@@ -5,7 +5,7 @@ draft: false
 
 # weight: 2
 # aliases: ["/first"]
-# tags: ["first"]
+tags: ["coding", "programming", "community"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -17,12 +17,12 @@ description: "Learning to code is an amazing thing. How you can code something i
 
 In this Article, I am going to share 20 Top Tips From The Coding Community "
 
-canonicalURL: "https://astrodevil.hashnode.dev/are-you-a-coder-here-are-20-top-tips-from-the-coding-community"
+# canonicalURL: "https://astrodevil.hashnode.dev/are-you-a-coder-here-are-20-top-tips-from-the-coding-community"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

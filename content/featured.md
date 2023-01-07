@@ -1,6 +1,7 @@
-### Articles For Others🤝🏼
+### Paid articles For Others🤝🏼
 [**flycode**](https://www.flycode.com/)
 - [Say No to Coding! Introduction to Low-Code / No-Code](https://blog.flycode.com/say-no-to-coding-introduction-to-low-code-no-code)
+- [15+ Websites to Help You in Your Developer Journey](https://blog.flycode.com/15-websites-to-help-you-in-your-developer-journey)
 
 
 ### Featured On [daily.dev](https://app.daily.dev/)🔥
