@@ -18,6 +18,9 @@ minifyOutput = true
 env = "production"
 ShowShareButtons = true
 defaultTheme = "auto"
+description = "Tech blogger from India. Open-Source and Self-Learning. Love to create different types of content. Student | Content Creator | Explorer and Learner"
+keywords = [ "Blogger", "India", "Selflearning", "Blog", "Portfolio", "PaperMod", "GitHub", "open source", "JavaScript", "Astrodevil", "Content", "Developers", "100Daysofcode", "codesastro", "Webdevelopment", "Student", "Web3", "Programming", "Coding", "Technicalwriter", "Creator", "mranand", "Mr. Ånand", "Amitesh", "Amitesh Anand", "Programming", "Tutorial", "Books", "Project", "Hugo" ]
+author = "Mr. Ånand"
 
 
 [outputs]
@@ -116,6 +119,4 @@ url = "https://github.com/Astrodevil"
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/amitesh1208/"
-
-
 
