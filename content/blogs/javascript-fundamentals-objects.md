@@ -1,5 +1,5 @@
 ---
-title: "JavaScript Fundamentals: Objects 1"
+title: "JavaScript Fundamentals: Objects"
 date: 2023-01-03T16:52:05+05:30
 draft: false
 
@@ -129,11 +129,178 @@ function numberOfPizzas(orders) {
 }
 ```
 
+### Enumerated Types
+
+When numbers are defined, code is easier to read and maintain. Consider the following instance:
+
+```javascript
+const card = {
+    suit: 1,
+    value: 5
+}
+```
+
+Spades, Clubs, Hearts, and Diamond cards are suits.
+
+What is the `suit` of this card? We are aware that the value is `1`, but what does that actually mean? Let's define `CARD_SUITS`:
+
+```javascript
+const CARD_SUITS = {
+    DIAMONDS: 0,
+    HEARTS: 1,
+    SPADES: 2,
+    CLUBS: 3
+}
+```
+
+We can identify our card `suit` by using this object:
+
+```javascript
+const card = {
+    suit: CARD_SUITS.HEARTS,
+    value: 5
+}
+```
+
+It only needs to be changed once in `CARD_SUITS` if we ever wish to change which suit belongs to which value. This type of object is commonly referred to as an Enumeration.
+
+**Example:** Let's create an enumeration like `CARD_SUITS` above. Our enumeration will be named `ORDER_TYPES` and describe the different types of orders that are possible in our system. The first type should be `PIZZA,` with a value of `0`. After that, create at least 2 more options of your choice!
+
+```javascript
+const ORDER_TYPES = {
+    PIZZA: 0,
+    WINGS: 1,
+    SALAD: 2,
+}
+```
+
+### Importing Files
+
+Let's import the `ORDER_TYPES` we just created into `numberOfPizzas.js`.
+
+We can use `require` to pull in the exports from `orderType.js`:
+
+```javascript
+const ORDER_TYPES = require('./orderTypes');
+```
+
+**Example:** Modify the `numberOfPizzas` function to only count pizzas when the `order.type` is equal to `ORDER_TYPES.PIZZA`.
+
+```javascript
+// orderTypes.js
+
+const ORDER_TYPES = {
+    PIZZA: 0,
+    WINGS: 1,
+    SALAD: 2,
+}
+```
+
+```javascript
+// numberOfPizzas.js
+
+const ORDER_TYPES = require('./orderTypes');
+
+function numberOfPizzas(orders) {
+    let total = 0;
+    for(let i = 0; i < orders.length; i++) {
+        if (orders[i].type === ORDER_TYPES.PIZZA) {
+            total += orders[i].pizzas;
+        }
+    }
+    return total;
+}
+```
+
+### Number of Keys
+
+There are a few approaches to obtaining every key in an object. To iterate across all properties, we can use the `in` operator:
+
+```javascript
+const object = { a: 1, b: 2, c: 3 } 
+for(let key in object) {
+    console.log(key);
+}
+```
+
+After 3 iterations this will log `a`, `b` and `c` which are the keys of `object`. We can use some methods on `object` that will return an array of that data.
+
+```javascript
+const object = { a: 1, b: 2, c: 3 } 
+console.log( Object.keys(object) ); // ['a', 'b', 'c']
+console.log( Object.values(object) ); // [1, 2, 3]
+```
+
+**Example:** Given an object, find the number of keys inside the object. Return this number.
+
+```javascript
+function numberOfKeys(object) {
+    return Object.keys(object).length;
+}
+```
+
+### Edit Object Values
+
+We can also edit values in an object.
+
+```javascript
+const person = {
+    name: "Sohan",
+    age: 21
+}
+
+person.name = "Rohan";
+person["age"] = 40;
+
+console.log( person.name ); // Rohan
+console.log( person.age ); // 40
+```
+
+In retrieval, we can use the `.` or `[]` notation. We can also remove keys completly.
+
+```javascript
+const person = { 
+    name: "Tom"
+}
+
+delete person.name;
+
+console.log( person.name ); // undefined
+```
+
+### Modify Object
+
+In JavaScript, objects are passed by reference. We can write functions to modify objects.
+
+```javascript
+function modify(object) {
+    object.message = "Hello World";
+}
+```
+
+Let's create an object and pass it to the above function:
+
+```javascript
+const store = {
+    name: "Star Eleven" 
+}
+
+modify(store);
+
+console.log(store.message); // Hello World
+```
+
+The `object` argument within the `modify` method is referencing the same memory as the `store`. Passing by reference is defined as this.
+
+The `object` gets updated everywhere it is referenced when it is updated using the `modify` function.
+
 ### Conclusion
 
 Ending with an extra bit of information about JavaScript...
 
 A JavaScript object is a state-and-behaviour-containing entity (properties and method). Examples include a car, pen, bicycle, chair, glass, keyboard, and monitor. JavaScript is an object-based language. In JavaScript, everything is an object. JavaScript relies on templates rather than classes. To obtain the object in this case, no class is created. But we deliberately make objects.
+
+It is always a good idea to be careful about modifying objects directly! The function is modifying something outside of its scope, potentially leading to unexpected consequences!
 
 **Today I learned about Objects in JavaScript.**
 
