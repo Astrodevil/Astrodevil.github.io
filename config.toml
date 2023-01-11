@@ -8,7 +8,7 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-googleAnalytics = "UA-108898246-4"
+googleAnalytics = "G-V0FWJ50Z7L"
 
 [minify]
 disableXML = false
