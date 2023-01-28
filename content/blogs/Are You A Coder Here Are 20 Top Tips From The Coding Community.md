@@ -9,10 +9,10 @@ tags: ["coding", "programming", "community"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Learning to code is an amazing thing. How you can code something interesting and then view its fascinating outcomes. But Doing it in the right way is also very important. While scrolling YouTube I found a video where some developers and community leaders were sharing their tips about programming.
 
 In this Article, I am going to share 20 Top Tips From The Coding Community "
@@ -32,11 +32,11 @@ cover:
     alt: "Astrodevil" # alt text
     caption: "Photo By Mr. Ånand" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
-   # URL: "https://github.com/<path_to_repo>/content"
-   # Text: "Suggest Changes" # edit text
-   # appendFilePath: true # to append file path to Edit link
+    URL: "https://github.com/Astrodevil/Astrodevil.github.io/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ---
 
 Learning to code is an amazing thing. How you can code something interesting and then view its fascinating outcomes. But Doing it in the right way is also very important. While scrolling YouTube I found a video where some developers and community leaders were sharing their tips about programming.

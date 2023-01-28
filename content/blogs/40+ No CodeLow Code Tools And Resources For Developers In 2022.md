@@ -9,10 +9,10 @@ tags: ["nocode", "lowcode", "tools", "developer"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "There are so many no-code tools to make the work of developers easier. Anyone can build some useful products, startups without writing even a single line of code. In this article, we will see 40+ No Code/Low Code Tools And Resources For Developers that is going to help you In 2022.
 
 90% of developers don’t know about these resources."
@@ -32,11 +32,11 @@ cover:
     alt: "Astrodevil" # alt text
     caption: "Photo By Mr. Ånand" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
-   # URL: "https://github.com/<path_to_repo>/content"
-   # Text: "Suggest Changes" # edit text
-   # appendFilePath: true # to append file path to Edit link
+    URL: "https://github.com/Astrodevil/Astrodevil.github.io/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ---
 
 There are so many no-code tools to make the work of developers easier. Anyone can build some useful products, startups without writing even a single line of code. In this article, we will see **40+ No Code/Low Code Tools And Resources For Developers** that is going to help you In 2022.

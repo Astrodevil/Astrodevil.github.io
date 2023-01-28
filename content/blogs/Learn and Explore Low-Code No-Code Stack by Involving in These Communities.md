@@ -9,10 +9,10 @@ tags: ["nocode", "lowcode", "developer", "community"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "No-Code /Low-Code is a new trend in tech and you can master this new tech by involving in communities."
 
 # canonicalURL: "https://astrodevil.hashnode.dev/learn-and-explore-low-code-no-code-stack-by-involving-in-these-communities"
@@ -30,11 +30,11 @@ cover:
     alt: "Astrodevil" # alt text
     caption: "Photo By Mr. Ånand" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
-   # URL: "https://github.com/<path_to_repo>/content"
-   # Text: "Suggest Changes" # edit text
-   # appendFilePath: true # to append file path to Edit link
+    URL: "https://github.com/Astrodevil/Astrodevil.github.io/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ---
 
 I am pretty sure you all are familiar with full-stack, MERN stack, and many similar tech stacks related to development. But I will not talk about it because lots of content are already there. I am going to tell you about the **"No-Code /Low-Code stack"** a new trend in tech and how you will master this new tech by involving in related communities.

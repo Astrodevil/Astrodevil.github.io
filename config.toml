@@ -17,6 +17,8 @@ minifyOutput = true
 [params]
 env = "production"
 ShowShareButtons = true
+ShowCodeCopyButtons = true
+# comments = true
 defaultTheme = "auto"
 description = "Tech blogger from India. Open-Source and Self-Learning. Love to create different types of content. Student | Content Creator | Explorer and Learner"
 keywords = [ "Blogger", "India", "Selflearning", "Blog", "Portfolio", "PaperMod", "GitHub", "open source", "JavaScript", "Astrodevil", "Content", "Developers", "100Daysofcode", "codesastro", "Webdevelopment", "Student", "Web3", "Programming", "Coding", "Technicalwriter", "Creator", "mranand", "Mr. Ånand", "Amitesh", "Amitesh Anand", "Programming", "Tutorial", "Books", "Project", "Hugo" ]
@@ -43,6 +45,18 @@ identifier = "tags"
 name = "Tags"
 url = "/tags/"
 weight = 30
+
+#[[menu.main]]
+#identifier = "categories"
+#name = "Categories"
+#url = "/categories/"
+#weight = 30
+                        # categories and Series features will be enabled if required
+#[[menu.main]]
+#identifier = "series"
+#name = "Series"
+#url = "/series/"
+#weight = 30
 
 [[menu.main]]
 identifier = "Featured"
@@ -119,3 +133,7 @@ url = "https://github.com/Astrodevil"
 name = "linkedin"
 url = "https://www.linkedin.com/in/amitesh1208/"
 
+[taxonomies]
+   series = "series"
+   tags = "tags"
+   category = "categories"

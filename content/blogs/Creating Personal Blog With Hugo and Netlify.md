@@ -9,10 +9,10 @@ tags: ["hugo", "netlify", "blog", "website"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Blog website using a static site generator Hugo and deploying it to Netlify"
 
 # canonicalURL: "https://astrodevil.hashnode.dev/creating-personal-blog-with-hugo-and-netlify"
@@ -30,11 +30,11 @@ cover:
     alt: "Astrodevil" # alt text
     caption: "Photo By Mr. Ånand" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
-   # URL: "https://github.com/<path_to_repo>/content"
-   # Text: "Suggest Changes" # edit text
-   # appendFilePath: true # to append file path to Edit link
+    URL: "https://github.com/Astrodevil/Astrodevil.github.io/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ---
 
 In this Article! I am going to share the step-by-step method I followed while building a blog website using a static site generator **[Hugo](https://gohugo.io/)** and deploying it to **Netlify**. I encountered some small errors during the process, I am gonna entertain those as well. Let's get started.

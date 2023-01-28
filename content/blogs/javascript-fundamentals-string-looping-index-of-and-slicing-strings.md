@@ -3,16 +3,17 @@ title: "JavaScript Fundamentals: String Looping, Index Of and Slicing Strings"
 date: 2022-12-25T16:52:05+05:30
 draft: false
 
+series: [JavaScript Fundamentals]
 # weight: 2
 # aliases: ["/first"]
 tags: ["javascript", "tutorial", "webdevelopment", "100daysofcode", "programming", "coding"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Day 9 of #100DaysOfCode"
 
 # canonicalURL: "https://blog.mranand.com/javascript-fundamentals-math-object"
@@ -30,11 +31,11 @@ cover:
     alt: "Astrodevil" # alt text
     caption: "Photo By Mr. Ånand" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
-   # URL: "https://github.com/<path_to_repo>/content"
-   # Text: "Suggest Changes" # edit text
-   # appendFilePath: true # to append file path to Edit link
+    URL: "https://github.com/Astrodevil/Astrodevil.github.io/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ---
 
 Today is the 9th day of my **#100DaysOfCode** journey with JavaScript.

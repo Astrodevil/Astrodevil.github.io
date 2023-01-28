@@ -26,6 +26,7 @@
   {{- if (.Param "ShowToc") }}
   {{- partial "toc.html" . }}
   {{- end }}
+  {{ partial "series.html" . }}
 
   {{- if .Content }}
   <div class="post-content">
@@ -34,6 +35,7 @@
     {{- else }}{{ .Content }}{{ end }}
   </div>
   {{- end }}
+{{ partial "series.html" . }}
 
   <footer class="post-footer">
     {{- if .Params.tags }}

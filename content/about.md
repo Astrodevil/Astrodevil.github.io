@@ -19,3 +19,6 @@
 
 
 
+<!-- {{< youtube id="w7Ft2ymGmfc" autoplay="true" >}} -->
+
+<!-- {{< tweet user="SanDiegoZoo" id="1453110110599868418" >}} -->

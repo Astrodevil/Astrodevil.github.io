@@ -3,16 +3,17 @@ title: "15 Recommended Books For Computer Science Students"
 date: 2022-03-19T10:56:05+05:30
 draft: false
 
+categories: [Websites, tech]
 # weight: 2
 # aliases: ["/first"]
 tags: ["books", "computerscience", "student"]
 author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "We are in the modern world where the digitization of education is already going on. Now lots of blogs, articles are there on the internet to learn from. But Book has its own value, the author puts his all knowledge experience and time to write one whole book. The knowledge and details you get from a book are very precious."
 
 # canonicalURL: "https://astrodevil.hashnode.dev/15-recommended-books-for-computer-science-students"
@@ -30,11 +31,11 @@ cover:
     alt: "Astrodevil" # alt text
     caption: "Photo By Mr. Ånand" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
-   # URL: "https://github.com/<path_to_repo>/content"
-   # Text: "Suggest Changes" # edit text
-   # appendFilePath: true # to append file path to Edit link
+    URL: "https://github.com/Astrodevil/Astrodevil.github.io/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ---
 
 We are in the modern world where the digitization of education is already going on. Now lots of blogs, articles are there on the internet to learn from. But Book has its own value, the author puts his all knowledge experience and time to write one whole book. The knowledge and details you get from a book are very precious.
