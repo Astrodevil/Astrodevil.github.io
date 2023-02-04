@@ -1,3 +1,6 @@
+[![Hire me for technical writing](https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red)](https://twitter.com/messages/1138660957670895617-1396521837677268996)
+[![Shop from my gumroad store](https://img.shields.io/badge/Shop%20from-my%20Gumroad%20Store-blue)](https://astrodevil.gumroad.com/)
+
 ## [Open Source📚](https://github.com/Astrodevil/Open-Source-Gallery)
 Wants to start open-source? Are you a beginner? Don't know how, where, why to start?
 

@@ -22,3 +22,5 @@
 <!-- {{< youtube id="w7Ft2ymGmfc" autoplay="true" >}} -->
 
 <!-- {{< tweet user="SanDiegoZoo" id="1453110110599868418" >}} -->
+
+[![Hire me for technical writing](https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red)](https://twitter.com/messages/1138660957670895617-1396521837677268996)
