@@ -32,6 +32,11 @@
     margin: 8px;
     padding: 6px;
     transition: transform 0.1s;
+    background: linear-gradient(#d6d4d4,#ffffff)padding-box,linear-gradient(to right,#be09eb,#0b9fe8)border-box;
+    border: 3px solid transparent;
+}
+.dark .button {
+    background: linear-gradient(var(--tertiary),var(--tertiary))padding-box,linear-gradient(to right,#450155,#014B72)border-box;
 }
 
 .button-inner {
@@ -41,3 +46,4 @@
 .button:active {
     transform: scale(0.96);
 }
+

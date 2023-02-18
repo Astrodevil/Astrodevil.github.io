@@ -1,5 +1,6 @@
-[![Hire me for technical writing](https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red)](https://twitter.com/messages/1138660957670895617-1396521837677268996)
+[![Hire me for technical writing](https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red)](https://twitter.com/astrodevil_)
 [![Shop from my gumroad store](https://img.shields.io/badge/Shop%20from-my%20Gumroad%20Store-blue)](https://astrodevil.gumroad.com/)
+
 
 ### Paid articles For Others🤝🏼
 [**flycode**](https://www.flycode.com/)
@@ -26,4 +27,6 @@
 
 ### Featured On [GirlScript Summer of Code Blog](https://gssoc.girlscript.tech/blog)🔥
 
-[![Buy Me a Coffee at ko-fi.com](https://cdn.ko-fi.com/cdn/kofi6.png?v=3)](https://ko-fi.com/astrodevil)
+[![Buy Me a Coffee at ko-fi.com](https://cdn.ko-fi.com/cdn/kofi1.png?v=3)](https://ko-fi.com/astrodevil)
+
+*****

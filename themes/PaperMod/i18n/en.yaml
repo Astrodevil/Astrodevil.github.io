@@ -23,3 +23,8 @@
 
 - id: code_copied
   translation: "copied!"
+
+- id: words
+  translation:
+    one : "word"
+    other: "{{ .Count }} words"

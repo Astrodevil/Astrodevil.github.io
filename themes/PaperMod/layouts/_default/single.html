@@ -48,6 +48,10 @@
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}
+    <div style="display: flex; justify-content: center; border-radius: 15px; overflow: hidden;">
+      <iframe src="https://zerooctave.substack.com/embed" width="720" height="300" style="border:1px solid #ffffff; background:rgb(253, 253, 253);" frameborder="0" scrolling="no"></iframe>
+    </div>
+    
     {{- if (and .Site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
     {{- partial "share_icons.html" . -}}
     {{- end }}

@@ -1,3 +1,7 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/hugo-shortcodes"]
+	path = themes/hugo-shortcodes
+	url = https://github.com/isqua/hugo-shortcodes.git
+	branch = theme

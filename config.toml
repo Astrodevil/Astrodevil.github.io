@@ -1,7 +1,7 @@
 baseURL = 'https://mranand.com/'
 languageCode = 'en-us'
 title = 'Mr. Ånand'
-theme = 'PaperMod'
+theme = [ 'PaperMod', 'hugo-shortcodes' ]
 
 
 enableRobotsTXT = true
@@ -18,8 +18,9 @@ minifyOutput = true
 env = "production"
 ShowShareButtons = true
 ShowCodeCopyButtons = true
+ShowFullTextinRSS = true
 # comments = true
-defaultTheme = "auto"
+defaultTheme = "dark"
 description = "Tech blogger from India. Open-Source and Self-Learning. Love to create different types of content. Student | Content Creator | Explorer and Learner"
 keywords = [ "Blogger", "India", "Selflearning", "Blog", "Portfolio", "PaperMod", "GitHub", "open source", "JavaScript", "Astrodevil", "Content", "Developers", "100Daysofcode", "codesastro", "Webdevelopment", "Student", "Web3", "Programming", "Coding", "Technicalwriter", "Creator", "mranand", "Mr. Ånand", "Amitesh", "Amitesh Anand", "Programming", "Tutorial", "Books", "Project", "Hugo" ]
 
@@ -71,10 +72,22 @@ url = "/gallery/"
 weight = 50
 
 [[menu.main]]
+identifier = "E-Book"
+name = "E-Books"
+url = "/E-books/"
+weight = 60
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 70
+
+[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 60
+weight = 80
 
 
 
@@ -83,6 +96,7 @@ weight = 60
 enabled = true
 title = "Mr. Ånand"
 subtitle = "Student | Content Creator | Explorer and Learner"
+subtitle1 = "CSE Undergraduate👨🏼‍💻 | Blogger✍🏼"
 imageUrl = "https://cdn.bio.link/uploads/profile_pictures/2021-12-17/rIgWZLgFZMi84ZKzAZ2Rw3K2PbIJ5PJk.png"
 imageTitle = "Mr. Ånand"
 imageWidth = 120
@@ -95,13 +109,15 @@ imageHeight = 120
   url = "https://bio.link/astrodevil"
 [[params.profileMode.buttons]]
   name = "Newsletter"
-  url = "https://tally.so/r/3jep7Q"
+  url = "https://zerooctave.substack.com/"
 [[params.profileMode.buttons]]
   name = "Resume"
   url = "https://drive.google.com/file/d/1zC81LO5XOmLDd7KhCJlsM96w1J4HaEcw/view?usp=sharing"
 
 
-
+[params.HugoShortcodes.Gumroad]
+    Host = 'https://astrodevil.gumroad.com'
+#    Affiliate = '123456789'
 
 [analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -111,6 +127,7 @@ SiteVerificationTag = "F5A3921E8BDE49E6E1D5718A318B8C2B"
 
 [analytics.yandex]
 SiteVerificationTag = "XYZabc"
+
 
 [[params.socialIcons]]
 name = "twitter"
@@ -128,10 +145,13 @@ url = "https://www.instagram.com/codes.astro/"
 name = "github"
 url = "https://github.com/Astrodevil"
 
-
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/amitesh1208/"
+
+[[params.socialIcons]]
+name = "RSS"
+url = "/index.xml"
 
 [taxonomies]
    series = "series"

@@ -1,1 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>wrap on Mr. Ånand</title><link>https://mranand.com/tags/wrap/</link><description>Recent content in wrap on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 16:52:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/wrap/index.xml" rel="self" type="application/rss+xml"/><item><title>Astrodevil's 2022 Wrapped: Dev Retro 2022</title><link>https://mranand.com/blogs/astrodevil-year-wrap-dev-retro/</link><pubDate>Mon, 12 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/astrodevil-year-wrap-dev-retro/</guid><description>Dev Retro 2022</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>wrap on Mr. Ånand</title><link>https://mranand.com/tags/wrap/</link><description>Recent content in wrap on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 16:52:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/wrap/index.xml" rel="self" type="application/rss+xml"/><item><title>Astrodevil's 2022 Wrapped: Dev Retro 2022</title><link>https://mranand.com/blogs/astrodevil-year-wrap-dev-retro/</link><pubDate>Mon, 12 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/astrodevil-year-wrap-dev-retro/</guid><description>Dev Retro 2022</description><content:encoded><![CDATA[<p>Hey Folks! Long time no see. <strong>2022</strong> is going to end in a few days. In this article, I am going to talk about myself, what I achieved, and my failures this year.</p>
+<p>**2023 is already knocking at the doors!**🎅🏼</p>
+<p>It&rsquo;s time to celebrate the past year&rsquo;s achievements and learn from the mistakes of 2022. Thanks to Hashnode for organizing the <strong>&ldquo;Dev Retro 2022&rdquo;</strong> campaign.</p>
+<h2 id="achievements">Achievements🎉</h2>
+<h3 id="blogs">Blogs</h3>
+<p>Published 6 Articles on my <strong>Blog</strong> this year. Not a great number but I am happy with not quitting due to lack of ideas and time.</p>
+<p>Writing is something that made me explore things I didn&rsquo;t even think of. Tech Twitter has changed my life very much, So much to learn from there, seeing good folks there and learning from them is great. Sometimes article ideas just come from Twitter and a little bit of research is over the top of it.</p>
+<p><em><strong>Here are my 6 Articles written in 2022, You can check them:</strong></em></p>
+<ul>
+<li>
+<p><a href="https://astrodevil.hashnode.dev/15-recommended-books-for-computer-science-students">15 Recommended Books For Computer Science Students</a></p>
+</li>
+<li>
+<p><a href="https://astrodevil.hashnode.dev/make-your-github-profile-standout-to-attract-better-opportunities">Make Your GitHub Profile Standout To Attract Better Opportunities</a></p>
+</li>
+<li>
+<p><a href="https://astrodevil.hashnode.dev/some-useful-github-repositories-to-enhance-your-web3-skills">Some Useful GitHub Repositories To Enhance Your Web3 Skills</a></p>
+</li>
+<li>
+<p><a href="https://astrodevil.hashnode.dev/learn-and-explore-low-code-no-code-stack-by-involving-in-these-communities">Learn and Explore Low-Code / No-Code Stack by Involving in These Communities</a></p>
+</li>
+<li>
+<p><a href="https://astrodevil.hashnode.dev/hacktoberfest-2022-win-swags-for-quality-contributions">Hacktoberfest 2022: Win Swags for Quality Contributions</a></p>
+</li>
+<li>
+<p><a href="https://astrodevil.hashnode.dev/creating-personal-blog-with-hugo-and-netlify">Creating Personal Blog With Hugo and Netlify</a></p>
+</li>
+</ul>
+<h3 id="open-source-contributions">Open Source Contributions</h3>
+<p>Participated in <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code 2022</a> as a project admin and helped fellow contributors to get into open source while collaborating on a web development-based repository containing more than 100 mini projects.</p>
+<p>You can check out the repository in this GitHub <a href="https://github.com/ZeroOctave">organization</a></p>
+<h3 id="opportunities--rewards">Opportunities &amp; Rewards</h3>
+<p>I got a paid guest writer role from a no-code platform due to my blogs. It&rsquo;s a thing that I never thought of a year back. But after this, I am more confident in my writing than I ever was.</p>
+<p>I also got nominated for <strong>&quot;</strong><a href="https://www.noonies.tech/"><strong>THE NOONIES 2022</strong></a><strong>&quot;</strong> in 4 categories out of which I am the runner-up for 3 categories. <strong>THE NOONIES</strong> is a tech award given by <a href="https://hackernoon.com/"><strong>Hackernoon</strong></a> each year to bloggers and creators from different categories.</p>
+<p><strong>Check it out here:</strong></p>
+<ul>
+<li>
+<p><a href="https://www.noonies.tech/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-books">HackerNoon Contributor of the Year- BOOKS</a></p>
+</li>
+<li>
+<p><a href="https://www.noonies.tech/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-job-hunting">HackerNoon Contributor of the Year- JOB-HUNTING</a></p>
+</li>
+<li>
+<p><a href="https://www.noonies.tech/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-developer">HackerNoon Contributor of the Year- DEVELOPER</a></p>
+</li>
+<li>
+<p><a href="https://www.noonies.tech/2022/programming/2022-hackernoon-contributor-of-the-year-github">HackerNoon Contributor of the Year- GitHub</a></p>
+</li>
+</ul>
+<h2 id="failures">Failures🚨</h2>
+<p>Honestly, I am not happy with my 2022 work and learning.</p>
+<p>Not finishing what I started to learn, be it DSA or Web development. Not written as many blogs as I planned a year back. Lots of mismanagement happened due to shifts in my college work. I had online classes till the first half of 2022 and after that, I got to attend offline classes. this messed up my whole planning and I wasn&rsquo;t able to manage it well.</p>
+<p>Mistakes are never meant to be repeated and I am keeping them in check from now on. Offline classes and semester exams had taken lots of time and mismanagement adds fire to that. I can&rsquo;t repeat these mistakes in 2023. I didn&rsquo;t compete for my bigger goal this year.</p>
+<h2 id="2023-goals">2023 Goals🎯</h2>
+<p>I am not aiming too high for the next year&hellip;</p>
+<ul>
+<li>
+<p>Just want to finish what I started to learn.</p>
+</li>
+<li>
+<p>Will contribute to open source on a more regular basis.</p>
+</li>
+<li>
+<p>Writing articles more often.</p>
+</li>
+<li>
+<p>Finding Internships or Technical writing opportunities.</p>
+</li>
+</ul>
+<h2 id="wrap">Wrap🧵</h2>
+<p>It&rsquo;s time to learn from mistakes than get into repentance. This time with proper time management. I know now that my classes are offline and learning will be planned accordingly. My Internship season is approaching soon and I have to be ready for that. Lots of things to be achieved but have to go one step at a time.</p>
+<p>I am going to be more active this time on Twitter and will continue to load my Instagram with lots of Tech content. Will be learning &amp; creating content in public.</p>
+<p>Lots of good content in 2023!👍🏼</p>
+<p><strong>🫱🏼‍🫲🏼Let&rsquo;s Connect</strong></p>
+<p><a href="https://www.showwcase.com/astrodevil?referralToken=diy00cbqnih">Showwcase</a> &mdash; <a href="https://www.instagram.com/codes.astro/">Instagram</a></p>
+<p><strong>How was yours? Let me know in the comments!</strong></p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item></channel></rss>

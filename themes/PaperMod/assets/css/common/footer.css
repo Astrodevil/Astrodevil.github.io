@@ -10,6 +10,7 @@
     padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
     text-align: center;
     line-height: 24px;
+    
 }
 
 .footer span {
@@ -42,6 +43,11 @@
     padding: 12px;
     border-radius: 64px;
     transition: visibility 0.5s, opacity 0.8s linear;
+    background: linear-gradient(#d6d4d4,#ffffff)padding-box,linear-gradient(to right,#be09eb,#0b9fe8)border-box;
+    border: 3px solid transparent;
+}
+.dark .top-link {
+    background: linear-gradient(var(--tertiary),var(--tertiary))padding-box,linear-gradient(to right,#450155,#014B72)border-box;
 }
 
 .top-link,

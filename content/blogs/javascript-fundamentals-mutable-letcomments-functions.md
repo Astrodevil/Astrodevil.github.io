@@ -23,11 +23,12 @@ disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
+ShowWordCount: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowShareButtons: true
 cover:
-    image: "https://blog.mranand.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671172042203%2FYUKkdL1us.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=3840&q=75" # image path/url
+    image: "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0AlaWdc8ZDsKrqwI-ypK8g.png" # image path/url
     alt: "Astrodevil" # alt text
     caption: "Photo By Mr. Ånand" # display caption under cover
     relative: false # when using page bundles set this to true

@@ -1,2 +1,985 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>webdevelopment on Mr. Ånand</title><link>https://mranand.com/tags/webdevelopment/</link><description>Recent content in webdevelopment on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 16:52:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/webdevelopment/index.xml" rel="self" type="application/rss+xml"/><item><title>JavaScript Fundamentals: Objects</title><link>https://mranand.com/blogs/javascript-fundamentals-objects/</link><pubDate>Tue, 03 Jan 2023 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-objects/</guid><description>Day 13 of #100DaysOfCode</description></item><item><title>JavaScript Fundamentals: Arrays</title><link>https://mranand.com/blogs/javascript-fundamentals-arrays/</link><pubDate>Thu, 29 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-arrays/</guid><description>Day 10, 11 &amp;amp; 12 of #100DaysOfCode</description></item><item><title>JavaScript Fundamentals: String Looping, Index Of and Slicing Strings</title><link>https://mranand.com/blogs/javascript-fundamentals-string-looping-index-of-and-slicing-strings/</link><pubDate>Sun, 25 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-string-looping-index-of-and-slicing-strings/</guid><description>Day 9 of #100DaysOfCode</description></item><item><title>JavaScript Fundamentals: String Manipulation</title><link>https://mranand.com/blogs/javascript-fundamentals-string-manipulation/</link><pubDate>Fri, 23 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-string-manipulation/</guid><description>Day 8 of #100DaysOfCode</description></item><item><title>JavaScript Fundamentals: While Loop, Break and Questions for Practice</title><link>https://mranand.com/blogs/javascript-fundamentals-while-loop-break-and-questions-for-practice/</link><pubDate>Thu, 22 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-while-loop-break-and-questions-for-practice/</guid><description>Day 7 of #100DaysOfCode</description></item><item><title>JavaScript Fundamentals: For Loop and Modulus Operator</title><link>https://mranand.com/blogs/javascript-fundamentals-for-loop-and-modulus-operator/</link><pubDate>Wed, 21 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-for-loop-and-modulus-operator/</guid><description>Day 6 of #100DaysOfCode</description></item><item><title>JavaScript Fundamentals: Conditionals</title><link>https://mranand.com/blogs/javascript-fundamentals-conditionals/</link><pubDate>Mon, 19 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-conditionals/</guid><description>Day 5 of #100DaysOfCode</description></item><item><title>JavaScript Fundamentals: Math Object</title><link>https://mranand.com/blogs/javascript-fundamentals-math-object/</link><pubDate>Sun, 18 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-math-object/</guid><description>Day 4 of #100DaysOfCode</description></item><item><title>JavaScript Fundamentals: Parameters, Arguments and Operators</title><link>https://mranand.com/blogs/javascript-fundamentals-parameters-arguments-and-operators/</link><pubDate>Sat, 17 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-parameters-arguments-and-operators/</guid><description>Day 3 of #100DaysOfCode</description></item><item><title>JavaScript Fundamentals: Mutable let,Comments, Functions</title><link>https://mranand.com/blogs/javascript-fundamentals-mutable-letcomments-functions/</link><pubDate>Fri, 16 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-mutable-letcomments-functions/</guid><description>Day 2 of #100DaysOfCode</description></item><item><title>JavaScript Fundamentals: Number Variable, Multiple Variables, Booleans, Strings</title><link>https://mranand.com/blogs/javascript-fundamentals-number-variable-multiple-variables-booleans-strings/</link><pubDate>Thu, 15 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-number-variable-multiple-variables-booleans-strings/</guid><description>Day 1 of #100DaysOfCode</description></item><item><title>25 Must-Visit Killer Websites For Developers</title><link>https://mranand.com/blogs/25-must-visit-killer-websites-for-developers/</link><pubDate>Sat, 01 Jan 2022 17:31:05 +0530</pubDate><guid>https://mranand.com/blogs/25-must-visit-killer-websites-for-developers/</guid><description>There are so many websites to make the work of developers easier. Everyone doesn&amp;#39;t know all. In this article, we will see 25 Must-Visit Killer Websites For Developers.
-90% of developers don’t know about these websites</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>webdevelopment on Mr. Ånand</title><link>https://mranand.com/tags/webdevelopment/</link><description>Recent content in webdevelopment on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 16:52:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/webdevelopment/index.xml" rel="self" type="application/rss+xml"/><item><title>JavaScript Fundamentals: Objects</title><link>https://mranand.com/blogs/javascript-fundamentals-objects/</link><pubDate>Tue, 03 Jan 2023 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-objects/</guid><description>Day 13 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 13th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
+<p>I write about my learnings in an explained way through my <a href="https://astrodevil.hashnode.dev/">blogs</a> and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
+<p>This Article is a part of the <a href="https://blog.mranand.com/series/js-fundamentals">JavaScript Fundamentals</a> series.</p>
+<h3 id="objects">Objects</h3>
+<p>In JavaScript, almost &ldquo;everything&rdquo; is an object. JavaScript objects start with an open curly-brace <code>{</code> and end with a closed curly brace <code>}</code>. It contains key-value pairs in between these braces.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">team</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">name</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;India&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">wins</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">91</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">inFinals</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>};
+</span></span></code></pre></div><p>In above object <code>team</code>, we have three keys: <code>name</code>, <code>wins</code> and <code>inFinals</code>. The value associated with <code>name</code> is <code>&quot;India&quot;</code>, with <code>wins</code> is <code>86</code> and with <code>inFinals</code> is <code>true</code>.</p>
+<p><strong>Example:</strong> Let&rsquo;s create an object representing a pizza order! In the <code>order</code> object, add the following three keys with values accordingly:</p>
+<p><code>pizzas</code> - Any number greater than zero.</p>
+<p><code>extraCheese</code> - A boolean. Either <code>true</code> or <code>false</code>.</p>
+<p><code>deliveryInstructions</code> - Any string of instructions.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">order</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">pizzas</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">5</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">extraCheese</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">deliveryInstructions</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;Keep it medium&#34;</span>,
+</span></span><span style="display:flex;"><span>};
+</span></span></code></pre></div><h3 id="retrieve-values">Retrieve Values</h3>
+<p>Now we will retrieve values from object. From the given code, If we wanted to retrieve the name of the team, we can do this in two ways:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">team</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">name</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;India&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">wins</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">91</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">inFinals</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>};
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#a6e22e">team</span>.<span style="color:#a6e22e">name</span> ); <span style="color:#75715e">// India
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#a6e22e">team</span>[<span style="color:#e6db74">&#39;name&#39;</span>] ); <span style="color:#75715e">// India
+</span></span></span></code></pre></div><p>Brackets <code>[]</code> or <code>.</code> property accessor operator can be used, similar to arrays!</p>
+<h3 id="array-of-objects">Array of Objects</h3>
+<p>Now, we will see what happens if we put objects inside arrays and vice versa.</p>
+<p>Let&rsquo;s take our team example again:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">team</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">name</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;India&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">wins</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">91</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">inFinals</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>};
+</span></span></code></pre></div><p>What if we have multiple teams:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">teams</span> <span style="color:#f92672">=</span> [<span style="color:#a6e22e">India</span>, <span style="color:#a6e22e">Australia</span>, <span style="color:#a6e22e">England</span>];
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">teams</span>.<span style="color:#a6e22e">length</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#a6e22e">teams</span>[<span style="color:#a6e22e">i</span>].<span style="color:#a6e22e">name</span>); 
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>This example loops over each team and logs out the name of each team.</p>
+<p><strong>Example:</strong> Given an array of pizza orders, return the total number of pizzas ordered. The <code>orders</code> are an array of objects, each with <code>pizzas</code> key inside.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">numberOfPizzas</span>(<span style="color:#a6e22e">orders</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">total</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">orders</span>.<span style="color:#a6e22e">length</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">total</span> <span style="color:#f92672">+=</span> <span style="color:#a6e22e">orders</span>[<span style="color:#a6e22e">i</span>].<span style="color:#a6e22e">pizzas</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">total</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="enumerated-types">Enumerated Types</h3>
+<p>When numbers are defined, code is easier to read and maintain. Consider the following instance:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">card</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">suit</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">1</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">value</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">5</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Spades, Clubs, Hearts, and Diamond cards are suits.</p>
+<p>What is the <code>suit</code> of this card? We are aware that the value is <code>1</code>, but what does that actually mean? Let&rsquo;s define <code>CARD_SUITS</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">CARD_SUITS</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">DIAMONDS</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">0</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">HEARTS</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">1</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">SPADES</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">2</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">CLUBS</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">3</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>We can identify our card <code>suit</code> by using this object:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">card</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">suit</span><span style="color:#f92672">:</span> <span style="color:#a6e22e">CARD_SUITS</span>.<span style="color:#a6e22e">HEARTS</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">value</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">5</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>It only needs to be changed once in <code>CARD_SUITS</code> if we ever wish to change which suit belongs to which value. This type of object is commonly referred to as an Enumeration.</p>
+<p><strong>Example:</strong> Let&rsquo;s create an enumeration like <code>CARD_SUITS</code> above. Our enumeration will be named <code>ORDER_TYPES</code> and describe the different types of orders that are possible in our system. The first type should be <code>PIZZA,</code> with a value of <code>0</code>. After that, create at least 2 more options of your choice!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">ORDER_TYPES</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">PIZZA</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">0</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">WINGS</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">1</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">SALAD</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">2</span>,
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="importing-files">Importing Files</h3>
+<p>Let&rsquo;s import the <code>ORDER_TYPES</code> we just created into <code>numberOfPizzas.js</code>.</p>
+<p>We can use <code>require</code> to pull in the exports from <code>orderType.js</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">ORDER_TYPES</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">require</span>(<span style="color:#e6db74">&#39;./orderTypes&#39;</span>);
+</span></span></code></pre></div><p><strong>Example:</strong> Modify the <code>numberOfPizzas</code> function to only count pizzas when the <code>order.type</code> is equal to <code>ORDER_TYPES.PIZZA</code>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#75715e">// orderTypes.js
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">ORDER_TYPES</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">PIZZA</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">0</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">WINGS</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">1</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">SALAD</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">2</span>,
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#75715e">// numberOfPizzas.js
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">ORDER_TYPES</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">require</span>(<span style="color:#e6db74">&#39;./orderTypes&#39;</span>);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">numberOfPizzas</span>(<span style="color:#a6e22e">orders</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">total</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">orders</span>.<span style="color:#a6e22e">length</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">orders</span>[<span style="color:#a6e22e">i</span>].<span style="color:#a6e22e">type</span> <span style="color:#f92672">===</span> <span style="color:#a6e22e">ORDER_TYPES</span>.<span style="color:#a6e22e">PIZZA</span>) {
+</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">total</span> <span style="color:#f92672">+=</span> <span style="color:#a6e22e">orders</span>[<span style="color:#a6e22e">i</span>].<span style="color:#a6e22e">pizzas</span>;
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">total</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="number-of-keys">Number of Keys</h3>
+<p>There are a few approaches to obtaining every key in an object. To iterate across all properties, we can use the <code>in</code> operator:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">object</span> <span style="color:#f92672">=</span> { <span style="color:#a6e22e">a</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">1</span>, <span style="color:#a6e22e">b</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">2</span>, <span style="color:#a6e22e">c</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">3</span> } 
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">key</span> <span style="color:#66d9ef">in</span> <span style="color:#a6e22e">object</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#a6e22e">key</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>After 3 iterations this will log <code>a</code>, <code>b</code> and <code>c</code> which are the keys of <code>object</code>. We can use some methods on <code>object</code> that will return an array of that data.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">object</span> <span style="color:#f92672">=</span> { <span style="color:#a6e22e">a</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">1</span>, <span style="color:#a6e22e">b</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">2</span>, <span style="color:#a6e22e">c</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">3</span> } 
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( Object.<span style="color:#a6e22e">keys</span>(<span style="color:#a6e22e">object</span>) ); <span style="color:#75715e">// [&#39;a&#39;, &#39;b&#39;, &#39;c&#39;]
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( Object.<span style="color:#a6e22e">values</span>(<span style="color:#a6e22e">object</span>) ); <span style="color:#75715e">// [1, 2, 3]
+</span></span></span></code></pre></div><p><strong>Example:</strong> Given an object, find the number of keys inside the object. Return this number.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">numberOfKeys</span>(<span style="color:#a6e22e">object</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> Object.<span style="color:#a6e22e">keys</span>(<span style="color:#a6e22e">object</span>).<span style="color:#a6e22e">length</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="edit-object-values">Edit Object Values</h3>
+<p>We can also edit values in an object.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">person</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">name</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;Sohan&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">age</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">21</span>
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">person</span>.<span style="color:#a6e22e">name</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Rohan&#34;</span>;
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">person</span>[<span style="color:#e6db74">&#34;age&#34;</span>] <span style="color:#f92672">=</span> <span style="color:#ae81ff">40</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#a6e22e">person</span>.<span style="color:#a6e22e">name</span> ); <span style="color:#75715e">// Rohan
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#a6e22e">person</span>.<span style="color:#a6e22e">age</span> ); <span style="color:#75715e">// 40
+</span></span></span></code></pre></div><p>In retrieval, we can use the <code>.</code> or <code>[]</code> notation. We can also remove keys completly.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">person</span> <span style="color:#f92672">=</span> { 
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">name</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;Tom&#34;</span>
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">delete</span> <span style="color:#a6e22e">person</span>.<span style="color:#a6e22e">name</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#a6e22e">person</span>.<span style="color:#a6e22e">name</span> ); <span style="color:#75715e">// undefined
+</span></span></span></code></pre></div><h3 id="modify-object">Modify Object</h3>
+<p>In JavaScript, objects are passed by reference. We can write functions to modify objects.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">modify</span>(<span style="color:#a6e22e">object</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">object</span>.<span style="color:#a6e22e">message</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Hello World&#34;</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Let&rsquo;s create an object and pass it to the above function:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">store</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">name</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;Star Eleven&#34;</span> 
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">modify</span>(<span style="color:#a6e22e">store</span>);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#a6e22e">store</span>.<span style="color:#a6e22e">message</span>); <span style="color:#75715e">// Hello World
+</span></span></span></code></pre></div><p>The <code>object</code> argument within the <code>modify</code> method is referencing the same memory as the <code>store</code>. Passing by reference is defined as this.</p>
+<p>The <code>object</code> gets updated everywhere it is referenced when it is updated using the <code>modify</code> function.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Ending with an extra bit of information about JavaScript&hellip;</p>
+<p>A JavaScript object is a state-and-behaviour-containing entity (properties and method). Examples include a car, pen, bicycle, chair, glass, keyboard, and monitor. JavaScript is an object-based language. In JavaScript, everything is an object. JavaScript relies on templates rather than classes. To obtain the object in this case, no class is created. But we deliberately make objects.</p>
+<p>It is always a good idea to be careful about modifying objects directly! The function is modifying something outside of its scope, potentially leading to unexpected consequences!</p>
+<p><strong>Today I learned about Objects in JavaScript.</strong></p>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>JavaScript Fundamentals: Arrays</title><link>https://mranand.com/blogs/javascript-fundamentals-arrays/</link><pubDate>Thu, 29 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-arrays/</guid><description>Day 10, 11 &amp;amp; 12 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 12th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
+<p>I write about my learnings in an explained way through my <a href="https://astrodevil.hashnode.dev/">blogs</a> and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
+<p>This Article is a part of the <a href="https://astrodevil.hashnode.dev/series/js-fundamentals">JavaScript Fundamentals</a> series.</p>
+<h3 id="arrays">Arrays</h3>
+<p>In JavaScript, we use arrays to store a list of elements. An array starts with an open square bracket <code>[</code> and ends with a closed square bracket <code>]</code>. The elements inside the array are separated by a comma <code>,</code>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">numbers</span> <span style="color:#f92672">=</span> [<span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">4</span>];
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">booleans</span> <span style="color:#f92672">=</span> [<span style="color:#66d9ef">true</span>, <span style="color:#66d9ef">false</span>, <span style="color:#66d9ef">true</span>];
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">strings</span> <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;happy&#34;</span>, <span style="color:#e6db74">&#34;laugh&#34;</span>];
+</span></span></code></pre></div><p>Arrays are mutable means they can be changed. In JavaScript, arrays are objects and can hold multiple values under a single name. Arrays can be stored under arrays, referred to as a nested array.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">nested</span> <span style="color:#f92672">=</span> [[<span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>, [<span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>]], <span style="color:#ae81ff">3</span>];
+</span></span></code></pre></div><p>While we are iterating over an array, we can keep a running value. We might do this for a variety of reasons. If we wanted to determine the average of several numbers.👇🏼</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">result</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">average</span>([<span style="color:#ae81ff">80</span>,<span style="color:#ae81ff">90</span>,<span style="color:#ae81ff">98</span>,<span style="color:#ae81ff">100</span>]); 
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#a6e22e">result</span> ); <span style="color:#75715e">// 92
+</span></span></span></code></pre></div><p><strong>Example:</strong> Given an array, find the sum of all even values inside the array and return it.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">sumEven</span>(<span style="color:#a6e22e">array</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">sum</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">array</span>.<span style="color:#a6e22e">length</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>){
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">array</span>[<span style="color:#a6e22e">i</span>] <span style="color:#f92672">%</span> <span style="color:#ae81ff">2</span> <span style="color:#f92672">===</span> <span style="color:#ae81ff">0</span>){
+</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">sum</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">sum</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">array</span>[<span style="color:#a6e22e">i</span>]
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>            }
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">sum</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="array-indexing">Array Indexing</h3>
+<p>Arrays have zero-based indexes just like strings. This means that the first element in the array is at the index <code>0</code>, then 1:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">element</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">array</span>[<span style="color:#ae81ff">0</span>];
+</span></span></code></pre></div><p><strong>Example:</strong> Complete the function <code>hasOne</code> which takes in an array of numbers. Return <code>true</code> if any of the numbers in the <code>array</code> are <code>1</code>. Return <code>false</code> if not.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">hasOne</span>(<span style="color:#a6e22e">array</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span><span style="color:#f92672">=</span><span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">&lt;</span><span style="color:#a6e22e">array</span>.<span style="color:#a6e22e">length</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>){
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">array</span>[<span style="color:#a6e22e">i</span>] <span style="color:#f92672">===</span> <span style="color:#ae81ff">1</span>){
+</span></span><span style="display:flex;"><span>            <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">true</span>;
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">false</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="return-new-array">Return New Array</h3>
+<p>When formulating a function to filter an array, we can make a fresh array and insert the elements there whenever they meet our condition.</p>
+<p>Let&rsquo;s imagine we wish to limit the numbers that an array returns to those that are bigger than 4:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">greaterThanFour</span>(<span style="color:#a6e22e">array</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">newArray</span> <span style="color:#f92672">=</span> [];
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">array</span>.<span style="color:#a6e22e">length</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">element</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">array</span>[<span style="color:#a6e22e">i</span>];
+</span></span><span style="display:flex;"><span>        <span style="color:#75715e">// is this element greater than 4?
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">element</span> <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">4</span>) {
+</span></span><span style="display:flex;"><span>            <span style="color:#75715e">// yes, push this element on our array
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>            <span style="color:#a6e22e">newArray</span>.<span style="color:#a6e22e">push</span>(<span style="color:#a6e22e">element</span>);
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">newArray</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Here, we&rsquo;re making a new array and adding elements from the <code>array</code> to it only if they are greater than 4 to our <code>newArray</code>. The new array is then returned. <code>push</code> method adds new elements to the array.</p>
+<p><strong>Example:</strong> Write a function that will take an array of numbers and return a new array that only contains unique numbers.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">unique</span>(<span style="color:#a6e22e">array</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">newArray</span> <span style="color:#f92672">=</span> [];
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">array</span>.<span style="color:#a6e22e">length</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">element</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">array</span>[<span style="color:#a6e22e">i</span>];
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">newArray</span>.<span style="color:#a6e22e">indexOf</span>(<span style="color:#a6e22e">element</span>) <span style="color:#f92672">===</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>) {
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// indexOf method was learned in previous tutorial
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>            <span style="color:#a6e22e">newArray</span>.<span style="color:#a6e22e">push</span>(<span style="color:#a6e22e">element</span>);
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">newArray</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="modify-array-values">Modify Array Values</h3>
+<p>Using square brackets like <code>array[0]</code>, we have learned how to read values from arrays. Similarly, we can use the assignment operator <code>=</code> to assign new values to those places.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">array</span> <span style="color:#f92672">=</span> [<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">2</span>,<span style="color:#ae81ff">3</span>];
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">array</span>[<span style="color:#ae81ff">0</span>] <span style="color:#f92672">=</span> <span style="color:#ae81ff">6</span>;
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#a6e22e">array</span>); <span style="color:#75715e">// [6,2,3]
+</span></span></span></code></pre></div><p><strong>Example:</strong> Complete the <code>addOne</code> function to add <code>1</code> to every element within the array. Since we are modifying the array directly do not return it.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">addOne</span>(<span style="color:#a6e22e">array</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">array</span>.<span style="color:#a6e22e">length</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">array</span>[<span style="color:#a6e22e">i</span>]<span style="color:#f92672">++</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="modify-array">Modify Array</h3>
+<p>Let&rsquo;s modify an array to filter it! <code>splice</code> method is used for removing elements from an array. Let&rsquo;s use <code>splice</code> to remove elements that are greater than <code>1</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">array</span> <span style="color:#f92672">=</span> [<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">2</span>,<span style="color:#ae81ff">3</span>];
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">array</span>.<span style="color:#a6e22e">length</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">array</span>[<span style="color:#a6e22e">i</span>] <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">1</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">array</span>.<span style="color:#a6e22e">splice</span>(<span style="color:#a6e22e">i</span>, <span style="color:#ae81ff">1</span>);
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#a6e22e">array</span>); <span style="color:#75715e">// [1, 3]
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// This is a Bug🐛
+</span></span></span></code></pre></div><p>You must be wondering, why <code>console.log</code> showing <code>1</code> and <code>3</code> even after splicing elements greater than <code>1</code>. Let&rsquo;s see:</p>
+<p><strong>Iteration 1:</strong> The index points at the element <code>1</code>. We do not splice <code>1</code> because it is not greater than <code>1</code>. Works fine! <code>i=0</code></p>
+<p><strong>Iteration 2:</strong> We find that <code>2</code> is greater than <code>1</code> so we splice at index <code>1</code>. Works fine! <code>i=1</code></p>
+<p><strong>Final Iteration:</strong> Array length is <code>2</code> and <code>i=2</code>. Loop condition is that <code>i &lt; array.length</code>, so there are no further iterations at this point. We never removed <code>3</code>!</p>
+<ul>
+<li><strong>Fix🔥</strong></li>
+</ul>
+<p>By counting backwards.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">array</span> <span style="color:#f92672">=</span> [<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">2</span>,<span style="color:#ae81ff">3</span>];
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">array</span>.<span style="color:#a6e22e">length</span> <span style="color:#f92672">-</span> <span style="color:#ae81ff">1</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&gt;=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">--</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">array</span>[<span style="color:#a6e22e">i</span>] <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">1</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">array</span>.<span style="color:#a6e22e">splice</span>(<span style="color:#a6e22e">i</span>, <span style="color:#ae81ff">1</span>);
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#a6e22e">array</span>); <span style="color:#75715e">// [1]
+</span></span></span></code></pre></div><p><strong>Iteration 1:</strong> Starting from end, we remove <code>3</code> because it is greater than <code>1</code> . Works fine! <code>i=2</code></p>
+<p><strong>Iteration 2:</strong> Let&rsquo;s move the index <code>i</code> to <code>1</code> . 2 will be removed by splicing at index <code>1</code> . Works fine! <code>i=1</code></p>
+<p><strong>Final Iteration:</strong> <code>1</code> is not greater than <code>1</code>, so we do not splice it. We are left with <code>[1]</code> in our array, as expected!</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
+<p>JavaScript does not care if we modify a value inside the data structure when the word <code>const</code> is used with an object or an array. Arrays are objects, so you may also include arrays while discussing an object&rsquo;s characteristics.</p>
+<p><strong>Today I learned about Arrays in JavaScript.</strong></p>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>JavaScript Fundamentals: String Looping, Index Of and Slicing Strings</title><link>https://mranand.com/blogs/javascript-fundamentals-string-looping-index-of-and-slicing-strings/</link><pubDate>Sun, 25 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-string-looping-index-of-and-slicing-strings/</guid><description>Day 9 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 9th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
+<p>I write about my learnings in an explained way through my <a href="https://astrodevil.hashnode.dev/">blogs</a> and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
+<p>This Article is a part of the <a href="https://astrodevil.hashnode.dev/series/js-fundamentals">JavaScript Fundamentals</a> series.</p>
+<h3 id="string-looping">String Looping</h3>
+<p>Strings are really simple to loop through. We learned how to retrieve characters by using the <code>.length</code> property and <code>[]</code>.</p>
+<p>So how can we loop over strings using these?</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">string</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Hello&#34;</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">string</span>.<span style="color:#a6e22e">length</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#a6e22e">string</span>[<span style="color:#a6e22e">i</span>]);
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>It will log: <code>H</code>, <code>e</code>, <code>l</code>, <code>l</code>, <code>o</code> in that order after each iteration.</p>
+<p><strong>Example:</strong> Complete the function <code>isAllX</code> to determine if the <strong>entire string</strong> is made of lower-case <code>x</code> or upper-case <code>X</code>. Return <code>true</code> if they are, <code>false</code> if not.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">isAllX</span>(<span style="color:#a6e22e">string</span>) {
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">string</span>.<span style="color:#a6e22e">length</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>){
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">string</span>[<span style="color:#a6e22e">i</span>].<span style="color:#a6e22e">toLowerCase</span>() <span style="color:#f92672">!==</span> <span style="color:#e6db74">&#34;x&#34;</span>){
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">false</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">return</span> <span style="color:#66d9ef">true</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="index-of">Index Of</h3>
+<p>In the previous section, we learned to look up a character by <code>index</code>. Now, is the time to find the <code>index</code> of a specific string.</p>
+<p><code>indexOf</code> method is used to find the <strong>first</strong> index of a string.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#e6db74">&#34;Hello&#34;</span>.<span style="color:#a6e22e">indexOf</span>(<span style="color:#e6db74">&#34;e&#34;</span>); <span style="color:#75715e">// 1
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#e6db74">&#34;abc&#34;</span>.<span style="color:#a6e22e">indexOf</span>(<span style="color:#e6db74">&#34;q&#34;</span>); <span style="color:#75715e">// -1 
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#e6db74">&#34;happy man dance&#34;</span>.<span style="color:#a6e22e">indexOf</span>(<span style="color:#e6db74">&#34;man&#34;</span>); <span style="color:#75715e">// 6
+</span></span></span></code></pre></div><p>Both single characters and entire strings can be searched for in the index! <code>indexOf</code> will return <code>-1</code> if the index could not be located.</p>
+<p><strong>Example:</strong> In the <code>string</code> argument find the index of the first lowercase &ldquo;x&rdquo; and return it.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">findFirstX</span>(<span style="color:#a6e22e">string</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">string</span>.<span style="color:#a6e22e">indexOf</span>(<span style="color:#e6db74">&#39;x&#39;</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="slicing-strings">Slicing Strings</h3>
+<p>We have another string method <strong>slice!</strong></p>
+<p>Slice accepts two parameters: a <strong>start</strong> index and an <strong>end</strong> index. The resulting string is a sliced string between those two indexes, except for the character at the <strong>end</strong> index.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#e6db74">&#34;An apple&#34;</span>.<span style="color:#a6e22e">slice</span>(<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">2</span>); <span style="color:#75715e">// An
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#e6db74">&#34;The 20 Jokers&#34;</span>.<span style="color:#a6e22e">slice</span>(<span style="color:#ae81ff">4</span>,<span style="color:#ae81ff">8</span>); <span style="color:#75715e">// 20 J
+</span></span></span></code></pre></div><p>If the last index is not provided, slice will continue until the end of the string:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#e6db74">&#34;Please Slice Me&#34;</span>.<span style="color:#a6e22e">slice</span>(<span style="color:#ae81ff">7</span>); <span style="color:#75715e">// Slice Me
+</span></span></span></code></pre></div><p>We can also use <strong>negative arguments</strong> to slice strings <strong>starting from the end</strong> of the string!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#e6db74">&#34;the apple&#34;</span>.<span style="color:#a6e22e">slice</span>(<span style="color:#f92672">-</span><span style="color:#ae81ff">5</span>); <span style="color:#75715e">// apple
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#e6db74">&#34;the apple&#34;</span>.<span style="color:#a6e22e">slice</span>(<span style="color:#f92672">-</span><span style="color:#ae81ff">5</span>, <span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>); <span style="color:#75715e">// appl
+</span></span></span></code></pre></div><p><strong>Example:</strong> Let&rsquo;s find the longer half of the string before and after the <code>x</code>! First, you&rsquo;ll need to find the <strong>lower-case</strong> <code>x</code>. Once you&rsquo;ve found the <code>x</code>, split the string in half. The first half will be the string before the <code>x</code>, the second half will be the string after the <code>x</code>.</p>
+<p>Take the <strong>longer</strong> string and return it!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#75715e">// split the string at the first occurrence of x
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// return the larger of the two resulting strings
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// i.e. HappyxDeveloper =&gt; Developer
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">splitAtX</span>(<span style="color:#a6e22e">string</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">index</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">string</span>.<span style="color:#a6e22e">indexOf</span>(<span style="color:#e6db74">&#39;x&#39;</span>);
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">a</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">string</span>.<span style="color:#a6e22e">slice</span>(<span style="color:#ae81ff">0</span>,<span style="color:#a6e22e">index</span>);
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">b</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">string</span>.<span style="color:#a6e22e">slice</span>(<span style="color:#a6e22e">index</span><span style="color:#f92672">+</span><span style="color:#ae81ff">1</span>);
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> (<span style="color:#a6e22e">a</span>.<span style="color:#a6e22e">length</span> <span style="color:#f92672">&gt;</span> <span style="color:#a6e22e">b</span>.<span style="color:#a6e22e">length</span>) <span style="color:#f92672">?</span> <span style="color:#a6e22e">a</span> <span style="color:#f92672">:</span> <span style="color:#a6e22e">b</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="conclusion">Conclusion</h3>
+<p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
+<p>On strings, there is a <code>lastIndexOf</code> method as well. It locates the string&rsquo;s last occurrence and returns its index.</p>
+<p><strong>Today I learned about String Looping, Index Of and Slicing Strings in JavaScript.</strong></p>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>JavaScript Fundamentals: String Manipulation</title><link>https://mranand.com/blogs/javascript-fundamentals-string-manipulation/</link><pubDate>Fri, 23 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-string-manipulation/</guid><description>Day 8 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 8th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
+<p>I write about my learnings in an explained way through my <a href="https://astrodevil.hashnode.dev/">blogs</a> and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
+<p>This Article is a part of the <a href="https://astrodevil.hashnode.dev/series/js-fundamentals">JavaScript Fundamentals</a> series.</p>
+<h3 id="comparing-strings">Comparing Strings</h3>
+<p>String comparison is actually very simple! The comparison operators <code>===</code>, <code>&lt;</code> and <code>&gt;</code> that we studied in earlier lectures can be used.</p>
+<p>For <code>===</code>, we may compare the strings case-sensitively to see if they are identical:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#e6db74">&#39;a&#39;</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;a&#39;</span> ); <span style="color:#75715e">// true
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#e6db74">&#39;a&#39;</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;A&#39;</span> ); <span style="color:#75715e">// false
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#e6db74">&#39;a&#39;</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;a &#39;</span> ); <span style="color:#75715e">// false ------Because the comparison is case-sensitive and requires exact equality, including whitespace.
+</span></span></span></code></pre></div><h3 id="looking-up-characters">Looking up Characters</h3>
+<p>Characters in strings can be looked up by index in JavaScript. Square brackets <code>[]</code> or <code>charAt</code> are the two methods available for doing this.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#e6db74">&#34;Hello&#34;</span>.<span style="color:#a6e22e">charAt</span>(<span style="color:#ae81ff">1</span>); <span style="color:#75715e">// e
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#e6db74">&#34;Hello&#34;</span>[<span style="color:#ae81ff">1</span>]; <span style="color:#75715e">// e
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// we are looking up the character at the 1 index, which turns out to be the character e.
+</span></span></span></code></pre></div><p>Indexing:</p>
+<p><code>H - 0</code></p>
+<p><code>e - 1</code></p>
+<p><code>l - 2</code></p>
+<p><code>l - 3</code></p>
+<p><code>o - 4</code></p>
+<p>Zero-based indexing is used for strings. This indicates that the index of the first character is <code>0</code>, and it increases by 1 for each additional character.</p>
+<p><strong>Example:</strong> Complete the <code>startsWithX</code> function to determine if the first character of the <code>string</code> argument is the lower-case <code>x</code>. If the first character is <code>x</code> return <code>true</code>. If not, return <code>false</code>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">startsWithX</span>(<span style="color:#a6e22e">string</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">string</span>[<span style="color:#ae81ff">0</span>] <span style="color:#f92672">===</span> <span style="color:#e6db74">&#34;x&#34;</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">true</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">false</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="character-casing">Character Casing</h3>
+<p>When working with strings, we frequently prefer to ignore the character casing. Whether it is an upper-case &ldquo;X&rdquo; or lower-case &ldquo;x,&rdquo; we are looking for &ldquo;x&rdquo;.</p>
+<p>Manipulating a string&rsquo;s case can be done in two simple ways:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#e6db74">&#34;Hello&#34;</span>.<span style="color:#a6e22e">toLowerCase</span>() );<span style="color:#75715e">// hello
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#e6db74">&#34;Hello&#34;</span>.<span style="color:#a6e22e">toUpperCase</span>() ); <span style="color:#75715e">// HELLO
+</span></span></span></code></pre></div><p>Either of the following can be used to determine whether a string included the word <code>&quot;hello&quot;</code> regardless of its case:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#e6db74">&#34;Hello&#34;</span>.<span style="color:#a6e22e">toUpperCase</span>() <span style="color:#f92672">===</span> <span style="color:#e6db74">&#34;HELLO&#34;</span> ); <span style="color:#75715e">// true
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#e6db74">&#34;Hello&#34;</span>.<span style="color:#a6e22e">toLowerCase</span>() <span style="color:#f92672">===</span> <span style="color:#e6db74">&#34;hello&#34;</span> ); <span style="color:#75715e">// true
+</span></span></span></code></pre></div><p><strong>Example:</strong> Let&rsquo;s update our <code>startsWithX</code>(from previous example) function to return <code>true</code> for an upper-case <code>X</code> as well as a lower-case <code>x</code>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">startsWithX</span>(<span style="color:#a6e22e">string</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">string</span>[<span style="color:#ae81ff">0</span>].<span style="color:#a6e22e">toLowerCase</span>() <span style="color:#f92672">===</span> <span style="color:#e6db74">&#34;x&#34;</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">true</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">false</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="string-length">String Length</h3>
+<p>Strings have an important feature called length. By using this feature, we can quickly determine how many characters are contained in a string:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#e6db74">&#34;a&#34;</span>.<span style="color:#a6e22e">length</span> ); <span style="color:#75715e">// 1
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#e6db74">&#34;Hello&#34;</span>.<span style="color:#a6e22e">length</span> ); <span style="color:#75715e">// 5
+</span></span></span></code></pre></div><p><strong>Example:</strong> Complete the <code>endsWithX</code> function by detecting if the last character in the string is a lower-case <code>x</code> or an upper-case <code>X</code>. Return <code>true</code> if it is, <code>false</code> if not.</p>
+<p>Note: The length value will be 1 greater than the last character index because the character indexing is 0 based.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">endsWithX</span>(<span style="color:#a6e22e">string</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">string</span>[<span style="color:#a6e22e">string</span>.<span style="color:#a6e22e">length</span> <span style="color:#f92672">-</span> <span style="color:#ae81ff">1</span>].<span style="color:#a6e22e">toLowerCase</span>() <span style="color:#f92672">===</span> <span style="color:#e6db74">&#34;x&#34;</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">true</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">false</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="conclusion">Conclusion</h3>
+<p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
+<p>Strings in JavaScript allow us to store text that includes characters, integers, and Unicode and is immutable. Additionally, there are numerous built-in functions in JavaScript for creating and manipulating strings in different ways.</p>
+<p><strong>Today I learned about String Manipulation in JavaScript.</strong></p>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>JavaScript Fundamentals: While Loop, Break and Questions for Practice</title><link>https://mranand.com/blogs/javascript-fundamentals-while-loop-break-and-questions-for-practice/</link><pubDate>Thu, 22 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-while-loop-break-and-questions-for-practice/</guid><description>Day 7 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 7th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
+<p>I write about my learnings in an explained way through my <a href="https://astrodevil.hashnode.dev/">blogs</a> and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
+<p>This Article is a part of the <a href="https://astrodevil.hashnode.dev/series/js-fundamentals">JavaScript Fundamentals</a> series.</p>
+<h3 id="while-loop">While Loop</h3>
+<p>As long as the test condition evaluates to <code>true</code>, the while statement generates a loop that performs the provided statement. Before the statement is carried out, the condition is assessed.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">while</span>(<span style="color:#a6e22e">b</span> <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">7</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// do something
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>}
+</span></span></code></pre></div><p>We are just stating that if a condition is <code>true</code>, this statement shall be carried out till it is not.👇🏼</p>
+<p><strong>Example:</strong> Complete the <code>top</code> double function to find the largest double for the <code>value</code> that is below the <code>top</code>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">topDouble</span>(<span style="color:#a6e22e">value</span>, <span style="color:#a6e22e">top</span>) {
+</span></span><span style="display:flex;"><span>   
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">while</span> (<span style="color:#a6e22e">value</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">top</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">value</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">*</span><span style="color:#ae81ff">2</span>;
+</span></span><span style="display:flex;"><span>       
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">/</span><span style="color:#ae81ff">2</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="break-statement">Break Statement</h3>
+<p>We will exit the loop once <code>break</code> is hit. Even when the condition is <code>true</code>, there is still a possibility to exit the loop thanks to the <code>break</code> statement.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">while</span>(<span style="color:#66d9ef">true</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">a</span> <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">5</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#75715e">// exit the loop
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        <span style="color:#66d9ef">break</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="questions-for-practise">Questions for Practise</h3>
+<ul>
+<li>
+<p>Given an integer value <strong>num</strong>, determine if it is even. If it is even, return <code>true</code>. Return <code>false</code> otherwise.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">isEven</span>(<span style="color:#a6e22e">num</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">num</span> <span style="color:#f92672">%</span> <span style="color:#ae81ff">2</span> <span style="color:#f92672">===</span> <span style="color:#ae81ff">0</span>){
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">true</span>;
+</span></span><span style="display:flex;"><span>    } 
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// or
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">isEven</span>(<span style="color:#a6e22e">num</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">num</span> <span style="color:#f92672">%</span> <span style="color:#ae81ff">2</span> <span style="color:#f92672">===</span> <span style="color:#ae81ff">0</span>;      
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div></li>
+<li>
+<p>The function <code>smallerNumber</code> will be given two unequal numbers: <code>num1</code> and <code>num2</code>. Your goal is to find the smaller number and return it!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">smallerNumber</span>(<span style="color:#a6e22e">num1</span>, <span style="color:#a6e22e">num2</span>) {
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">num1</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">num2</span>){
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">num1</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">num2</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div></li>
+<li>
+<p>A string is stored in the variable <code>fakeName</code>. Take this fake name and use it to replace every occurrence of <code>&quot;John&quot;</code> in the <code>message</code>. Do not change the message in other way.</p>
+<p><code>const fakeName = require('./fakeName');</code></p>
+<p><code>const message = ` Hello, John! You left a package at the office today. You can pick up tomorrow at 10am, John. If not I will drop it off this weekend. Goodbye John! `;</code></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">fakeName</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">require</span>(<span style="color:#e6db74">&#39;./fakeName&#39;</span>);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">message</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">`
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    Hello, </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">fakeName</span><span style="color:#e6db74">}</span><span style="color:#e6db74">! You left a package at the office today.
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    You can pick up tomorrow at 10am, </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">fakeName</span><span style="color:#e6db74">}</span><span style="color:#e6db74">. 
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    If not I will drop it off this weekend.
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    Goodbye </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">fakeName</span><span style="color:#e6db74">}</span><span style="color:#e6db74">!
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">`</span>;
+</span></span></code></pre></div></li>
+<li>
+<p>The function <code>checkNumber</code> takes a single argument: a number <code>num</code>. The function should return the string <code>positive</code> if the number is positive, <code>negative</code> if the number is negative, and <code>zero</code> if the number is zero.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">checkNumber</span>(<span style="color:#a6e22e">num</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">num</span> <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">0</span>){
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#e6db74">&#39;positive&#39;</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">else</span> <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">num</span> <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">0</span>){
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#e6db74">&#39;negative&#39;</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">else</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#e6db74">&#39;zero&#39;</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div></li>
+<li>
+<p>The function <code>maxSum</code> takes a number argument <code>num</code>. Your goal is find the sum all of numbers, starting from 1, up to and including <code>num</code>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">maxSum</span>(<span style="color:#a6e22e">num</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">sum</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span><span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">&lt;=</span><span style="color:#a6e22e">num</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>){
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">sum</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">sum</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">i</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">sum</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div></li>
+</ul>
+<h3 id="conclusion">Conclusion</h3>
+<p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
+<p>We can exit loop by using both return and break statement.</p>
+<p><strong>Today I learned about While Loop and Break Statement and also practiced a few Questions in JavaScript.</strong></p>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>JavaScript Fundamentals: For Loop and Modulus Operator</title><link>https://mranand.com/blogs/javascript-fundamentals-for-loop-and-modulus-operator/</link><pubDate>Wed, 21 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-for-loop-and-modulus-operator/</guid><description>Day 6 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 6th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
+<p>I write about my learnings in an explained way through my <a href="https://astrodevil.hashnode.dev/">blogs</a> and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
+<p>This Article is a part of the <a href="https://astrodevil.hashnode.dev/series/js-fundamentals">JavaScript Fundamentals</a> series.</p>
+<h3 id="loops">Loops</h3>
+<p>Loops provide a quick and simple way to repeat an action. Programmers take advantage of this speed by creating scripts that do a task repeatedly until a predetermined condition is satisfied.</p>
+<p>In <em>pseudocode</em> this might look a little like this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">while</span> <span style="color:#a6e22e">we</span> <span style="color:#a6e22e">have</span> <span style="color:#a6e22e">book</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">read</span> <span style="color:#a6e22e">book</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">while</span> <span style="color:#a6e22e">we</span> <span style="color:#a6e22e">have</span> <span style="color:#a6e22e">pages</span> <span style="color:#66d9ef">in</span> <span style="color:#66d9ef">this</span> <span style="color:#a6e22e">book</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">read</span> <span style="color:#a6e22e">page</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#66d9ef">while</span> <span style="color:#a6e22e">we</span> <span style="color:#a6e22e">have</span> <span style="color:#a6e22e">words</span> <span style="color:#a6e22e">on</span> <span style="color:#a6e22e">the</span> <span style="color:#a6e22e">page</span>
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">read</span> <span style="color:#a6e22e">word</span> 
+</span></span></code></pre></div><h3 id="for-loop">For Loop</h3>
+<p>A <code>for</code> loop repeats until a specified condition evaluates to false.</p>
+<ul>
+<li><strong>Summation</strong> of numbers example:</li>
+</ul>
+<p>Let&rsquo;s think about how to repeatedly add the digits 1, 2, 3, and 4: The first step is to add 1 to a sum. Then we go to 2, add this to the total, and so on until we get to 4. An iteration occurs each time we add to the total. When the value is more than 4, we iterate until we reach our exit condition.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">let</span> <span style="color:#a6e22e">sum</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">4</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>) { 
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">sum</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">sum</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">i</span>; 
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>The <code>for</code> loop can be broken down into the <em>initialization</em>, <em>condition</em>, <em>update</em> and <em>statement</em>: Compare 👇🏼with👆🏼</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-plaintext" data-lang="plaintext"><span style="display:flex;"><span>for ([initialization]; [condition]; [update]) {
+</span></span><span style="display:flex;"><span>    statement
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>The <strong>Initialization</strong> is run once at the beginning of the loop. The <strong>Condition</strong> is checked before each iteration. The <strong>Update</strong> is run at the end of each iteration. The <strong>Statement</strong> is run as long as the Condition is true.</p>
+<ul>
+<li><strong>Factorial</strong> of numbers example:</li>
+</ul>
+<p>In mathematics, a factorial is often denoted with an exclamation mark <code>!</code>. The sum of all positive integers greater than 0 up to and including the factorial number <code>n</code> is known as a factorial.</p>
+<p>Let&rsquo;s take a look at a few examples of factorials:</p>
+<p><code>4! = 4 * 3 * 2 * 1 = 24</code></p>
+<p><code>3! = 3 * 2 * 1 = 6</code></p>
+<p><code>2! = 2 * 1 = 2</code></p>
+<p><strong>Example:</strong> Taking in some integer value <code>n</code>, find the factorial for that number and return it.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">factorial</span>(<span style="color:#a6e22e">n</span>){
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">let</span> <span style="color:#a6e22e">result</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;=</span> <span style="color:#a6e22e">n</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>){
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">result</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">result</span> <span style="color:#f92672">*</span> <span style="color:#a6e22e">i</span>; <span style="color:#75715e">// or result *= i;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">return</span> <span style="color:#a6e22e">result</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><ul>
+<li><strong>Strings</strong> in loops example:</li>
+</ul>
+<p>Let&rsquo;s add some exclamation marks to <code>&quot;Hello World&quot;</code>!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">let</span> <span style="color:#a6e22e">str</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Hello World&#34;</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">3</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">str</span> <span style="color:#f92672">+=</span> <span style="color:#e6db74">&#34;!&#34;</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#a6e22e">str</span>); <span style="color:#75715e">// Hello World!!!
+</span></span></span></code></pre></div><p><strong>Example:</strong> Let&rsquo;s create a function <code>scream</code> which will take in a value <code>n</code> and return a string with the letter &ldquo;<code>a</code>&rdquo; repeated that many times like <code>scream(5); // &quot;aaaaa&quot;</code></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">scream</span>(<span style="color:#a6e22e">n</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">str</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;&#34;</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">&lt;=</span><span style="color:#a6e22e">n</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>){
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">str</span> <span style="color:#f92672">+=</span> <span style="color:#e6db74">&#34;a&#34;</span>
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">str</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="modulus-operator">Modulus Operator</h3>
+<p><code>%</code> operator is called the modulus operator. It will tell us the remainder of a division. When you divide <code>9</code> by <code>2</code> you get. Or <code>4</code> with a remainder of <code>1</code>. The expression <code>9</code> % <code>2</code> evaluates to that remainder: <code>1</code></p>
+<p>Let&rsquo;s take a look at a few examples:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#ae81ff">8</span> <span style="color:#f92672">%</span> <span style="color:#ae81ff">3</span>) <span style="color:#75715e">// 2
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#ae81ff">9</span> <span style="color:#f92672">%</span> <span style="color:#ae81ff">2</span>) <span style="color:#75715e">// 1
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#ae81ff">7</span> <span style="color:#f92672">%</span> <span style="color:#ae81ff">4</span>) <span style="color:#75715e">// 3
+</span></span></span></code></pre></div><p><strong>Example:</strong> Let&rsquo;s modify our function to return a scream alternating between lower and capital case, like these:</p>
+<p><code>console.log( scream(4) ); // aAaA console.log( scream(9) ); // aAaAaAaAa</code></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">scream</span>(<span style="color:#a6e22e">n</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">str</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;&#34;</span>;
+</span></span><span style="display:flex;"><span>   
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>; <span style="color:#a6e22e">i</span> <span style="color:#f92672">&lt;=</span> <span style="color:#a6e22e">n</span>; <span style="color:#a6e22e">i</span><span style="color:#f92672">++</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">remainder</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">%</span> <span style="color:#ae81ff">2</span>;
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">isEven</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">remainder</span> <span style="color:#f92672">===</span> <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">isEven</span>) {
+</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">str</span> <span style="color:#f92672">+=</span> <span style="color:#e6db74">&#34;A&#34;</span>;
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">else</span> {
+</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">str</span> <span style="color:#f92672">+=</span> <span style="color:#e6db74">&#34;a&#34;</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">str</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="conclusion">Conclusion</h3>
+<p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
+<p>At the beginning of the <code>for</code> loop, the <strong>Initialization</strong> is once executed. Each iteration begins with a check of the <strong>Condition</strong>. The <strong>Statement</strong> will be executed if the expression evaluates to true. If it&rsquo;s untrue, the statement won&rsquo;t execute. Each iteration ends with the <strong>Update</strong> being executed. For the subsequent execution of the <strong>Statement</strong>, it may update a variable. As long as the <strong>Condition</strong> is true, the <strong>Statement</strong> is then executed. The actual work of the loop is completed here.</p>
+<p><strong>Today I learned about For Loop, Modulus Operator in JavaScript.</strong></p>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>JavaScript Fundamentals: Conditionals</title><link>https://mranand.com/blogs/javascript-fundamentals-conditionals/</link><pubDate>Mon, 19 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-conditionals/</guid><description>Day 5 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 5th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
+<p>I write about my learnings in an explained way through my <a href="https://astrodevil.hashnode.dev/">blogs</a> and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
+<p>This Article is a part of the <a href="https://astrodevil.hashnode.dev/series/js-fundamentals">JavaScript Fundamentals</a> series.</p>
+<h3 id="console-log">Console Log</h3>
+<p>The <code>console.log</code> will log values during the program&rsquo;s execution. If we <code>console.log</code> a value, that value will show in our test results. You will also often see <code>console.log</code> used in code examples:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">let</span> <span style="color:#a6e22e">a</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">22</span>; 
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">a</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">a</span> <span style="color:#f92672">+</span> <span style="color:#ae81ff">10</span>; 
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#a6e22e">a</span>); <span style="color:#75715e">// 32;
+</span></span></span></code></pre></div><h3 id="conditionals">Conditionals</h3>
+<p>Conditional statements control behaviour in JavaScript and determine whether or not pieces of code can run.</p>
+<ul>
+<li>
+<p><code>if</code> <strong>Statement</strong></p>
+<p>Use of <code>if</code> when needing to branch based on a <strong>condition</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(<span style="color:#ae81ff">1</span> <span style="color:#f92672">===</span> <span style="color:#ae81ff">1</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#e6db74">&#34;Yes, it&#39;s true!&#34;</span> );
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>In the above line, <code>1 === 1</code> is the condition. The <code>===</code> operator referred to as the strict <strong>equality</strong> operator. It compares two values and evaluates them to be <code>true</code> if they are equal.</p>
+<p><strong>Example:</strong> Let&rsquo;s complete the isEqual function! If a is equal to b return true.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">isEqual</span>(<span style="color:#a6e22e">a</span>, <span style="color:#a6e22e">b</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span>(<span style="color:#a6e22e">a</span><span style="color:#f92672">===</span><span style="color:#a6e22e">b</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p><code>!==</code> or <strong>Is Not Equal</strong> referred to as <strong>a strict inequality</strong> operator. This operator will evaluate to <code>true</code> if the two values are not equal.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#ae81ff">1</span> <span style="color:#f92672">!==</span> <span style="color:#ae81ff">2</span> ); <span style="color:#75715e">// true
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#ae81ff">2</span> <span style="color:#f92672">!==</span> <span style="color:#ae81ff">2</span> ); <span style="color:#75715e">// false
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>( <span style="color:#ae81ff">3</span> <span style="color:#f92672">!==</span> <span style="color:#ae81ff">2</span> ); <span style="color:#75715e">// true
+</span></span></span></code></pre></div><p><strong>Example:</strong> Let&rsquo;s complete the <code>isNotEqual</code> function! If <code>a</code> is <strong>not equal</strong> to <code>b</code> return <code>true</code>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">isNotEqual</span>(<span style="color:#a6e22e">a</span>, <span style="color:#a6e22e">b</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">a</span> <span style="color:#f92672">!==</span> <span style="color:#a6e22e">b</span>){
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">true</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div></li>
+<li>
+<p><code>else</code> <strong>Statement</strong></p>
+<p>The <code>else</code> statement runs only if the <code>if</code> condition is <strong>not true</strong>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">isRaining</span> <span style="color:#f92672">===</span> <span style="color:#66d9ef">true</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">stayIndoors</span>();
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// isRaining is not true
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    <span style="color:#a6e22e">goOutside</span>();
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p><strong>Example:</strong> Let&rsquo;s update our <code>isNotEqual</code> function to also handle the case where <code>a</code> is equal to <code>b</code>. If a is not equal to <code>b</code> return true. Otherwise, return <code>false</code>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">greater</span>(<span style="color:#a6e22e">first</span>, <span style="color:#a6e22e">last</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">first</span> <span style="color:#f92672">&gt;</span> <span style="color:#a6e22e">last</span>){
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">first</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">last</span> <span style="color:#f92672">&gt;</span> <span style="color:#a6e22e">first</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">last</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Let&rsquo;s take a look at two new operators, greater than <code>&gt;</code> and less than <code>&lt;</code> operators! Both <code>&gt;</code> and <code>&lt;</code> will evaluate to <code>false</code> if the <strong>operands</strong> are <strong>equal</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#ae81ff">1</span> <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">3</span>); <span style="color:#75715e">// false
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#ae81ff">3</span> <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">1</span>); <span style="color:#75715e">// true
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#ae81ff">3</span> <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">1</span>); <span style="color:#75715e">// false
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#ae81ff">1</span> <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">3</span>); <span style="color:#75715e">// true
+</span></span></span></code></pre></div><p>The values on either side of the operator are referred to as &ldquo;<strong>operands</strong>&rdquo;. The operands for the equation <code>1 &gt; 3</code> are <code>1</code> and <code>3</code>.</p>
+</li>
+<li>
+<p><code>&gt;=</code> or <code>&lt;=</code> <strong>Operator</strong></p>
+<p>Both <code>&gt;=</code> and <code>&lt;=</code> will evaluate to <code>true</code> when the <strong>operands</strong> are equal, unlike the <code>&gt;</code> and <code>&lt;</code> operators.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">greaterThanOrEqualTo</span>(<span style="color:#a6e22e">a</span>, <span style="color:#a6e22e">b</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">a</span> <span style="color:#f92672">&gt;</span> <span style="color:#a6e22e">b</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">true</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">a</span> <span style="color:#f92672">===</span> <span style="color:#a6e22e">b</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">true</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// or
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// Both will accomplish the same functionality.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">isEqual</span>(<span style="color:#a6e22e">a</span>,<span style="color:#a6e22e">b</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">a</span> <span style="color:#f92672">===</span> <span style="color:#a6e22e">b</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">true</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">false</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div></li>
+<li>
+<p><code>else If</code> <strong>Statement</strong></p>
+<p>We can use <code>else</code> and <code>if</code> together:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">firstCondition</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// firstCondition is true
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span> <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">otherCondition</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// firstCondition is not true and otherCondition is true
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// neither condition is true
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>}
+</span></span></code></pre></div><p>What happens if the two conditions were <code>true</code>?</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">a</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">true</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">b</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">true</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">a</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// this will run
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span> <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">b</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// this will not run!
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// this will definitely not run.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>}
+</span></span></code></pre></div><p>The important thing to take away from this is that <code>else</code> statements will only run if the original condition is not <code>true</code>.</p>
+</li>
+</ul>
+<h3 id="conclusion">Conclusion</h3>
+<p>Ending with an extra bit of information about JavaScript&hellip;</p>
+<p>In order to guarantee that code is readable to a standard, many organisations maintain a rigid style guide. <code>{}</code> are typically recommended for <code>if/else</code> statements.</p>
+<p><strong>Today I learned about Conditionals, If, Else, Else If in JavaScript.</strong></p>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>JavaScript Fundamentals: Math Object</title><link>https://mranand.com/blogs/javascript-fundamentals-math-object/</link><pubDate>Sun, 18 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-math-object/</guid><description>Day 4 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 4th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
+<p>I write about my learnings in an explained way through my <a href="https://astrodevil.hashnode.dev/">blogs</a> and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
+<p>This Article is a part of the <a href="https://blog.mranand.com/series/js-fundamentals">JavaScript Fundamentals</a> series.</p>
+<p>Today, I learned about <code>Math.random</code>, <code>Math.floor</code> Functions and to call a function within our function.</p>
+<h3 id="mathrandom">Math.random</h3>
+<p>In JavaScript, there are many math utilities on the <code>Math</code> object. To get a random number we can call the <code>Math.random</code> function.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">myRandomNumber</span> <span style="color:#f92672">=</span> Math.<span style="color:#a6e22e">random</span>();
+</span></span></code></pre></div><p>The above line will return some number between <code>0</code> and <code>1</code> (not including <code>1</code>). <code>Math.random</code> can also be used to generate random numbers between the range.</p>
+<p><strong>Example:</strong> Inside <code>getRandom</code>, get a random number from the <code>Math.random()</code> function. Then, return that number!👇🏼</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">getRandom</span>() {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> Math.<span style="color:#a6e22e">random</span>();
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>A random number between <code>0</code> and <code>100</code> could be created by simply multiplying the output:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#75715e">// randomNumber will be between 0 and 100
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">randomNumber</span> <span style="color:#f92672">=</span> Math.<span style="color:#a6e22e">random</span>() <span style="color:#f92672">*</span> <span style="color:#ae81ff">100</span>;
+</span></span></code></pre></div><p>We could multiply and then add to get a random number between <code>15</code> and <code>100</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#75715e">// randomNumber will be between 15 and 100
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">randomNumber</span> <span style="color:#f92672">=</span> (Math.<span style="color:#a6e22e">random</span>() <span style="color:#f92672">*</span> <span style="color:#ae81ff">85</span>) <span style="color:#f92672">+</span> <span style="color:#ae81ff">15</span>;
+</span></span></code></pre></div><h3 id="mathfloor">Math.floor</h3>
+<p><code>Math.floor</code> takes arguments.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">two</span> <span style="color:#f92672">=</span> Math.<span style="color:#a6e22e">floor</span>(<span style="color:#ae81ff">2.2598223</span>);
+</span></span></code></pre></div><p><code>Math.floor</code> function will take <code>2.2598223</code> and return <code>2</code>. A number will be rounded to the nearest integer using this function. For instance, if the input was <code>2.9999</code>, the method would round it to <code>2</code>.</p>
+<p><strong>Example:</strong> Take the argument <code>x</code> and use <code>Math.floor</code> to turn it into an integer without the values after the decimal place. Once you have this floored value, return it!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">getFloor</span>(<span style="color:#a6e22e">x</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> Math.<span style="color:#a6e22e">floor</span>(<span style="color:#a6e22e">x</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="conclusion">Conclusion</h3>
+<p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
+<p>The JavaScript Math object allows us to perform mathematical tasks on numbers. There are various math object properties.</p>
+<p><strong>Today I learned about Math.random, Math.floor Functions in JavaScript.</strong></p>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>JavaScript Fundamentals: Parameters, Arguments and Operators</title><link>https://mranand.com/blogs/javascript-fundamentals-parameters-arguments-and-operators/</link><pubDate>Sat, 17 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-parameters-arguments-and-operators/</guid><description>Day 3 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 3rd day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
+<p>I write about my learnings in an explained way through my <a href="https://astrodevil.hashnode.dev/">blogs</a> and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
+<p>This Article is a part of the <a href="https://blog.mranand.com/series/js-fundamentals">JavaScript Fundamentals</a> series.</p>
+<p>I studied functions yesterday, check the previous <a href="https://astrodevil.hashnode.dev/javascript-fundamentals-mutable-letcomments-functions">article</a>. Today it&rsquo;s time to know more about functions and the use of operators.</p>
+<h3 id="parameters-and-arguments"><strong>Parameters and Arguments</strong></h3>
+<p>Both the terms <strong>parameter</strong> and <strong>argument</strong> refer to the inputs supplied to a function.</p>
+<p>Here&rsquo;s a function with two inputs:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">addNumbers</span>(<span style="color:#a6e22e">a</span>, <span style="color:#a6e22e">b</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">a</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">b</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>In the above code, there are two <strong>parameters</strong>: <code>a</code> and <code>b</code>. These are the variables that are defined in the function declaration.</p>
+<p>If we were to call this function with two values: <code>2</code> and <code>4</code></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">addNumbers</span>(<span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">4</span>);
+</span></span></code></pre></div><p>The values <code>2</code> and <code>4</code> would be considered <strong>arguments</strong>. Arguments are the data supplied to the function to get filled into parameters.</p>
+<h3 id="operators">Operators</h3>
+<p>JavaScript operators are symbols that are used to perform operations on operands. These are <code>+</code>, <code>-</code>, <code>*</code>, <code>/</code> .</p>
+<p><code>+</code> <strong>Operator</strong></p>
+<p>The <code>+</code> is referred to as an addition operator.</p>
+<p>Complete the <code>addTwo</code> function to take an input and add <code>5</code> to it.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">addTwo</span>(<span style="color:#a6e22e">input</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">output</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">input</span> <span style="color:#f92672">+</span> <span style="color:#ae81ff">5</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">output</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p><code>*</code> <strong>Operator</strong></p>
+<p>The <code>*</code> is referred to as a multiplication operator.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">a</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">3</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">b</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">a</span> <span style="color:#f92672">*</span> <span style="color:#ae81ff">4</span>;
+</span></span></code></pre></div><p>In the above code, <code>b</code> will have the value <code>12</code>! We are using the multiplication operator to multiply <code>3</code> and <code>4</code>.</p>
+<p>Let&rsquo;s see with multiple inputs👇🏼by putting multiple inputs under <code>()</code> separated with <code>comma</code>!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">product</span>(<span style="color:#ae81ff">2</span>,<span style="color:#ae81ff">3</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#ae81ff">2</span><span style="color:#f92672">*</span><span style="color:#ae81ff">3</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p><code>/</code> <strong>Operator</strong></p>
+<p>The <code>/</code> is referred to as a division operator.</p>
+<p>Find the average of some numbers:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">sum</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">2</span> <span style="color:#f92672">+</span> <span style="color:#ae81ff">7</span> <span style="color:#f92672">+</span> <span style="color:#ae81ff">6</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">average</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">sum</span> <span style="color:#f92672">/</span> <span style="color:#ae81ff">3</span>;
+</span></span></code></pre></div><p>Or we can use parenthesis <code>()</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">average</span> <span style="color:#f92672">=</span> (<span style="color:#ae81ff">2</span> <span style="color:#f92672">+</span> <span style="color:#ae81ff">7</span> <span style="color:#f92672">+</span> <span style="color:#ae81ff">6</span>) <span style="color:#f92672">/</span> <span style="color:#ae81ff">3</span>;
+</span></span></code></pre></div><p>In the above code, the sum of <code>2</code>, <code>7</code>, and <code>6</code> is <code>15</code>. Then we divide <code>15</code> by <code>3</code> (<code>15 / 3</code>) to get <code>5</code>.</p>
+<p>The parenthesis will always be evaluated first before any other part of the expression.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
+<p>Priority is given to division and multiplication above addition and subtraction. Expressions are evaluated from left to right if the precedence of the operators is the same, as it is when division and multiplication are used.</p>
+<p><strong>Today I learned about Parameters, Arguments and Operators in JavaScript.</strong></p>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>JavaScript Fundamentals: Mutable let,Comments, Functions</title><link>https://mranand.com/blogs/javascript-fundamentals-mutable-letcomments-functions/</link><pubDate>Fri, 16 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-mutable-letcomments-functions/</guid><description>Day 2 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 2nd day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
+<p>I am going to write about my learnings in an explained way through my <a href="https://astrodevil.hashnode.dev/">blogs</a> and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
+<p>This Article is a part of the <a href="https://blog.mranand.com/series/js-fundamentals">JavaScript Fundamentals</a> series.</p>
+<h3 id="mutable-let">Mutable let</h3>
+<p>We worked on variables in the last section and now going further with variables, how can we change the stored value inside of a variable?</p>
+<p>We used <code>const</code> keyword to declare a constant variable, but if we try to change the value it will give errors.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">a</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">4</span>;
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">a</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">8</span>;
+</span></span></code></pre></div><p>If we try to run above the line, it will give <code>TypeError: Assignment to constant variable</code> . Constants are immutable, meaning their value cannot change.</p>
+<p>Here comes the keyword <code>let</code> which allows the value to be mutable (meaning it can change).</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">let</span> <span style="color:#a6e22e">a</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">4</span>;
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">a</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">8</span>;
+</span></span></code></pre></div><p>The above line will run without error.</p>
+<h3 id="comments">Comments</h3>
+<p>Comments are an important part of programs. Writing good comments is also necessary to be a good programmer and to write clean code.</p>
+<p>Coming up with good variable names is also important.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">value</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">99</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">price</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">99</span>;
+</span></span></code></pre></div><p>Both hold the same value <code>99</code> but <code>price</code> is more descriptive.</p>
+<p>Comments are only for humans to understand code in a better way. We can write single-line or multi-line comments.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#75715e">// this is price in U.S. Dollars
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">price</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">99</span>;
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#75715e">/* The price of all items
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">   Denominated in U.S. Dollars  */</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">price</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">99</span>;
+</span></span></code></pre></div><h3 id="functions">Functions</h3>
+<p>A function is a reusable code and it returns an output. The function must be defined before calling it. Function call means to execute the function. The word <em>invoke</em> is also used and the meaning is the same as call.</p>
+<p>When a function is called, It means you&rsquo;re passing specific input values.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">output</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">addOne</span>(<span style="color:#ae81ff">5</span>);
+</span></span></code></pre></div><p>In the code above, <code>addOne</code> is the function and parenthesis <code>( )</code> is used to call the function. We are passing in an input value 5 into our function addOne.</p>
+<p>It is not mandatory to have input values in the function. See the below example.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">message</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">getMessage</span>();
+</span></span></code></pre></div><p>In order to call a function, we must first define it!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">addOne</span>(<span style="color:#a6e22e">input</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">input</span> <span style="color:#f92672">+</span> <span style="color:#ae81ff">2</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>In the above code, we are creating a function called <code>addOne</code> which takes one input called input. We are returning the input plus two.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">getMessage</span>() {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#e6db74">&#34;Hello World!&#34;</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>In the above code, function <code>getMessage</code> does not take input. We are simply returning a string, saying &ldquo;Hello World!&rdquo;. The <code>return</code> statement will return the desired output of the function.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">a</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">addOne</span>(<span style="color:#ae81ff">2</span>);
+</span></span></code></pre></div><p>Variable <code>a</code> is now assigned to the return value of the <code>addOne</code> function invoked with an input of 2, which evaluates to 4.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
+<p>If we define/declare a function once, it can be called elsewhere in the program.</p>
+<p><strong>Today I learned about Mutable let, Comments, and Functions in JavaScript.</strong></p>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>JavaScript Fundamentals: Number Variable, Multiple Variables, Booleans, Strings</title><link>https://mranand.com/blogs/javascript-fundamentals-number-variable-multiple-variables-booleans-strings/</link><pubDate>Thu, 15 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-number-variable-multiple-variables-booleans-strings/</guid><description>Day 1 of #100DaysOfCode</description><content:encoded><![CDATA[<p>After exams and lots of procrastination, I finally resumed my <strong>#100DaysOfCode</strong> journey with JavaScript. Today is the 1st day of my journey and learned some basic concepts of JavaScript.</p>
+<p>I am going to write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
+<h3 id="introduction-to-javascript">Introduction to JavaScript</h3>
+<p>The foundation of contemporary online apps is JavaScript. Although that may sound pretentious or flowery, it is also the reality. JavaScript powers the contemporary web, your contemporary servers, and even the development environments on our computers. Whether it is web 2.0 or web 3.0, JavaScript is used everywhere.</p>
+<h3 id="number-variable">Number Variable</h3>
+<p>A JavaScript variable is nothing more than a name for a storage area. In JavaScript, there are two different sorts of variables: local variables and global variables. When declaring a JavaScript variable, there are several guidelines (also known as identifiers).</p>
+<ul>
+<li>
+<p>The name must begin with an alphabetical letter (from A to Z), an underscore (_), or a dollar sign ($).</p>
+</li>
+<li>
+<p>The first letter can be followed by any number from 0 to 9, such as the value 1.</p>
+</li>
+<li>
+<p>JavaScript variables are case-sensitive; for instance, the variables x and X are distinct.</p>
+</li>
+<li>
+<p>JavaScript variables are written in <strong>lowerCamelCase.</strong> for example <code>const isLoggedIn = true;</code></p>
+</li>
+<li>
+<p>JavaScript cares about variables in one word (not separated by space).</p>
+</li>
+</ul>
+<p>We store values in something called a variable.</p>
+<p><code>const a = 5</code></p>
+<p>In the above code, <code>a</code> is the variable. Number <code>5</code> is the value to be stored in <code>a</code> and <code>const</code> is a keyword used to declare <code>a</code> as a constant value in JavaScript.</p>
+<h3 id="multiple-variables">Multiple Variables</h3>
+<p>JavaScript programs run line by line, the line <code>const a = 5</code> is called a statement. In JavaScript, statements should end with <code>;</code> (semi-colon). In some cases, JavaScript automatically inserts semi-colons in a statement. The best practice is to insert <code>;</code> at every statement end.</p>
+<p>We can create another variable to store the value of the previous variable.</p>
+<p><code>const a = 5;</code></p>
+<p><code>const b = a;</code></p>
+<p>Both <code>a</code> and <code>b</code> will store the value <code>5</code>.</p>
+<h3 id="booleans">Booleans</h3>
+<p>A JavaScript Boolean represents one of two values: <strong>true</strong> or <strong>false</strong>.</p>
+<p><code>const loggedIn = false;</code></p>
+<p>If a user is logged in the above line, the <code>false</code> indicated that they are not.</p>
+<p>We can also store boolean values inside variables. If we have to store <code>true</code> in one variable and <code>false</code> in another variable, then:</p>
+<p><code>cont a = false;</code></p>
+<p><code>const b = true;</code></p>
+<h3 id="quotes">Quotes</h3>
+<p>Both single <code>' '</code> and double <code>&quot; &quot;</code> quotes can be used when declaring JavaScript strings.</p>
+<p>Here, we used double quotes so we could use a single quote inside the message:</p>
+<p><code>const message = &quot;Hello, hope you are doing fine!&quot; ;</code></p>
+<p>If we needed to use double quotes:</p>
+<p><code>const message = 'Then he said, &quot;Hey, are you coming home?&quot;';</code></p>
+<p>If we needed to use a double quote inside double quote string, we can use a backslash <code>\</code> as an escape character:</p>
+<p><code>const message = &quot;This is double-quote \&quot; inside double-quotes&quot;;</code></p>
+<h3 id="strings">Strings</h3>
+<p>Strings in JavaScript are used to store and modify text. A string in JavaScript is zero or more characters enclosed in quotes.</p>
+<p>Strings are nothing but a bunch of characters (<code>a</code>, <code>b</code>, <code>c</code>) put together.</p>
+<p>In JavaScript, there are three ways to define a string. first two of them are:</p>
+<ul>
+<li>
+<p><code>const a = &quot;Hello!&quot;;</code></p>
+</li>
+<li>
+<p>Here, <code>myName</code> and <code>anotherName</code> uses two different types of quotes, single and double. We can use either one or inside of each other.</p>
+<p><code>const myName = 'Anand';</code></p>
+<p><code>const anotherName = &quot;Vishal&quot;;</code></p>
+</li>
+</ul>
+<p>Now look at the third method to declare strings:</p>
+<p><code>const helloMessage = `Hello ${myName}, my name is ${anothername}!`;</code></p>
+<p>Here, <code>helloMessage</code> variable uses backticks <code>`</code> . With backticks, we can add values inside the strings. The <code>${variable}</code> is about this. In the above line of code, we are taking value from <code>myName</code> and <code>anotherName</code> and placing them into strings. The variable <code>helloMessage</code> now contains <code>&quot;Hello Anand, my name is Vishal!&quot;</code></p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Ending with an extra bit of information about JavaScript&hellip;</p>
+<p>JavaScript also uses <strong>upper snake case</strong> sometimes like <code>const SERVER_KEY_VALUE = &quot;abcdefg&quot;;</code> This casing is typically reserved for environment variables or values that are needed to be determined before code executions. Like, if you have some secret key that you want to store on the server but not on the local machine, then You might keep that variable tucked away on the server in an environment variable that will require permissions to access or change. These are the types of variables we&rsquo;ll often see with this casing.</p>
+<p><strong>Today I learned about Number variables, multiple variables, booleans, quotes and strings in JavaScript.</strong></p>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>25 Must-Visit Killer Websites For Developers</title><link>https://mranand.com/blogs/25-must-visit-killer-websites-for-developers/</link><pubDate>Sat, 01 Jan 2022 17:31:05 +0530</pubDate><guid>https://mranand.com/blogs/25-must-visit-killer-websites-for-developers/</guid><description>There are so many websites to make the work of developers easier. Everyone doesn&amp;#39;t know all. In this article, we will see 25 Must-Visit Killer Websites For Developers.
+90% of developers don’t know about these websites</description><content:encoded><![CDATA[<p>There are so many websites to make the work of developers easier. Everyone doesn&rsquo;t know all. In this article, we will see <strong>25 Must-Visit Killer Websites For Developers</strong>.</p>
+<h3 id="1-devdocshttpsdevdocsio">1. <a href="https://devdocs.io/">DevDocs</a></h3>
+<p>DevDocs brings together numerous API documentation in a single, searchable interface. You will find docs related to various programming languages, technologies in one place.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638384967813/utLSXf2-U.png" alt="screely-1638384035935.png"  />
+</p>
+<h3 id="2-raysohttpsrayso">2. <a href="https://ray.so/">ray.so</a></h3>
+<p>This website allows you to take beautiful screenshots of codes. It also has a dark mode and some preloaded themes for different programming languages. You can also use its VS Code extension.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638385311659/82S035d0k.png" alt="screely-1638385296060.png"  />
+</p>
+<h3 id="3-poetsohttpspoetso">3. <a href="https://poet.so/">Poet.so</a></h3>
+<p>This site is useful for developers who wish to post photos of their tweets on social media. Website transforms your tweet into a beautiful and editable design.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638385530712/GsADMkksb.png" alt="screely-1638385516106.png"  />
+</p>
+<h3 id="4-roadmapshhttpsroadmapsh">4. <a href="https://roadmap.sh/">roadmap.sh</a></h3>
+<p>This website provides roadmaps, guidelines, and other educational content to assist developers in choosing a path and directing their learning. It is very helpful for a beginner as well as a learner who needs guidance.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638385854363/V8bW_gzx1.png" alt="screely-1638385839901.png"  />
+</p>
+<h3 id="5-lambdatesthttpswwwlambdatestcom">5. <a href="https://www.lambdatest.com/">LambdaTest</a></h3>
+<p>LambdaTest is a cloud-based cross-browser testing platform that lets you test web applications on over 2000 different browsers, operating systems, and devices. LambdaTest allows you to test cross-browser compatibility both manually and automatically.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638386119439/mDXT7rVtt.png" alt="screely-1638386105526.png"  />
+</p>
+<h3 id="6-dailydevhttpsappdailydev">6. <a href="https://app.daily.dev/">daily.dev</a></h3>
+<p>It is a platform where you can find so many good articles to read daily. It shows the best articles from various platforms directly in your feed. Stay updated with quality content from various platforms directly into your browser by using its extension.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638386504039/glWhXS_nQ.png" alt="screely-1638386457871.png"  />
+</p>
+<h3 id="7-showwcasehttpswwwshowwcasecom">7. <a href="https://www.showwcase.com/">Showwcase</a></h3>
+<p>Showwcase is a new social media website specially for people who code connect, build community, and find new opportunities. It is a LinkedIn like platform but only focused on developers. You can join and <a href="https://www.showwcase.com/astrodevil">follow me</a> there.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638386870736/KMtvp18LF.png" alt="screely-1638386858754.png"  />
+</p>
+<h3 id="8-css-trickshttpscss-trickscom">8. <a href="https://css-tricks.com/">CSS-TRICKS</a></h3>
+<p>You can master your web development skills by learning every basics about CSS from this website. If you didn&rsquo;t already know, CSS is what makes pages on the web look beautiful.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638387360963/CZ40Lwai0.png" alt="screely-1638387302168.png"  />
+</p>
+<h3 id="9-medusahttpswwwmedusajscom">9. <a href="https://www.medusajs.com/">Medusa</a></h3>
+<p>An open-source Shopify alternative. Medusa is an open-source headless commerce engine that is fast and customizable. It&rsquo;s Free.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638387765631/u99VAO5fh.png" alt="screely-1638387753072.png"  />
+</p>
+<h3 id="10-smartmockupshttpssmartmockupscom">10. <a href="https://smartmockups.com/">SMARTMOCKUPS</a></h3>
+<p>Why give your time learning how to use Photoshop. Smartmockups allow you to generate gorgeous high-resolution mockups straight in your browser and across numerous devices using a single interface. The quickest web-based mockup tool available, No prior experience or abilities are required, and the library of professional mockups is always growing.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638388146151/XYY-Hey10.png" alt="screely-1638388121263.png"  />
+</p>
+<h3 id="11-code-beautifyhttpscodebeautifyorg">11. <a href="https://codebeautify.org/">Code Beautify</a></h3>
+<p>Make your source code more beautiful and easy to read using code to beautify its AI technology will make your source code more attractive and easy to read.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638388669184/LkNccoLNs.png" alt="screely-1638388657726.png"  />
+</p>
+<h3 id="12-overapihttpsoverapicom">12. <a href="https://overapi.com/">overAPI</a></h3>
+<p>For all developers, OverAPI is one of the most beautiful and useful websites. This website has cheatsheets for the majority of programming languages. Take a look at it right now.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638388599099/SWli6eqLd.png" alt="screely-1638388584887.png"  />
+</p>
+<h3 id="13-responsivelyhttpsresponsivelyapp">13. <a href="https://responsively.app/">Responsively</a></h3>
+<p>This is an open-source website that speeds up the development of web apps by 5 times. All target screens are displayed side by side in a single window. Reduces the time it takes to develop!</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638388914941/fzDk1EbbW.png" alt="screely-1638388903814.png"  />
+</p>
+<h3 id="14-color-hunthttpscolorhuntco">14. <a href="https://colorhunt.co/">Color Hunt</a></h3>
+<p>Colorhunt is a website that allows you to select gorgeous colour palettes. Web designers will find it very beneficial to choose beautiful and appealing colours, as well as to accept colour recommendations from other artists and art projects.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638389100098/2g69Ma1ju.png" alt="screely-1638389088000.png"  />
+</p>
+<h3 id="15-carbonhttpscarbonnowsh">15. <a href="https://carbon.now.sh/">Carbon</a></h3>
+<p>This website will help you to create and share beautiful images of your source codes. It also allows you to make changes to the photographs. You should give it a go right now.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638389339711/JzN9a1yTi.png" alt="screely-1638389329198.png"  />
+</p>
+<h3 id="16-meta-tagshttpsmetatagsio">16. <a href="https://metatags.io/">Meta Tags</a></h3>
+<p>It is a website tag generator that also allows you to update and experiment with your content before seeing how it will appear on Google, Facebook, LinkedIn, and other social media sites.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638389558917/vBV-rOHip.png" alt="screely-1638389538922.png"  />
+</p>
+<h3 id="17-profile-pic-makerhttpspfpmakercom">17. <a href="https://pfpmaker.com/">Profile Pic Maker</a></h3>
+<p>This website creates a professional and beautiful profile for each photo in your Web developer portfolio. As a developer, you will be exposed to social media. You only need to upload any of your images, and it will edit and enhance them. Give it a go right now.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638389794694/Ywlpmxb0a.png" alt="screely-1638389786334.png"  />
+</p>
+<h3 id="18-small-dev-toolshttpssmalldevtools">18. <a href="https://smalldev.tools/">Small Dev Tools</a></h3>
+<p>This website offers a variety of free developer tools, including encoders/decoders, HTML/CSS/Javascript formatters, minifies, fake or test data generators, and more. It also allows you to share codes.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638390009000/3vdcuU143.png" alt="screely-1638389956512.png"  />
+</p>
+<h3 id="19-resumeiohttpsresumeio">19. <a href="https://resume.io/">resume.io</a></h3>
+<p>This website allows you to create a quality resume. It will help you to create a professional resume by providing you with well-tested templates. Give it a Try.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638390270548/U8e1MzxUy.png" alt="screely-1638390259749.png"  />
+</p>
+<h3 id="20-codepenhttpscodepenio">20. <a href="https://codepen.io/">CODEPEN</a></h3>
+<p>CodePen is a web-based development platform that allows users to modify front-end languages such as HTML, CSS, and JavaScript without having to install any software. The nicest aspect is that the findings are visible in real-time, making troubleshooting easier. Developers and designers can also exchange code samples (known as pens) with the rest of the world.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638390510290/Z11dY_2Vv.png" alt="screely-1638390500404.png"  />
+</p>
+<h3 id="21-storytalehttpsstorytaleio">21. <a href="https://storytale.io/">Storytale</a></h3>
+<p>Storytale is a website that had collections of illustrations that Make your project eye-catching with awesome characters. It can be used personally and commercially. This is a helpful website for web designers. Get High-class assets for web and mobile projects.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638390858191/-tZZB4fvS.png" alt="screely-1638390848756.png"  />
+</p>
+<h3 id="22-readmesohttpsreadmeso">22. <a href="https://readme.so/">readme.so</a></h3>
+<p>This website allows you to create project README very easily. Its simple editor helps you to quickly add and customize all the sections you need for your project&rsquo;s README. You can use this to create documentation of your open-source projects quickly.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638391156722/7CiKyNZNv.png" alt="screely-1638391148567.png"  />
+</p>
+<h3 id="23-peppertypehttpswwwpeppertypeai">23. <a href="https://www.peppertype.ai/">Peppertype</a></h3>
+<p>Peppertype is a new tool that helps in automating the content production and ideation process. It analyses your business operations, understands your brand and target audience, and then creates fresh content for you using superior machine learning and artificial intelligence. If you are a developer creating content regularly, then this is for you.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638391381010/rY_Fyi21N.png" alt="screely-1638391370901.png"  />
+</p>
+<h3 id="24-synthesiahttpswwwsynthesiaio">24. <a href="https://www.synthesia.io/">synthesia</a></h3>
+<p>Synthesia helps you to create AI-based videos in over 50+ languages. You don&rsquo;t need a camera, microphone, or real face to create video content. You just need to upload your script and you will get an AI video.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638391829724/zFvA9ViJg.png" alt="screely-1638391816957.png"  />
+</p>
+<h3 id="25-programmer-humorhttpsprogrammerhumorio">25. <a href="https://programmerhumor.io/">Programmer Humor</a></h3>
+<p>Even developers also need entertainment. You can visit this website for various memes and jokes related to programming and developers. Have Fun.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638392080280/sDiDjjAgL.png" alt="screely-1638392067037.png"  />
+</p>
+<p><strong>Bonus Website</strong>: I used screenshots taken by <strong><a href="https://www.screely.com/">Screely</a></strong> in this Article.</p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item></channel></rss>
