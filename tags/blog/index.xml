@@ -1,1 +1,94 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>blog on Mr. Ånand</title><link>https://mranand.com/tags/blog/</link><description>Recent content in blog on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Nov 2022 12:30:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating Personal Blog With Hugo and Netlify</title><link>https://mranand.com/blogs/creating-personal-blog-with-hugo-and-netlify/</link><pubDate>Tue, 08 Nov 2022 12:30:05 +0530</pubDate><guid>https://mranand.com/blogs/creating-personal-blog-with-hugo-and-netlify/</guid><description>Blog website using a static site generator Hugo and deploying it to Netlify</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>blog on Mr. Ånand</title><link>https://mranand.com/tags/blog/</link><description>Recent content in blog on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Nov 2022 12:30:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating Personal Blog With Hugo and Netlify</title><link>https://mranand.com/blogs/creating-personal-blog-with-hugo-and-netlify/</link><pubDate>Tue, 08 Nov 2022 12:30:05 +0530</pubDate><guid>https://mranand.com/blogs/creating-personal-blog-with-hugo-and-netlify/</guid><description>Blog website using a static site generator Hugo and deploying it to Netlify</description><content:encoded><![CDATA[<p>In this Article! I am going to share the step-by-step method I followed while building a blog website using a static site generator <strong><a href="https://gohugo.io/">Hugo</a></strong> and deploying it to <strong>Netlify</strong>. I encountered some small errors during the process, I am gonna entertain those as well. Let&rsquo;s get started.</p>
+<p>As I am using windows, commands may be different, follow <a href="https://gohugo.io/documentation/">official docs</a> while building your own website using Hugo. Also, I am running all commands on git bash.</p>
+<h2 id="step-1">Step 1</h2>
+<p>Create any folder on Desktop and open <code>git bash</code>. Now time to install hugo.</p>
+<pre tabindex="0"><code>choco install hugo -confirm
+</code></pre><p>Or if you need the “extended” Sass/SCSS version: for some supported theme. Better install it from <code>cmd</code> by running it as administrator.</p>
+<pre tabindex="0"><code>choco install hugo-extended -confirm
+</code></pre><h2 id="step-2">Step 2</h2>
+<p>Now it&rsquo;s time to create a new website and add a cool theme to it. You can choose any theme from the Hugo theme library. Run below commands.</p>
+<pre tabindex="0"><code>// Choose your site name in place of blognerd
+
+hugo new site blognerd
+</code></pre><p>The above will create a new Hugo site in a folder named <code>blognerd</code>.</p>
+<p>It&rsquo;s time to add theme to the site. See <a href="https://themes.gohugo.io/">theme library</a> for a list of themes to consider. I am using <code>Beautiful Hugo</code> theme.</p>
+<pre tabindex="0"><code>cd blognerd
+git init
+</code></pre><p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667833676076/PKpoGXV0I.png" alt="screely-1667833660447.png"  />
+
+You can access GitHub repo of themes by just clicking download button on theme page as you can see in above picture.
+Now, download the theme from GitHub and add it to site&rsquo;s theme directory.</p>
+<pre tabindex="0"><code>git submodule add https://github.com/halogenica/beautifulhugo.git  themes/beautifulhugo
+</code></pre><p>Now, add the theme to the site configuration:</p>
+<pre tabindex="0"><code>echo theme = \&#34;beautifulhugo\&#34; &gt;&gt; config.toml
+</code></pre><h2 id="step-3">Step 3</h2>
+<p>It&rsquo;s time to add some contents to the newly created site. You can also add them manually but I am creating this using commands.</p>
+<pre tabindex="0"><code>hugo new posts/my-first-post.md
+</code></pre><p>Now open the whole folder in any code editor, I am using VS Code and edit your post as you wish. You can see the screenshot of mine editor below for reference of posts files.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667833762276/DsRn2AOzq.png" alt="screely-1667833744897.png"  />
+</p>
+<p>Above contents may be different for the theme you are using. I am going to add one of my article contents to this post for example, see below screenshot. You can edit metadata between <code>---</code> accordingly.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667833967425/FSSqga1wz.png" alt="screely-1667833945407.png"  />
+</p>
+<h2 id="step-4">Step 4</h2>
+<p>Now, is the time to test the site we created by running Hugo server.</p>
+<pre tabindex="0"><code>hugo server -D  //run only this command 
+
+Start building sites …
+hugo v0.105.0-0e3b42b4a9bdeb4d866210819fc6ddcf51582ffa+extended windows/amd64 BuildDate=2022-10-28T12:29:05Z VendorInfo=gohugoio
+
+                   | EN
+-------------------+------
+  Pages            |  10
+  Paginator pages  |   0
+  Non-page files   |   0
+  Static files     | 184
+  Processed images |   0
+  Aliases          |   2
+  Sitemaps         |   1
+  Cleaned          |   0
+
+Built in 4884 ms
+</code></pre><p>You can check live view on <code>http://localhost:1313/</code></p>
+<p>here&rsquo;s mine live view&hellip;
+<img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667834183565/PRMRHTJtn.png" alt="screely-1667834152910.png"  />
+</p>
+<h2 id="step-5">Step 5</h2>
+<p>It&rsquo;s time to give final touch to the newly created site. You can customize theme or configure site by opening up <code>config.toml</code> in a text editor and edit accordingly. In this theme I took help from their GitHub <a href="https://github.com/halogenica/beautifulhugo#readme">readme</a>.</p>
+<p>Now, time to build static site. Run below command after closing hugo server by pressing <code>Ctrl+c</code></p>
+<pre tabindex="0"><code>hugo -D  //run only this command
+
+Start building sites …
+hugo v0.105.0-0e3b42b4a9bdeb4d866210819fc6ddcf51582ffa+extended windows/amd64 BuildDate=2022-10-28T12:29:05Z VendorInfo=gohugoio
+
+                   | EN
+-------------------+------
+  Pages            |  16
+  Paginator pages  |   0
+  Non-page files   |   0
+  Static files     | 184
+  Processed images |   0
+  Aliases          |   5
+  Sitemaps         |   1
+  Cleaned          |   0
+
+Total in 763 ms
+</code></pre><h2 id="step-6">Step 6</h2>
+<p>Everything is now set. You can add more blog contents or customize the site according to your requirement. Now the final work is to deploy it to <strong>Netlify</strong>.</p>
+<p>I have Netlify CLI installed so I am going to the final step, You can install it by going to Netlify official docs and login to your account.</p>
+<p>After installing, run following commands:</p>
+<pre tabindex="0"><code>netlify dev
+</code></pre><p>It will open Netlify live server on <code>http://localhost:8888</code>. After checking everything on your site, close netlify server by pressing <code>Ctrl+c</code>. Time to deploy..</p>
+<pre tabindex="0"><code>netlify deploy  //run only this command 
+
+This folder isn&#39;t linked to a site yet
+? What would you like to do? (Use arrow keys)
+&gt; Link this directory to an existing site
+  +  Create &amp; configure a new site
+</code></pre><p>Follow the instruction and select <code>(.)</code> directory. Now deploy production.</p>
+<pre tabindex="0"><code>netlify deploy --prod
+
+// select public directory 
+</code></pre><p>Hurray! Now you can access your live website with Netlify domain from Netlify dashboard. I have created one other site and it&rsquo;s deployed, check my live website <a href="https://bloggeek.netlify.app/">here&hellip;</a></p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item></channel></rss>

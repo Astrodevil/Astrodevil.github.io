@@ -1,4 +1,294 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>github on Mr. Ånand</title><link>https://mranand.com/tags/github/</link><description>Recent content in github on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 11:22:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/github/index.xml" rel="self" type="application/rss+xml"/><item><title>Some Useful GitHub Repositories To Enhance Your Web3 Skills</title><link>https://mranand.com/blogs/some-useful-github-repositories-to-enhance-your-web3-skills/</link><pubDate>Mon, 30 May 2022 11:22:05 +0530</pubDate><guid>https://mranand.com/blogs/some-useful-github-repositories-to-enhance-your-web3-skills/</guid><description>GitHub Repositories you can contribute to and enhance your practical knowledge of web3 technologies.</description></item><item><title>Make Your GitHub Profile Standout To Attract Better Opportunities</title><link>https://mranand.com/blogs/make-your-github-profile-standout-to-attract-better-opportunities/</link><pubDate>Sat, 19 Mar 2022 11:00:05 +0530</pubDate><guid>https://mranand.com/blogs/make-your-github-profile-standout-to-attract-better-opportunities/</guid><description>To screen candidates, the industry is shifting away from resumes and toward GitHub profiles. In the software industry, Open Source projects are widely regarded now. How can recruiters know that the abilities you claim to have are truly the skills you have? When you&amp;#39;re a fresher with no professional experience open-source contributions come in useful. Without any prior industry expertise, GitHub allows you to exhibit your work. As a result, it&amp;#39;s important to make GitHub Profile stand out and present the best version of yourself.</description></item><item><title>All Resources To Help You Start Your Open-Source Journey: Open Source Gallery</title><link>https://mranand.com/blogs/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery/</link><pubDate>Sat, 01 Jan 2022 17:37:05 +0530</pubDate><guid>https://mranand.com/blogs/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery/</guid><description>Do you want to start your open source journey? Don&amp;#39;t know where to start? Difficulty in finding suitable projects according to your tech stack? Then this article is for you. In this article, I am going to discuss a resource gallery that I curated to help beginners get into the open-source world.
-Tutorials, Docs, Projects, and Communities to Get You Started.</description></item><item><title>How NOT to contribute to Open Source on GitHub: Tips For Beginners</title><link>https://mranand.com/blogs/how-not-to-contribute-to-open-source-on-github-tips-for-beginners/</link><pubDate>Sat, 01 Jan 2022 17:29:05 +0530</pubDate><guid>https://mranand.com/blogs/how-not-to-contribute-to-open-source-on-github-tips-for-beginners/</guid><description>While maintaining some projects on GitHub during Hacktoberfest 2021, I came across many new open source contributors. They are just starting their open-source journey and making mistakes. In the beginning, making mistakes is not a bad thing. But, correctly contributing to open-source projects is also very important.
-In this article, I am going to discuss some tips on - How Not to contribute to Open-Source on GitHub.</description></item><item><title>Some Cool GitHub Actions You Won't Believe Exists</title><link>https://mranand.com/blogs/some-cool-github-actions-you-wont-believe-exists/</link><pubDate>Fri, 31 Dec 2021 17:50:05 +0530</pubDate><guid>https://mranand.com/blogs/some-cool-github-actions-you-wont-believe-exists/</guid><description>With GitHub Actions, you can automate, customize, and execute your software development workflows right in your repository. You may find, create, and distribute actions for any job you want to do, including CI/CD, and combine actions in a fully customized workflow.
-In this Article, I am going to discuss Some Cool GitHub Actions You Won&amp;#39;t Believe Exists.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>github on Mr. Ånand</title><link>https://mranand.com/tags/github/</link><description>Recent content in github on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 11:22:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/github/index.xml" rel="self" type="application/rss+xml"/><item><title>Some Useful GitHub Repositories To Enhance Your Web3 Skills</title><link>https://mranand.com/blogs/some-useful-github-repositories-to-enhance-your-web3-skills/</link><pubDate>Mon, 30 May 2022 11:22:05 +0530</pubDate><guid>https://mranand.com/blogs/some-useful-github-repositories-to-enhance-your-web3-skills/</guid><description>GitHub Repositories you can contribute to and enhance your practical knowledge of web3 technologies.</description><content:encoded><![CDATA[<p>As the world is moving towards new technology, Web3 is the most trending of them. Developers are learning this new technology very fast, many companies are also shifting towards decentralized blockchain technology. To become a good web3 developer one need good skills related to tech, and for that, they will need practical knowledge of web3 technologies. Like working on or making projects based on blockchain.</p>
+<p>In this article, I am going to share ** Some Useful GitHub Repositories you can contribute** to and enhance your practical knowledge of web3 technologies.</p>
+<h3 id="1-100-days-of-web3httpsgithubcomfrancescoxxfree-web3-resources">1. <a href="https://github.com/FrancescoXX/free-Web3-resources">100 Days Of Web3</a></h3>
+<p>This is a list of Tons of Free Web3 Resources.</p>
+<p>This is primarily for Ethereum Developers, but many concepts are shared among different Blockchain or involve different blockchains.</p>
+<h3 id="2-awesome-solidityhttpsgithubcombkremawesome-solidity">2. <a href="https://github.com/bkrem/awesome-solidity">Awesome Solidity</a></h3>
+<p>⟠ A curated list of awesome Solidity resources, libraries, tools and more.</p>
+<h3 id="3-gunhttpsgithubcomamarkgun">3. <a href="https://github.com/amark/gun">Gun</a></h3>
+<p>An open source cybersecurity protocol for syncing decentralized graph data. GUN is a toolkit that allows you to create community-run and encrypted applications, such as an Open Source Firebase or a Decentralized Dropbox. GUN is in use by the Internet Archive and hundreds of other apps. Twitter&rsquo;s Bluesky program includes GUN!</p>
+<h3 id="4-web3-uihttpsgithubcomdeveloper-daoweb3-ui">4. <a href="https://github.com/Developer-DAO/web3-ui">Web3 Ui</a></h3>
+<p>A React UI library for Web3. A library of UI components specifically crafted for web3 use cases.</p>
+<h3 id="5-metamask-mobilehttpsgithubcommetamaskmetamask-mobile">5. <a href="https://github.com/MetaMask/metamask-mobile">Metamask Mobile</a></h3>
+<p>Mobile web browser providing access to websites that use the Ethereum blockchain.</p>
+<h3 id="6-nucypherhttpsgithubcomnucyphernucypher">6. <a href="https://github.com/nucypher/nucypher">Nucypher</a></h3>
+<p>A decentralized threshold cryptography network focused on proxy reencryption.</p>
+<h3 id="7-nft-apihttpsgithubcomnft-apinft-api">7. <a href="https://github.com/nft-api/nft-api">Nft Api</a></h3>
+<p>NFT API that returns resolved metadata and has all information about all NFT collections, users, transactions. Cross-Chain NFT API.</p>
+<h3 id="8-maticjshttpsgithubcommaticnetworkmaticjs">8. <a href="https://github.com/maticnetwork/matic.js">Matic.js</a></h3>
+<p>This repository contains the maticjs client library. maticjs makes it easy for developers, who may not be deeply familiar with smart contract development, to interact with the various components of Matic Network.</p>
+<p>This library will help developers to move assets from Ethereum chain to Matic chain, and withdraw from Matic to Ethereum using fraud proofs.</p>
+<h3 id="9-blockchain-bookshttpsgithubcomblockchainbooksblockchainbooksgithubio">9. <a href="https://github.com/BlockchainBooks/blockchainbooks.github.io">Blockchain Books</a></h3>
+<p>A collection of blockchain books to help people learn and become Awesome.</p>
+<h3 id="10-web3httpsgithubcomlife-itselfweb3">10. <a href="https://github.com/life-itself/web3">web3</a></h3>
+<p>Making sense of web3 &amp; crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.</p>
+<h3 id="11-learn-web3-dapphttpsgithubcomfigment-networkslearn-web3-dapp">11. <a href="https://github.com/figment-networks/learn-web3-dapp">Learn Web3 Dapp</a></h3>
+<p>This Next.js app is designed to be used with the Figment Learn Pathways, to help developers learn about various blockchain protocols such as Solana, NEAR, Secret, Polygon and Polkadot!</p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>Make Your GitHub Profile Standout To Attract Better Opportunities</title><link>https://mranand.com/blogs/make-your-github-profile-standout-to-attract-better-opportunities/</link><pubDate>Sat, 19 Mar 2022 11:00:05 +0530</pubDate><guid>https://mranand.com/blogs/make-your-github-profile-standout-to-attract-better-opportunities/</guid><description>To screen candidates, the industry is shifting away from resumes and toward GitHub profiles. In the software industry, Open Source projects are widely regarded now. How can recruiters know that the abilities you claim to have are truly the skills you have? When you&amp;#39;re a fresher with no professional experience open-source contributions come in useful. Without any prior industry expertise, GitHub allows you to exhibit your work. As a result, it&amp;#39;s important to make GitHub Profile stand out and present the best version of yourself.</description><content:encoded><![CDATA[<p>To screen candidates, the industry is shifting away from resumes and toward GitHub profiles. In the software industry, Open Source projects are widely regarded now. How can recruiters know that the abilities you claim to have are truly the skills you have? When you&rsquo;re a fresher with no professional experience open-source contributions come in useful. Without any prior industry expertise, GitHub allows you to exhibit your work. As a result, it&rsquo;s important to make GitHub Profile stand out and present the best version of yourself.</p>
+<p>In this article, I am shedding light on tips to <strong>Make Your GitHub Profile Standout To Attract Better Opportunities</strong>.</p>
+<h2 id="introduction">Introduction!</h2>
+<p><a href="https://github.com/Astrodevil"><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643986105138/0oFtVvL6rO.png" alt="screely-1643985124626.png"  />
+</a></p>
+<p>The above screenshot is of my GitHub profile. I have mentioned my bio in a detailed manner, including contribution graphs, badges, tech stack, proper name, username, profile picture, social handles, and my side hustles. You can also create your GitHub profile like mine or even better. Isn&rsquo;t my profile more detailed and attractive than resume? I hope after seeing the above screenshot you also want to make your GitHub profile stand out. <em>Let&rsquo;s get started!</em></p>
+<h2 id="foundation-stone">Foundation Stone</h2>
+<p>As you know already, the repository is the main feature of GitHub where every project, content, code is stored properly.</p>
+<p>Let&rsquo;s start by creating a special repository after signing in to your GitHub account. <strong>This repository name must be same as your GitHub username</strong>.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643985010957/IkhnHnKtE.png" alt="screely-1643984983985.png"  />
+</p>
+<p>This is a ✨special ✨ repository that you can use to add a <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes">README.md</a> to your GitHub profile. Make sure it’s public and initialize it with a README or create a README.md file inside this repository to get started.</p>
+<p><a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> will be used to add contents and details in <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes">README</a> file. Learn Markdown syntax from this <a href="https://github.com/Astrodevil/Open-Source-Gallery/blob/main/src/markdown-cheatsheet.pdf">cheetsheet</a>. README files are commonly used to write documentation for the project repositories.</p>
+<p>It&rsquo;s time to add contents in your profile README.</p>
+<ul>
+<li>
+<h3 id="header">Header</h3>
+</li>
+</ul>
+<p>In the header, you can add your name, greet message, photo or gif, or nothing according to your choice. I am using my profile-related codes, you can change accordingly.</p>
+<pre tabindex="0"><code># Hi, I&#39;m Astrodevil &lt;img src=&#34;https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif&#34; width=&#34;29px&#34;&gt;
+</code></pre><p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643988124430/yV3R85kVl.png" alt="screely-1643988107672.png"  />
+</p>
+<ul>
+<li>
+<h3 id="about">About</h3>
+</li>
+</ul>
+<p>In the About section you can add your little introduction, What you are working on, What are your goals or something like that.</p>
+<pre tabindex="0"><code># replace contents according to you.
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;center&#34;&gt;
+      🎓 I am currently pursuing my **Bachelor&#39;s in Computer Science Engineering**.
+      🌱 I am currently learning **Java** and also interested in **Web Development**.
+      🎯 My Goal is to Contribute to as many **open source project** as possible.
+      ✨ I love to create different types of **contents**.
+&lt;td &gt;
+# this is my daily.dev card, you can edit this accordingly
+      &lt;a href=&#34;https://app.daily.dev/Astrodevil&#34;&gt;&lt;img src=&#34;https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr&#34; width=&#34;300&#34; alt=&#34;Mr. Ånand&#39;s Dev Card&#34;/&gt;&lt;/a&gt;
+    &lt;/td&gt;
+    
+  &lt;/tr&gt;
+  &lt;/table&gt;
+</code></pre><p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643990740258/Z1jZcLM6f.png" alt="screely-1643989115241.png"  />
+</p>
+<ul>
+<li>
+<h3 id="contribution-graph">Contribution Graph</h3>
+</li>
+</ul>
+<p>I have added a contribution graph banner to update daily activity from my GitHub profile. It&rsquo;s a nice way to showcase if you are active frequently and doing some contributions in projects. This graph is updating daily automatically.</p>
+<pre tabindex="0"><code> # replace username with your own or change theme
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#your-username&amp;theme=dracula&amp;hide_border=true)
+</code></pre><p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643999148850/TYksn6HXu.png" alt="screely-1643999127515.png"  />
+</p>
+<ul>
+<li>
+<h3 id="icons--badges">Icons &amp; Badges</h3>
+</li>
+</ul>
+<p>Adding <strong>social handles</strong> on GitHub profile is the best way to connect with peoples and transfer more audience towards your socials. You can use badges for that or icons. You can create badges from <a href="https://shields.io/">shields.io</a> and also use icons from <a href="https://www.flaticon.com/free-icons/social-media">flaticon</a>. There are tons of site to find attractive icons. You can also add information about your tech stack and tools you are familiar with by using badges and icons.
+<img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644000346031/NDAKl8FYz.png" alt="screely-1644000227962.png"  />
+
+<a href="https://github.com/adityaoberai"><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644000356557/-3x4Rkzzb.png" alt="screely-1644000240039.png"  />
+</a></p>
+<ul>
+<li>
+<h3 id="stats-card">Stats Card</h3>
+</li>
+</ul>
+<p>Adding Stats cards to your GitHub page is another common profile enhancement. This is a simple method to display all of your GitHub statistics in a fun, visual way. You can also track your GitHub Streak.</p>
+<pre tabindex="0"><code># replace username with your own or change theme
+## Stats📈
+&lt;p align=&#34;center&#34;&gt;
+&lt;img width=&#34;40%&#34; src=&#34;https://github-readme-stats.vercel.app/api/top-langs?username=#your-username&amp;show_icons=true&amp;theme=dracula&amp;title_color=ff8000&amp;text_color=ffffff&amp;bg_color=6a6a6a&amp;locale=en&amp;layout=compact&amp;hide_border=true&#34; alt=&#34;#your-username&#34; /&gt; 
+&lt;img width=&#34;48%&#34; src=&#34;https://github-readme-stats.vercel.app/api?username=#your-username&amp;show_icons=true&amp;theme=dracula&amp;title_color=ff8000&amp;text_color=ffffff&amp;bg_color=6a6a6a&amp;locale=en&amp;hide_border=true&#34; alt=&#34;#your-username&#34; /&gt;
+&lt;img width=&#34;48%&#34; src=&#34;https://github-readme-streak-stats.herokuapp.com/?user=#your-username&amp;theme=highcontrast&amp;hide_border=true&#34; alt=&#34;#your-username&#34; /&gt;
+&lt;/p&gt;
+</code></pre><p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644001673972/Aa_oIfn4V.png" alt="screely-1644001425832.png"  />
+</p>
+<p>These are the basic customization method that can make your GitHub profile stand out, I used my profile as an example to explain above. You can also add more customization in your GitHub profile README to make it detailed and attractive. <em>Let&rsquo;s see that in next section</em>.</p>
+<h2 id="building">Building</h2>
+<ul>
+<li>You can also <strong>track your activity</strong> and showcase it on your profile README by using a GitHub Action Scripts. Just create <code>/.github/workflows/update-readme.yml</code> inside the repository and paste below code inside update-readme.yml file. This script updates activity every 30 minutes.</li>
+</ul>
+<pre tabindex="0"><code>name: Update README
+
+on:
+  schedule:
+    - cron: &#39;*/30 * * * *&#39;
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo&#39;s README with recent activity
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</code></pre><p>Add this block to README.md file where you want to showcase your recent activity</p>
+<pre tabindex="0"><code>
+&lt;!--START_SECTION:activity--&gt;
+&lt;!--END_SECTION:activity--&gt;
+</code></pre><p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644003241309/oKOBcwt09.png" alt="screely-1644003225209.png"  />
+</p>
+<ul>
+<li>You can also add your <strong>blogs and side hustles</strong> on your profile README by manually adding it or automating the tasks by using GitHub Actions. Check this <a href="https://astrodevil.hashnode.dev/some-cool-github-actions-you-wont-believe-exists">article</a> to know more about helpful actions. You can impress recruiters by showcasing your awesome side hustles.</li>
+</ul>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644005000197/gFSVDnWjN.png" alt="screely-1644004991863.png"  />
+</p>
+<h2 id="final-touch">Final Touch</h2>
+<ul>
+<li>
+<p>If you don&rsquo;t want to learn Markdown or don&rsquo;t have enough time to write from scratch. You can use <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GitHub Profile README Generator</a>, <a href="https://gprm.itsvg.in/">GPRM</a> or <a href="https://readme.so/">readme generator</a> to create your profile README.</p>
+</li>
+<li>
+<p>You can also take inspiration from other profiles by copy-pasting markdown codes in your README to customize accordingly. Here are the <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/profiles">example profiles</a> you can take inspiration from.</p>
+</li>
+</ul>
+<p>I hope, This will help you to make your GitHub profile stand-out! What are you waiting for? Now go create your own profile README and open a world of opportunities for yourself. Check out my <a href="https://github.com/Astrodevil">GitHub</a>🤝</p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>All Resources To Help You Start Your Open-Source Journey: Open Source Gallery</title><link>https://mranand.com/blogs/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery/</link><pubDate>Sat, 01 Jan 2022 17:37:05 +0530</pubDate><guid>https://mranand.com/blogs/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery/</guid><description>Do you want to start your open source journey? Don&amp;#39;t know where to start? Difficulty in finding suitable projects according to your tech stack? Then this article is for you. In this article, I am going to discuss a resource gallery that I curated to help beginners get into the open-source world.
+Tutorials, Docs, Projects, and Communities to Get You Started.</description><content:encoded><![CDATA[<p>Do you want to start your open source journey? Don&rsquo;t know where to start? Difficulty in finding suitable projects according to your tech stack? Then this article is for you. In this article, I am going to discuss a resource gallery that I curated to help beginners get into the open-source world.</p>
+<h1 id="open-source-galleryhttpsgithubcomastrodevilopen-source-gallery"><a href="https://github.com/Astrodevil/Open-Source-Gallery">Open Source Gallery</a></h1>
+<h3 id="about">About❓</h3>
+<p>Are you a beginner? Wants to start open-source? Don&rsquo;t know how, where, why to start?</p>
+<p>You are welcome! You are in right place.😊</p>
+<p>Open-Source-Gallery provides you with all the resources needed to become a good open-sourcer.</p>
+<p>The motive🎯 of this project is to help new learners like you to get familiar with the world of open-source.</p>
+<h3 id="contents">Contents🔥</h3>
+<p>Every Learner has different preferences, some find docs are easy to understand and learn from there, some prefer video. I have taken care of all that while curating these resources.</p>
+<p>Even after being willing to start, newbies find it difficult to find projects and communities I have taken care of that.</p>
+<p>Open Source Gallery includes:</p>
+<ul>
+<li>Videos📹</li>
+<li>Articles📝</li>
+<li>Projects🦾</li>
+<li>Programs and Internships Opportunities☕</li>
+<li>Communities🔥</li>
+<li>Key Peoples🧑‍💻</li>
+</ul>
+<h3 id="what-else">What Else⚡</h3>
+<p>I have also included some <a href="https://github.com/Astrodevil/Open-Source-Gallery#more-resource-gallery">other resources</a> and resources gallery apart from open source. Hope it will help you in your learning.</p>
+<p>This resource gallery was 1st curated on Notion but now it is hosted on GitHub. If you find this helpful, don&rsquo;t forget to give it a <a href="https://github.com/Astrodevil/Open-Source-Gallery">⭐</a> on GitHub.</p>
+<p>Happy learning.👍</p>
+<p>So, What are you waiting for? <a href="https://astrodevil.github.io/Open-Source-Gallery/">Start here</a></p>
+<h3 id="final-words">Final Words✅</h3>
+<p>Open Source Gallery is made with a view to helping everyone, It will be constantly updated with new and valuable resources. So you all are welcome to add more resources to the <a href="https://github.com/Astrodevil/Open-Source-Gallery">repository</a> and share it with everyone out there who is going to start open-source in 2022.</p>
+<p>Don&rsquo;t forget to give it a <a href="https://github.com/Astrodevil/Open-Source-Gallery">⭐</a> on GitHub.</p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>How NOT to contribute to Open Source on GitHub: Tips For Beginners</title><link>https://mranand.com/blogs/how-not-to-contribute-to-open-source-on-github-tips-for-beginners/</link><pubDate>Sat, 01 Jan 2022 17:29:05 +0530</pubDate><guid>https://mranand.com/blogs/how-not-to-contribute-to-open-source-on-github-tips-for-beginners/</guid><description>While maintaining some projects on GitHub during Hacktoberfest 2021, I came across many new open source contributors. They are just starting their open-source journey and making mistakes. In the beginning, making mistakes is not a bad thing. But, correctly contributing to open-source projects is also very important.
+In this article, I am going to discuss some tips on - How Not to contribute to Open-Source on GitHub.</description><content:encoded><![CDATA[<p>While maintaining some projects on GitHub during Hacktoberfest 2021, I came across many new open source contributors. They are just starting their open-source journey and making mistakes. In the beginning, making mistakes is not a bad thing. But, correctly contributing to open-source projects is also very important.</p>
+<p>In this article, I am going to discuss some tips on - <strong>How Not to contribute to Open-Source on GitHub</strong>.</p>
+<h2 id="understanding-projects">Understanding Projects</h2>
+<p>Understanding of project like how folders are arranged? how files are linked? which tech stack is used? is the most important thing before raising an issue or making a pull request in any project on GitHub.</p>
+<p><strong>Don&rsquo;t</strong> make pull requests or raise issues without reading contributing guidelines of any projects. Always read the <a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/blob/main/README.md">README.md</a> file of projects where everything related to the project is written most of the time. Also, clone the project in your machine and go through every file once to understand its working.</p>
+<h2 id="raising-issue">Raising Issue</h2>
+<p>If you want to solve any bug or to contribute some lines of code to a project then you have to raise an issue. But always check the previous issues raised by anyone else to confirm, if anyone else is working or described the same issue that you gonna solve.</p>
+<p><strong>Don&rsquo;t</strong> raise 1 or 2-word issue, that doesn&rsquo;t make sense to anyone else. Always remember to add proper details/context in the issue because the issue is like a chain of conversation related to changes you or anyone else wants to make in the project. Write a proper description and proper title to the issue also add screenshots, links, information, or an approach to solve that issue to proper understanding. Make issues such that project maintainers or contributors understand your views and suggestions quickly.</p>
+<p>✅<strong>Do this</strong>
+<img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635350929799/bnTb0CZty.png" alt="Screenshot 2021-10-27 213749.png"  />
+</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635351083473/vY7qeS-Dt.png" alt="Screenshot 2021-10-27 214055.png"  />
+</p>
+<p>❌<strong>Don&rsquo;t do this</strong>
+<img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635351300986/61UUlutnr.png" alt="Screenshot 2021-10-27 214444.png"  />
+</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635351839443/wPLy9K_fV.png" alt="Screenshot 2021-10-27 215344.png"  />
+</p>
+<h2 id="making-pull-request">Making Pull Request</h2>
+<p>Your PR should do one thing. Always make a pull request for one part or section so that it would be easier for reviewers and maintainers to merge your pull request. If you are solving multiple issues in a project then open multiple PRs.</p>
+<p><strong>Don&rsquo;t</strong> make multiple PRs in one, this is confusing sometimes and also delayed the merging process. Let&rsquo;s assume you are making a PR for a new feature in the project and you also found a bug related to a different part of the same project. Don&rsquo;t fix that bug in the same PR. Because sometimes the other changes that gonna add value to the project get delayed due to multiple PRs in one. Make PRs small and on point, which will help your pull request getting merged easily.</p>
+<p><strong>Don’t</strong> open a PR like this:</p>
+<ul>
+<li>Fixes bug #343</li>
+<li>Adds new linting rules</li>
+<li>Includes feature #466</li>
+</ul>
+<p>Attaching screenshots or some information related to your changes in the PR description is also very good practice. This will help the maintainer or reviewer to differentiate between changes.</p>
+<p>✅<strong>Do this</strong></p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635357710905/HhuZ6VeLi.png" alt="Screenshot 2021-10-27 233035.png"  />
+</p>
+<p>❌<strong>Don&rsquo;t do this</strong></p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635357822392/sJpdNHose.png" alt="Screenshot 2021-10-27 233332.png"  />
+</p>
+<h2 id="approvals-and-dead-prs">Approvals and Dead PRs</h2>
+<p><strong>Don&rsquo;t</strong> start working on any project before the maintainer gives you a go-ahead or assigned that issue to you. Don&rsquo;t open pull requests immediately. Wait for the maintainers approval</p>
+<ul>
+<li>If the issue is already open and not assigned to anyone, ask maintainers if you can work on that.</li>
+<li>Start work on your PR.</li>
+<li>Don&rsquo;t ask maintainers to assign you an issue that is already assigned to someone else.</li>
+</ul>
+<p>Sometimes you get confused during working on PR maybe you lost interest or whatever reasons please don&rsquo;t leave that open PR as it is, make sure to close that <strong>dead PR</strong>. The maintainer may not want to close it because they don&rsquo;t want to upset you. It neither looks good for the project nor to you. You can always reopen the Pull request if you want to work on that in the future.</p>
+<h2 id="be-meaningful">Be Meaningful</h2>
+<p>Every contribution is valuable. If something is broken in the project like an important link is not working in the documentation that will be needed to be fixed. But if you just change an emoji from ⚡ to 🚀, this is not much valuable.</p>
+<p><strong>Don&rsquo;t</strong> break consistency.</p>
+<ul>
+<li>Every time make sure to follow proper file order and directory to commit changes.</li>
+<li>Removing semicolons, adding spaces, or making text bold in the project that doesn&rsquo;t prefer them.</li>
+</ul>
+<h2 id="hassling-maintainers-to-merge">Hassling Maintainers To Merge</h2>
+<p>When you create any pull request or issue I know you get excited. Maintainers will get a notification that you raised or crested. You don&rsquo;t need to add additional comments and tag them. If it&rsquo;s taking time, give them a friendly call in comments that will be fine.</p>
+<p><strong>Don&rsquo;t</strong> hassle them on DMs on Twitter, Discord, Linkedin, or any other socials by sending them links of your issue or PRs. They are getting notifications from projects they maintain and you are adding more notifications. This will create more confusion for maintainers. Remember, most of these people maintaining projects are from different time zones. Many of them are maintaining open-source project in addition of their work. Be patience! You can give them a friendly reminder after 1 week or such.</p>
+<p>✅<strong>Do this</strong></p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635362084267/UWbqUg1jJ.png" alt="Screenshot 2021-10-28 004433.png"  />
+</p>
+<p>❌<strong>Don&rsquo;t do this</strong></p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635362312519/6ML0tiARb.jpeg" alt="img.jpeg"  />
+</p>
+<h3 id="references">References</h3>
+<p><a href="https://youtu.be/ExFCwFPTsE0">Eddie Jaoude</a></p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>Some Cool GitHub Actions You Won't Believe Exists</title><link>https://mranand.com/blogs/some-cool-github-actions-you-wont-believe-exists/</link><pubDate>Fri, 31 Dec 2021 17:50:05 +0530</pubDate><guid>https://mranand.com/blogs/some-cool-github-actions-you-wont-believe-exists/</guid><description>With GitHub Actions, you can automate, customize, and execute your software development workflows right in your repository. You may find, create, and distribute actions for any job you want to do, including CI/CD, and combine actions in a fully customized workflow.
+In this Article, I am going to discuss Some Cool GitHub Actions You Won&amp;#39;t Believe Exists.</description><content:encoded><![CDATA[<p>With GitHub Actions, you can automate, customize, and execute your software development workflows right in your repository. You may find, create, and distribute actions for any job you want to do, including CI/CD, and combine actions in a fully customized workflow.</p>
+<p>In this Article, I am going to discuss <strong>Some Cool GitHub Actions You Won&rsquo;t Believe Exists</strong>.</p>
+<h2 id="for-bloggers">For Bloggers</h2>
+<ul>
+<li>
+<p><a href="https://github.com/marketplace/actions/hashnode-blog">Hashnode Blog</a>: You can use this GitHub Action to fetch &amp; display your latest blog posts From Hashnode on your profile or project README.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/medium-post">Medium Post</a>: You can use this GitHub Action for posting a markdown post to Medium.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/post-to-medium-action">Post to Medium Action</a>: This GitHub Action allows you to automatically create a new Medium post with Markdown or HTML.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/publish-to-dev-to">Publish to dev.to</a>: You can use this GitHub Action to publish markdown files as articles on dev.to platform, with assets hosted on GitHub.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/theactiondev">TheActionDev</a>: This GitHub Action allows you to write &amp; maintain dev.to articles without touching the dev.to UI.</p>
+</li>
+</ul>
+<h2 id="for-content-creators">For Content Creators</h2>
+<ul>
+<li>
+<p><a href="https://github.com/marketplace/actions/youtube-videos-as-posts">YouTube-Videos-As-Posts</a>: This GitHub Action update all the videos, title, and description available inside the channel into the posts in Jekyll site structure everyday automatically. No need to manually do any step after posting any new video in YouTube, it will be updated in website on next day.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/upload-episode-from-youtube-to-anchor-fm">Upload Episode from YouTube To Anchor.Fm</a>: This GitHub Action will upload an audio file from a given YouTube video automatically to your Anchor.fm account. It is very useful in a scenario where you have a YouTube account and also a podcast over Spotify, Anchor.fm, Play Music, iTunes etc.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/ebook-convert-action">Ebook convert action</a>: You can use this GitHub Action for converting eBooks in several formats. The action supports conversions between many file types i.e.: DOCX, EPUB, HTML, PDF, RTF, TXT&hellip;</p>
+</li>
+</ul>
+<h2 id="some-more-actions">Some More Actions</h2>
+<ul>
+<li>
+<p><a href="https://github.com/marketplace/actions/push-notification-on-whatsapp">Push notification on Whatsapp</a>: A GitHub action which sends a WhatsApp message when code is pushed to a repository.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/twitter-together">Twitter, together!</a>: This GitHub Action uses text files to post tweets from a GitHub repository for Open Source or event maintainers who share a project Twitter account. GitHub&rsquo;s pull request review mechanism, rather than tweeting directly, encourages increased collaboration, Twitter engagement, and editorial input by allowing anyone to submit a tweet draft to a project.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/notion2github">Notion2Github</a>: Automatic synchronization from Notion to GitHub.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/profile-readme-development-stats">Profile Readme Development Stats</a>: Are you an early bird or a night owl? When are you most productive during the day? What are languages you code in? This GitHub Action updates everything in your profile README.</p>
+</li>
+</ul>
+<p>GitHub Actions are such a productive tool that I have decided to use one of the above Actions in my GitHub while writing this blog. Could You guess? Which one.</p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item></channel></rss>

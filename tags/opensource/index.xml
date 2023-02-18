@@ -1,5 +1,165 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>opensource on Mr. Ånand</title><link>https://mranand.com/tags/opensource/</link><description>Recent content in opensource on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 28 Apr 2022 22:12:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/opensource/index.xml" rel="self" type="application/rss+xml"/><item><title>GirlScript Summer of Code Learning And Experiences: From Contributor To Project Admin</title><link>https://mranand.com/blogs/girlscript-summer-of-code-learning-and-experiences/</link><pubDate>Thu, 28 Apr 2022 22:12:05 +0530</pubDate><guid>https://mranand.com/blogs/girlscript-summer-of-code-learning-and-experiences/</guid><description>GSSoC stands for GirlScript Summer of Code. It is a three-month-long Open-Source Program conducted by the GirlScript Foundation for beginners. This year I am selected as project admin for the program. (GSSOC&amp;#39;22)
-In this article, I am going to share my experiences from being a contributor in an open-source program to the project admin &amp;amp; mentor of one.</description></item><item><title>All Resources To Help You Start Your Open-Source Journey: Open Source Gallery</title><link>https://mranand.com/blogs/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery/</link><pubDate>Sat, 01 Jan 2022 17:37:05 +0530</pubDate><guid>https://mranand.com/blogs/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery/</guid><description>Do you want to start your open source journey? Don&amp;#39;t know where to start? Difficulty in finding suitable projects according to your tech stack? Then this article is for you. In this article, I am going to discuss a resource gallery that I curated to help beginners get into the open-source world.
-Tutorials, Docs, Projects, and Communities to Get You Started.</description></item><item><title>How NOT to contribute to Open Source on GitHub: Tips For Beginners</title><link>https://mranand.com/blogs/how-not-to-contribute-to-open-source-on-github-tips-for-beginners/</link><pubDate>Sat, 01 Jan 2022 17:29:05 +0530</pubDate><guid>https://mranand.com/blogs/how-not-to-contribute-to-open-source-on-github-tips-for-beginners/</guid><description>While maintaining some projects on GitHub during Hacktoberfest 2021, I came across many new open source contributors. They are just starting their open-source journey and making mistakes. In the beginning, making mistakes is not a bad thing. But, correctly contributing to open-source projects is also very important.
-In this article, I am going to discuss some tips on - How Not to contribute to Open-Source on GitHub.</description></item><item><title>Some Cool GitHub Actions You Won't Believe Exists</title><link>https://mranand.com/blogs/some-cool-github-actions-you-wont-believe-exists/</link><pubDate>Fri, 31 Dec 2021 17:50:05 +0530</pubDate><guid>https://mranand.com/blogs/some-cool-github-actions-you-wont-believe-exists/</guid><description>With GitHub Actions, you can automate, customize, and execute your software development workflows right in your repository. You may find, create, and distribute actions for any job you want to do, including CI/CD, and combine actions in a fully customized workflow.
-In this Article, I am going to discuss Some Cool GitHub Actions You Won&amp;#39;t Believe Exists.</description></item></channel></rss>
+In this article, I am going to share my experiences from being a contributor in an open-source program to the project admin &amp;amp; mentor of one.</description><content:encoded><![CDATA[<p>GSSoC stands for <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code</a>. It is a three-month-long Open-Source Program conducted by the GirlScript Foundation for beginners. This year I am selected as project admin for the program. (GSSOC'22)</p>
+<p>In this article, I am going to share my experiences from being a contributor in an open-source program to the project admin &amp; mentor of one.</p>
+<h3 id="how-i-started">How I started?</h3>
+<p>My first open-source contribution was to a friend&rsquo;s repository. After doing some small contributions I came to know about GSSoC program and I took part in it. This was the first big contribution from my side to any open source project. Before that, I had some experience contributing to <strong>EbookFoundation / free-programming-books</strong>. From that, I learned to communicate over issues and to make pull requests properly. This previous work helped me a lot during GirlScript Summer of Code.</p>
+<h3 id="what-i-learned">What I Learned?</h3>
+<p>Successful contributions during the program definitely acted as a confidence booster for me. Now, I was more confident to work on any open-source project. While contributing I went through some issues and pull requests where project maintainers were discussing things and I tried to understand their workflow, and how they manage things.</p>
+<p>After some time, I decided to take part as a project admin in an open-source program. Hacktoberfest was the best time to do so because many newbies were going to start their open source contributions in the month of October.</p>
+<h3 id="what-next">What Next?</h3>
+<p>I had created a repository to host small JavaScript projects. It was for personal use first but after the decision of participating as a project admin, I created a GitHub organization <a href="https://github.com/ZeroOctave">ZeroOctave</a> and added the same repository inside that. Hacktoberfest was going to start so I thought of taking my chances and as expected some good contributions were added to the repository. I was enjoying my role as a maintainer while guiding contributors for the contribution to my repository.</p>
+<p>Just after Hacktoberfest, some more open-source programs were going to start so I applied with my repository and got accepted in two of them. Those programs were <a href="https://icc-techsahead.netlify.app/">Infinite Clone Conspiracy</a> &amp; <a href="https://dwoc.io/">DWoC'21</a>. These programs were not big enough to attract many contributors but still some good projects were added to our repository and some new members also joined the GitHub organization.</p>
+<h3 id="gssoc">GSSoC!</h3>
+<p>GSSoC stands for <!-- raw HTML omitted -->Google<!-- raw HTML omitted --> GirlScript Summer of Code. As I mentioned earlier, GSSoC'21 acted as the starting step for my open source journey. After 1 year when another version of GSSoC came back, I decided to participate in my project this time. I filled out the registration form with my organization and project details and got selected as project admin. It&rsquo;s a 3-month long program currently going on, many new contributions are coming into our organization repository. <a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects">ZeroOctave Javascript Projects</a> is our project repository that is the part of GSSoC'22. Till now 200+ issues created and 200+ pull requests merged.</p>
+<p>While doing my work as project admin and coordinating with my project maintainers, I am also focused on enhancing my tech skills. So that I can contribute to some good open-source projects out there.</p>
+<h3 id="invitation-for-you">Invitation For You!</h3>
+<p>If you are a beginner, you are welcome to contribute to our organization. If you are an active open source contributor or maintainer, you are welcome to join ZeroOctave. Join zeroOctave to add your projects, guide newbies or write articles related to open source.</p>
+<p><strong>Invitation Links</strong></p>
+<ul>
+<li><a href="https://github.com/ZeroOctave"> Join ZeroOctave GitHub Organization</a></li>
+<li><a href="https://github.com/ZeroOctave#what-you-can-do-here">Contribute In Projects</a></li>
+<li><a href="https://hashnode.com/teams/invite/0013e746-aa30-4335-9196-5dd3bed50715">Join ZeroOctave Blog Team</a></li>
+</ul>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>All Resources To Help You Start Your Open-Source Journey: Open Source Gallery</title><link>https://mranand.com/blogs/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery/</link><pubDate>Sat, 01 Jan 2022 17:37:05 +0530</pubDate><guid>https://mranand.com/blogs/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery/</guid><description>Do you want to start your open source journey? Don&amp;#39;t know where to start? Difficulty in finding suitable projects according to your tech stack? Then this article is for you. In this article, I am going to discuss a resource gallery that I curated to help beginners get into the open-source world.
+Tutorials, Docs, Projects, and Communities to Get You Started.</description><content:encoded><![CDATA[<p>Do you want to start your open source journey? Don&rsquo;t know where to start? Difficulty in finding suitable projects according to your tech stack? Then this article is for you. In this article, I am going to discuss a resource gallery that I curated to help beginners get into the open-source world.</p>
+<h1 id="open-source-galleryhttpsgithubcomastrodevilopen-source-gallery"><a href="https://github.com/Astrodevil/Open-Source-Gallery">Open Source Gallery</a></h1>
+<h3 id="about">About❓</h3>
+<p>Are you a beginner? Wants to start open-source? Don&rsquo;t know how, where, why to start?</p>
+<p>You are welcome! You are in right place.😊</p>
+<p>Open-Source-Gallery provides you with all the resources needed to become a good open-sourcer.</p>
+<p>The motive🎯 of this project is to help new learners like you to get familiar with the world of open-source.</p>
+<h3 id="contents">Contents🔥</h3>
+<p>Every Learner has different preferences, some find docs are easy to understand and learn from there, some prefer video. I have taken care of all that while curating these resources.</p>
+<p>Even after being willing to start, newbies find it difficult to find projects and communities I have taken care of that.</p>
+<p>Open Source Gallery includes:</p>
+<ul>
+<li>Videos📹</li>
+<li>Articles📝</li>
+<li>Projects🦾</li>
+<li>Programs and Internships Opportunities☕</li>
+<li>Communities🔥</li>
+<li>Key Peoples🧑‍💻</li>
+</ul>
+<h3 id="what-else">What Else⚡</h3>
+<p>I have also included some <a href="https://github.com/Astrodevil/Open-Source-Gallery#more-resource-gallery">other resources</a> and resources gallery apart from open source. Hope it will help you in your learning.</p>
+<p>This resource gallery was 1st curated on Notion but now it is hosted on GitHub. If you find this helpful, don&rsquo;t forget to give it a <a href="https://github.com/Astrodevil/Open-Source-Gallery">⭐</a> on GitHub.</p>
+<p>Happy learning.👍</p>
+<p>So, What are you waiting for? <a href="https://astrodevil.github.io/Open-Source-Gallery/">Start here</a></p>
+<h3 id="final-words">Final Words✅</h3>
+<p>Open Source Gallery is made with a view to helping everyone, It will be constantly updated with new and valuable resources. So you all are welcome to add more resources to the <a href="https://github.com/Astrodevil/Open-Source-Gallery">repository</a> and share it with everyone out there who is going to start open-source in 2022.</p>
+<p>Don&rsquo;t forget to give it a <a href="https://github.com/Astrodevil/Open-Source-Gallery">⭐</a> on GitHub.</p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>How NOT to contribute to Open Source on GitHub: Tips For Beginners</title><link>https://mranand.com/blogs/how-not-to-contribute-to-open-source-on-github-tips-for-beginners/</link><pubDate>Sat, 01 Jan 2022 17:29:05 +0530</pubDate><guid>https://mranand.com/blogs/how-not-to-contribute-to-open-source-on-github-tips-for-beginners/</guid><description>While maintaining some projects on GitHub during Hacktoberfest 2021, I came across many new open source contributors. They are just starting their open-source journey and making mistakes. In the beginning, making mistakes is not a bad thing. But, correctly contributing to open-source projects is also very important.
+In this article, I am going to discuss some tips on - How Not to contribute to Open-Source on GitHub.</description><content:encoded><![CDATA[<p>While maintaining some projects on GitHub during Hacktoberfest 2021, I came across many new open source contributors. They are just starting their open-source journey and making mistakes. In the beginning, making mistakes is not a bad thing. But, correctly contributing to open-source projects is also very important.</p>
+<p>In this article, I am going to discuss some tips on - <strong>How Not to contribute to Open-Source on GitHub</strong>.</p>
+<h2 id="understanding-projects">Understanding Projects</h2>
+<p>Understanding of project like how folders are arranged? how files are linked? which tech stack is used? is the most important thing before raising an issue or making a pull request in any project on GitHub.</p>
+<p><strong>Don&rsquo;t</strong> make pull requests or raise issues without reading contributing guidelines of any projects. Always read the <a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/blob/main/README.md">README.md</a> file of projects where everything related to the project is written most of the time. Also, clone the project in your machine and go through every file once to understand its working.</p>
+<h2 id="raising-issue">Raising Issue</h2>
+<p>If you want to solve any bug or to contribute some lines of code to a project then you have to raise an issue. But always check the previous issues raised by anyone else to confirm, if anyone else is working or described the same issue that you gonna solve.</p>
+<p><strong>Don&rsquo;t</strong> raise 1 or 2-word issue, that doesn&rsquo;t make sense to anyone else. Always remember to add proper details/context in the issue because the issue is like a chain of conversation related to changes you or anyone else wants to make in the project. Write a proper description and proper title to the issue also add screenshots, links, information, or an approach to solve that issue to proper understanding. Make issues such that project maintainers or contributors understand your views and suggestions quickly.</p>
+<p>✅<strong>Do this</strong>
+<img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635350929799/bnTb0CZty.png" alt="Screenshot 2021-10-27 213749.png"  />
+</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635351083473/vY7qeS-Dt.png" alt="Screenshot 2021-10-27 214055.png"  />
+</p>
+<p>❌<strong>Don&rsquo;t do this</strong>
+<img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635351300986/61UUlutnr.png" alt="Screenshot 2021-10-27 214444.png"  />
+</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635351839443/wPLy9K_fV.png" alt="Screenshot 2021-10-27 215344.png"  />
+</p>
+<h2 id="making-pull-request">Making Pull Request</h2>
+<p>Your PR should do one thing. Always make a pull request for one part or section so that it would be easier for reviewers and maintainers to merge your pull request. If you are solving multiple issues in a project then open multiple PRs.</p>
+<p><strong>Don&rsquo;t</strong> make multiple PRs in one, this is confusing sometimes and also delayed the merging process. Let&rsquo;s assume you are making a PR for a new feature in the project and you also found a bug related to a different part of the same project. Don&rsquo;t fix that bug in the same PR. Because sometimes the other changes that gonna add value to the project get delayed due to multiple PRs in one. Make PRs small and on point, which will help your pull request getting merged easily.</p>
+<p><strong>Don’t</strong> open a PR like this:</p>
+<ul>
+<li>Fixes bug #343</li>
+<li>Adds new linting rules</li>
+<li>Includes feature #466</li>
+</ul>
+<p>Attaching screenshots or some information related to your changes in the PR description is also very good practice. This will help the maintainer or reviewer to differentiate between changes.</p>
+<p>✅<strong>Do this</strong></p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635357710905/HhuZ6VeLi.png" alt="Screenshot 2021-10-27 233035.png"  />
+</p>
+<p>❌<strong>Don&rsquo;t do this</strong></p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635357822392/sJpdNHose.png" alt="Screenshot 2021-10-27 233332.png"  />
+</p>
+<h2 id="approvals-and-dead-prs">Approvals and Dead PRs</h2>
+<p><strong>Don&rsquo;t</strong> start working on any project before the maintainer gives you a go-ahead or assigned that issue to you. Don&rsquo;t open pull requests immediately. Wait for the maintainers approval</p>
+<ul>
+<li>If the issue is already open and not assigned to anyone, ask maintainers if you can work on that.</li>
+<li>Start work on your PR.</li>
+<li>Don&rsquo;t ask maintainers to assign you an issue that is already assigned to someone else.</li>
+</ul>
+<p>Sometimes you get confused during working on PR maybe you lost interest or whatever reasons please don&rsquo;t leave that open PR as it is, make sure to close that <strong>dead PR</strong>. The maintainer may not want to close it because they don&rsquo;t want to upset you. It neither looks good for the project nor to you. You can always reopen the Pull request if you want to work on that in the future.</p>
+<h2 id="be-meaningful">Be Meaningful</h2>
+<p>Every contribution is valuable. If something is broken in the project like an important link is not working in the documentation that will be needed to be fixed. But if you just change an emoji from ⚡ to 🚀, this is not much valuable.</p>
+<p><strong>Don&rsquo;t</strong> break consistency.</p>
+<ul>
+<li>Every time make sure to follow proper file order and directory to commit changes.</li>
+<li>Removing semicolons, adding spaces, or making text bold in the project that doesn&rsquo;t prefer them.</li>
+</ul>
+<h2 id="hassling-maintainers-to-merge">Hassling Maintainers To Merge</h2>
+<p>When you create any pull request or issue I know you get excited. Maintainers will get a notification that you raised or crested. You don&rsquo;t need to add additional comments and tag them. If it&rsquo;s taking time, give them a friendly call in comments that will be fine.</p>
+<p><strong>Don&rsquo;t</strong> hassle them on DMs on Twitter, Discord, Linkedin, or any other socials by sending them links of your issue or PRs. They are getting notifications from projects they maintain and you are adding more notifications. This will create more confusion for maintainers. Remember, most of these people maintaining projects are from different time zones. Many of them are maintaining open-source project in addition of their work. Be patience! You can give them a friendly reminder after 1 week or such.</p>
+<p>✅<strong>Do this</strong></p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635362084267/UWbqUg1jJ.png" alt="Screenshot 2021-10-28 004433.png"  />
+</p>
+<p>❌<strong>Don&rsquo;t do this</strong></p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635362312519/6ML0tiARb.jpeg" alt="img.jpeg"  />
+</p>
+<h3 id="references">References</h3>
+<p><a href="https://youtu.be/ExFCwFPTsE0">Eddie Jaoude</a></p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>Some Cool GitHub Actions You Won't Believe Exists</title><link>https://mranand.com/blogs/some-cool-github-actions-you-wont-believe-exists/</link><pubDate>Fri, 31 Dec 2021 17:50:05 +0530</pubDate><guid>https://mranand.com/blogs/some-cool-github-actions-you-wont-believe-exists/</guid><description>With GitHub Actions, you can automate, customize, and execute your software development workflows right in your repository. You may find, create, and distribute actions for any job you want to do, including CI/CD, and combine actions in a fully customized workflow.
+In this Article, I am going to discuss Some Cool GitHub Actions You Won&amp;#39;t Believe Exists.</description><content:encoded><![CDATA[<p>With GitHub Actions, you can automate, customize, and execute your software development workflows right in your repository. You may find, create, and distribute actions for any job you want to do, including CI/CD, and combine actions in a fully customized workflow.</p>
+<p>In this Article, I am going to discuss <strong>Some Cool GitHub Actions You Won&rsquo;t Believe Exists</strong>.</p>
+<h2 id="for-bloggers">For Bloggers</h2>
+<ul>
+<li>
+<p><a href="https://github.com/marketplace/actions/hashnode-blog">Hashnode Blog</a>: You can use this GitHub Action to fetch &amp; display your latest blog posts From Hashnode on your profile or project README.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/medium-post">Medium Post</a>: You can use this GitHub Action for posting a markdown post to Medium.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/post-to-medium-action">Post to Medium Action</a>: This GitHub Action allows you to automatically create a new Medium post with Markdown or HTML.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/publish-to-dev-to">Publish to dev.to</a>: You can use this GitHub Action to publish markdown files as articles on dev.to platform, with assets hosted on GitHub.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/theactiondev">TheActionDev</a>: This GitHub Action allows you to write &amp; maintain dev.to articles without touching the dev.to UI.</p>
+</li>
+</ul>
+<h2 id="for-content-creators">For Content Creators</h2>
+<ul>
+<li>
+<p><a href="https://github.com/marketplace/actions/youtube-videos-as-posts">YouTube-Videos-As-Posts</a>: This GitHub Action update all the videos, title, and description available inside the channel into the posts in Jekyll site structure everyday automatically. No need to manually do any step after posting any new video in YouTube, it will be updated in website on next day.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/upload-episode-from-youtube-to-anchor-fm">Upload Episode from YouTube To Anchor.Fm</a>: This GitHub Action will upload an audio file from a given YouTube video automatically to your Anchor.fm account. It is very useful in a scenario where you have a YouTube account and also a podcast over Spotify, Anchor.fm, Play Music, iTunes etc.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/ebook-convert-action">Ebook convert action</a>: You can use this GitHub Action for converting eBooks in several formats. The action supports conversions between many file types i.e.: DOCX, EPUB, HTML, PDF, RTF, TXT&hellip;</p>
+</li>
+</ul>
+<h2 id="some-more-actions">Some More Actions</h2>
+<ul>
+<li>
+<p><a href="https://github.com/marketplace/actions/push-notification-on-whatsapp">Push notification on Whatsapp</a>: A GitHub action which sends a WhatsApp message when code is pushed to a repository.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/twitter-together">Twitter, together!</a>: This GitHub Action uses text files to post tweets from a GitHub repository for Open Source or event maintainers who share a project Twitter account. GitHub&rsquo;s pull request review mechanism, rather than tweeting directly, encourages increased collaboration, Twitter engagement, and editorial input by allowing anyone to submit a tweet draft to a project.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/notion2github">Notion2Github</a>: Automatic synchronization from Notion to GitHub.</p>
+</li>
+<li>
+<p><a href="https://github.com/marketplace/actions/profile-readme-development-stats">Profile Readme Development Stats</a>: Are you an early bird or a night owl? When are you most productive during the day? What are languages you code in? This GitHub Action updates everything in your profile README.</p>
+</li>
+</ul>
+<p>GitHub Actions are such a productive tool that I have decided to use one of the above Actions in my GitHub while writing this blog. Could You guess? Which one.</p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item></channel></rss>

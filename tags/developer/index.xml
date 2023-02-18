@@ -1,3 +1,525 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>developer on Mr. Ånand</title><link>https://mranand.com/tags/developer/</link><description>Recent content in developer on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 16:52:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/developer/index.xml" rel="self" type="application/rss+xml"/><item><title>Astrodevil's 2022 Wrapped: Dev Retro 2022</title><link>https://mranand.com/blogs/astrodevil-year-wrap-dev-retro/</link><pubDate>Mon, 12 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/astrodevil-year-wrap-dev-retro/</guid><description>Dev Retro 2022</description></item><item><title>Learn and Explore Low-Code / No-Code Stack by Involving in These Communities</title><link>https://mranand.com/blogs/learn-and-explore-low-code-no-code-stack-by-involving-in-these-communities/</link><pubDate>Fri, 07 Oct 2022 11:45:05 +0530</pubDate><guid>https://mranand.com/blogs/learn-and-explore-low-code-no-code-stack-by-involving-in-these-communities/</guid><description>No-Code /Low-Code is a new trend in tech and you can master this new tech by involving in communities.</description></item><item><title>Some Useful GitHub Repositories To Enhance Your Web3 Skills</title><link>https://mranand.com/blogs/some-useful-github-repositories-to-enhance-your-web3-skills/</link><pubDate>Mon, 30 May 2022 11:22:05 +0530</pubDate><guid>https://mranand.com/blogs/some-useful-github-repositories-to-enhance-your-web3-skills/</guid><description>GitHub Repositories you can contribute to and enhance your practical knowledge of web3 technologies.</description></item><item><title>40+ No Code/Low Code Tools And Resources For Developers In 2022</title><link>https://mranand.com/blogs/40+-no-codelow-code-tools-and-resources-for-developers-in-2022/</link><pubDate>Sat, 01 Jan 2022 17:40:05 +0530</pubDate><guid>https://mranand.com/blogs/40+-no-codelow-code-tools-and-resources-for-developers-in-2022/</guid><description>There are so many no-code tools to make the work of developers easier. Anyone can build some useful products, startups without writing even a single line of code. In this article, we will see 40+ No Code/Low Code Tools And Resources For Developers that is going to help you In 2022.
-90% of developers don’t know about these resources.</description></item><item><title>25 Must-Visit Killer Websites For Developers</title><link>https://mranand.com/blogs/25-must-visit-killer-websites-for-developers/</link><pubDate>Sat, 01 Jan 2022 17:31:05 +0530</pubDate><guid>https://mranand.com/blogs/25-must-visit-killer-websites-for-developers/</guid><description>There are so many websites to make the work of developers easier. Everyone doesn&amp;#39;t know all. In this article, we will see 25 Must-Visit Killer Websites For Developers.
-90% of developers don’t know about these websites</description></item><item><title>Some Apps You Should Use As a Student Developer</title><link>https://mranand.com/blogs/some-apps-you-should-use-as-a-student-developer/</link><pubDate>Thu, 30 Dec 2021 20:57:05 +0530</pubDate><guid>https://mranand.com/blogs/some-apps-you-should-use-as-a-student-developer/</guid><description>Having useful apps in phones is very important now-a-days. And as a student you must use apps useful for you.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>developer on Mr. Ånand</title><link>https://mranand.com/tags/developer/</link><description>Recent content in developer on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 16:52:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/developer/index.xml" rel="self" type="application/rss+xml"/><item><title>Astrodevil's 2022 Wrapped: Dev Retro 2022</title><link>https://mranand.com/blogs/astrodevil-year-wrap-dev-retro/</link><pubDate>Mon, 12 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/astrodevil-year-wrap-dev-retro/</guid><description>Dev Retro 2022</description><content:encoded><![CDATA[<p>Hey Folks! Long time no see. <strong>2022</strong> is going to end in a few days. In this article, I am going to talk about myself, what I achieved, and my failures this year.</p>
+<p>**2023 is already knocking at the doors!**🎅🏼</p>
+<p>It&rsquo;s time to celebrate the past year&rsquo;s achievements and learn from the mistakes of 2022. Thanks to Hashnode for organizing the <strong>&ldquo;Dev Retro 2022&rdquo;</strong> campaign.</p>
+<h2 id="achievements">Achievements🎉</h2>
+<h3 id="blogs">Blogs</h3>
+<p>Published 6 Articles on my <strong>Blog</strong> this year. Not a great number but I am happy with not quitting due to lack of ideas and time.</p>
+<p>Writing is something that made me explore things I didn&rsquo;t even think of. Tech Twitter has changed my life very much, So much to learn from there, seeing good folks there and learning from them is great. Sometimes article ideas just come from Twitter and a little bit of research is over the top of it.</p>
+<p><em><strong>Here are my 6 Articles written in 2022, You can check them:</strong></em></p>
+<ul>
+<li>
+<p><a href="https://astrodevil.hashnode.dev/15-recommended-books-for-computer-science-students">15 Recommended Books For Computer Science Students</a></p>
+</li>
+<li>
+<p><a href="https://astrodevil.hashnode.dev/make-your-github-profile-standout-to-attract-better-opportunities">Make Your GitHub Profile Standout To Attract Better Opportunities</a></p>
+</li>
+<li>
+<p><a href="https://astrodevil.hashnode.dev/some-useful-github-repositories-to-enhance-your-web3-skills">Some Useful GitHub Repositories To Enhance Your Web3 Skills</a></p>
+</li>
+<li>
+<p><a href="https://astrodevil.hashnode.dev/learn-and-explore-low-code-no-code-stack-by-involving-in-these-communities">Learn and Explore Low-Code / No-Code Stack by Involving in These Communities</a></p>
+</li>
+<li>
+<p><a href="https://astrodevil.hashnode.dev/hacktoberfest-2022-win-swags-for-quality-contributions">Hacktoberfest 2022: Win Swags for Quality Contributions</a></p>
+</li>
+<li>
+<p><a href="https://astrodevil.hashnode.dev/creating-personal-blog-with-hugo-and-netlify">Creating Personal Blog With Hugo and Netlify</a></p>
+</li>
+</ul>
+<h3 id="open-source-contributions">Open Source Contributions</h3>
+<p>Participated in <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code 2022</a> as a project admin and helped fellow contributors to get into open source while collaborating on a web development-based repository containing more than 100 mini projects.</p>
+<p>You can check out the repository in this GitHub <a href="https://github.com/ZeroOctave">organization</a></p>
+<h3 id="opportunities--rewards">Opportunities &amp; Rewards</h3>
+<p>I got a paid guest writer role from a no-code platform due to my blogs. It&rsquo;s a thing that I never thought of a year back. But after this, I am more confident in my writing than I ever was.</p>
+<p>I also got nominated for <strong>&quot;</strong><a href="https://www.noonies.tech/"><strong>THE NOONIES 2022</strong></a><strong>&quot;</strong> in 4 categories out of which I am the runner-up for 3 categories. <strong>THE NOONIES</strong> is a tech award given by <a href="https://hackernoon.com/"><strong>Hackernoon</strong></a> each year to bloggers and creators from different categories.</p>
+<p><strong>Check it out here:</strong></p>
+<ul>
+<li>
+<p><a href="https://www.noonies.tech/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-books">HackerNoon Contributor of the Year- BOOKS</a></p>
+</li>
+<li>
+<p><a href="https://www.noonies.tech/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-job-hunting">HackerNoon Contributor of the Year- JOB-HUNTING</a></p>
+</li>
+<li>
+<p><a href="https://www.noonies.tech/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-developer">HackerNoon Contributor of the Year- DEVELOPER</a></p>
+</li>
+<li>
+<p><a href="https://www.noonies.tech/2022/programming/2022-hackernoon-contributor-of-the-year-github">HackerNoon Contributor of the Year- GitHub</a></p>
+</li>
+</ul>
+<h2 id="failures">Failures🚨</h2>
+<p>Honestly, I am not happy with my 2022 work and learning.</p>
+<p>Not finishing what I started to learn, be it DSA or Web development. Not written as many blogs as I planned a year back. Lots of mismanagement happened due to shifts in my college work. I had online classes till the first half of 2022 and after that, I got to attend offline classes. this messed up my whole planning and I wasn&rsquo;t able to manage it well.</p>
+<p>Mistakes are never meant to be repeated and I am keeping them in check from now on. Offline classes and semester exams had taken lots of time and mismanagement adds fire to that. I can&rsquo;t repeat these mistakes in 2023. I didn&rsquo;t compete for my bigger goal this year.</p>
+<h2 id="2023-goals">2023 Goals🎯</h2>
+<p>I am not aiming too high for the next year&hellip;</p>
+<ul>
+<li>
+<p>Just want to finish what I started to learn.</p>
+</li>
+<li>
+<p>Will contribute to open source on a more regular basis.</p>
+</li>
+<li>
+<p>Writing articles more often.</p>
+</li>
+<li>
+<p>Finding Internships or Technical writing opportunities.</p>
+</li>
+</ul>
+<h2 id="wrap">Wrap🧵</h2>
+<p>It&rsquo;s time to learn from mistakes than get into repentance. This time with proper time management. I know now that my classes are offline and learning will be planned accordingly. My Internship season is approaching soon and I have to be ready for that. Lots of things to be achieved but have to go one step at a time.</p>
+<p>I am going to be more active this time on Twitter and will continue to load my Instagram with lots of Tech content. Will be learning &amp; creating content in public.</p>
+<p>Lots of good content in 2023!👍🏼</p>
+<p><strong>🫱🏼‍🫲🏼Let&rsquo;s Connect</strong></p>
+<p><a href="https://www.showwcase.com/astrodevil?referralToken=diy00cbqnih">Showwcase</a> &mdash; <a href="https://www.instagram.com/codes.astro/">Instagram</a></p>
+<p><strong>How was yours? Let me know in the comments!</strong></p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>Learn and Explore Low-Code / No-Code Stack by Involving in These Communities</title><link>https://mranand.com/blogs/learn-and-explore-low-code-no-code-stack-by-involving-in-these-communities/</link><pubDate>Fri, 07 Oct 2022 11:45:05 +0530</pubDate><guid>https://mranand.com/blogs/learn-and-explore-low-code-no-code-stack-by-involving-in-these-communities/</guid><description>No-Code /Low-Code is a new trend in tech and you can master this new tech by involving in communities.</description><content:encoded><![CDATA[<p>I am pretty sure you all are familiar with full-stack, MERN stack, and many similar tech stacks related to development. But I will not talk about it because lots of content are already there. I am going to tell you about the <strong>&ldquo;No-Code /Low-Code stack&rdquo;</strong> a new trend in tech and how you will master this new tech by involving in related communities.</p>
+<h3 id="what-is-low-code--no-code-stack">What is Low-Code / No-Code Stack?</h3>
+<p>This tech stack is nothing but a complete knowledge of Low-Code / No-Code tools and platforms for different stages or processes of software development. Like planning, designing, building, deploying, and launching a fully functional product. It&rsquo;s a new trend, many developers are working in this field and new platforms are coming around low code like Notion or Zapier. If you are not from a tech background and do not want to go deep with coding, You can consider learning this low-code / no-code tech stack and make wonders happen.</p>
+<blockquote>
+<p>If you don&rsquo;t know about low-code / no-code. Read my article about it. <a href="https://blog.flycode.com/say-no-to-coding-introduction-to-low-code-no-code">Here</a></p>
+</blockquote>
+<blockquote>
+<p>If you want to know about some low-code / no-code tools and platforms. Read my article about it. <a href="https://astrodevil.hashnode.dev/40-no-codelow-code-tools-and-resources-for-developers-in-2022">Here</a></p>
+</blockquote>
+<h3 id="explore-low-code--no-code-stack-by-involving-in-these-communities">Explore Low-Code / No-Code Stack by Involving in These Communities</h3>
+<p>As you know communities are very important in the tech world, as it helps in many ways. Communities are the best place to find the right solution, You will learn about the true meaning of networking, which goes beyond just following each other on Twitter and connecting on LinkedIn. Communities also help in boosting your capacity for technological proficiency and many more good things. Like finding jobs and helping you in choosing the right step. Communities can be free or paid.</p>
+<p>Let&rsquo;s see some good low-code / no-code communities.</p>
+<h3 id="1-100-days-of-no-codehttpswww100daysofnocodecom">1. <a href="https://www.100daysofnocode.com/">100 days of No Code</a></h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658343702106/0ESyvsbwB.png" alt="screely-1658343687970.png"  />
+</p>
+<p>100 Days of No Code is a global collective of no-code learners. People from many backgrounds have gathered in this location to learn, connect, and share their knowledge. It has more than 5,000 learners who are bringing their ideas to life. In just 30 minutes a day, you can learn how to use no-code from scratch with the help of some entertaining and helpful bite-sized courses. Both free &amp; paid memberships are available.</p>
+<h3 id="2-nocodedevshttpswwwnocodedevscom">2. <a href="https://www.nocodedevs.com/">NoCodeDevs</a></h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658344630762/-EGrY86-R.png" alt="screely-1658344621547.png"  />
+</p>
+<p>The largest collection of no-code tools, applications, and resources available. In the NoCodeDevs community, business owners may find fresh tips and methods for implementing their ideas without writing code and connect with other makers to assist one another in the creation process. Join this community of 20,000+ non-tech founders, 300+ tool directories, and 150+ tutorials. Live workshops and events are also organized.</p>
+<h3 id="3-makerpadhttpswwwmakerpadco">3. <a href="https://www.makerpad.co/">Makerpad</a></h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658681083559/M8tNPQuIi.png" alt="screely-1658681073602.png"  />
+</p>
+<p>Ben Tossell founded the Makerpad community in 2019, and it is dedicated to providing no-code education for creating applications and websites, managing online businesses, and automating operations without writing code. Makerpad is free to sign up for, but in order to access premium features, you must buy a membership plan. Members of the Makerpad community can also make their professional profiles public to draw clients looking for specialized assistance with their no-code projects.</p>
+<h3 id="4-nocodefoundershttpsnocodefounderscom">4. <a href="https://nocodefounders.com/">NoCodeFounders</a></h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658681528172/pf4qwZEqD.png" alt="screely-1658681520294.png"  />
+</p>
+<p>This is a well-known online network for innovators, makers, solopreneurs, and business people without technical backgrounds. More than 13,000 people are involved. Members take part in online gatherings and activities where they make new relationships and get knowledge about the best no-code platforms. You must pay a one-time cost of $99 to sign up as a premium user. Access to the Slack community, filter unlocks, exclusive tutorials and benefits with unmatched insights into the no-code landscape are all included with membership.</p>
+<h3 id="5-webflow-communityhttpswebflowcomcommunity">5. <a href="https://webflow.com/community">Webflow Community</a></h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658681757620/JUGE94LtW.png" alt="screely-1658681747686.png"  />
+</p>
+<p>Connect with the 75,000+ members who are developing the future of visual development and contributing to Webflow. Connect with entrepreneurs, product and project managers, business owners, designers, founders, marketers, and developers from businesses of all sizes and sectors. Webflow is a low-code website builder.</p>
+<h3 id="6-nucodehttpswwwnucodeco">6. <a href="https://www.nucode.co/">Nucode</a></h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658682616350/eeRNqFLVt.png" alt="screely-1658682535734.png"  />
+</p>
+<p>Nucode is a community of makers and inventors. There are almost 7000 members in total. You can learn to use tools like Webflow, Glide, and Bubble for nothing! Together, anyone can grow and learn in this amazing space. Your fellow creators can offer you suggestions based on their experience as you submit your knowledge. You can set a challenge for other non-coders to create apps for challenging situations in order to promote a sense of competition in addition to learning.</p>
+<h3 id="7-no-code-alleyhttpswwwnocodealleycom">7. <a href="https://www.nocodealley.com/">No-Code Alley</a></h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658682924797/IBAXq-yzP.png" alt="screely-1658682914631.png"  />
+</p>
+<p>Citizens who are no-code developers can connect on a discussion board set up by No-code Alley to solve their business issues. You can discover the top no-code products, their applications, and helpful hints. Additionally, there are specific forums like Stack Overflow where you can post specific queries and get responses from other non-coders.</p>
+<h3 id="8-nocode-hqhttpsnocodehqcom">8. <a href="https://nocodehq.com/">Nocode HQ</a></h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658683982834/Ywz55tcXw.png" alt="screely-1658683975357.png"  />
+</p>
+<p>The Nocode HQ community provides a network where developers can talk about problems facing the industry and work together to find innovative solutions. The learning environment provided by the platform includes step-by-step lessons, templates, and expert sessions. You can connect with people who are creating similar items to gain assistance and feedback by hosting a network with social media capabilities.</p>
+<p>Joining is free, and it gives you access to a few resources and a place in the community. In addition, you can choose premium membership by paying a monthly charge of $29 for it. You get access to limitless tutorials, premium templates, and cost-free Nocode sessions with a premium membership.</p>
+<h3 id="9-nocodelisthttpsnocodelistco">9. <a href="https://nocodelist.co/">NoCodeList</a></h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658684448037/kBO3wAG2R.png" alt="screely-1658684276021.png"  />
+</p>
+<p>The tools and resources needed to build your own no-code product are all collected in one place by No Code List. No Code List also includes No Code Agencies that can assist you in creating no-code goods or services. Numerous other no-code forums, channels, blogs, tutorials, courses, websites, etc. are included in their Resources area. If you sign up, four new tools will be delivered to your inbox every Friday.</p>
+<h3 id="10-codem4phttpscodemapio">10. <a href="https://codemap.io/">Codem4p</a></h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658688272649/gu0qrjCCQ.png" alt="screely-1658688265395.png"  />
+</p>
+<p>Clients looking to hire specialists, companies, and independent freelancers can connect through this network. If you are a no-coder looking to work for respected businesses, this is the place for you. You can also interact with your peers, present your work, learn, and get feedback. You also gain access to premium events, professional resources, expert sessions, and discussions about various tools.</p>
+<p>Hire the best personnel for automation, no-code, low-code, and remote work. Develop software up to 10 times faster, automate tasks, and launch it in a few of weeks by learning no-code.</p>
+<p><strong>I hope you find this article helpful! If you know some other communities, let me know on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a>.</strong></p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>Some Useful GitHub Repositories To Enhance Your Web3 Skills</title><link>https://mranand.com/blogs/some-useful-github-repositories-to-enhance-your-web3-skills/</link><pubDate>Mon, 30 May 2022 11:22:05 +0530</pubDate><guid>https://mranand.com/blogs/some-useful-github-repositories-to-enhance-your-web3-skills/</guid><description>GitHub Repositories you can contribute to and enhance your practical knowledge of web3 technologies.</description><content:encoded><![CDATA[<p>As the world is moving towards new technology, Web3 is the most trending of them. Developers are learning this new technology very fast, many companies are also shifting towards decentralized blockchain technology. To become a good web3 developer one need good skills related to tech, and for that, they will need practical knowledge of web3 technologies. Like working on or making projects based on blockchain.</p>
+<p>In this article, I am going to share ** Some Useful GitHub Repositories you can contribute** to and enhance your practical knowledge of web3 technologies.</p>
+<h3 id="1-100-days-of-web3httpsgithubcomfrancescoxxfree-web3-resources">1. <a href="https://github.com/FrancescoXX/free-Web3-resources">100 Days Of Web3</a></h3>
+<p>This is a list of Tons of Free Web3 Resources.</p>
+<p>This is primarily for Ethereum Developers, but many concepts are shared among different Blockchain or involve different blockchains.</p>
+<h3 id="2-awesome-solidityhttpsgithubcombkremawesome-solidity">2. <a href="https://github.com/bkrem/awesome-solidity">Awesome Solidity</a></h3>
+<p>⟠ A curated list of awesome Solidity resources, libraries, tools and more.</p>
+<h3 id="3-gunhttpsgithubcomamarkgun">3. <a href="https://github.com/amark/gun">Gun</a></h3>
+<p>An open source cybersecurity protocol for syncing decentralized graph data. GUN is a toolkit that allows you to create community-run and encrypted applications, such as an Open Source Firebase or a Decentralized Dropbox. GUN is in use by the Internet Archive and hundreds of other apps. Twitter&rsquo;s Bluesky program includes GUN!</p>
+<h3 id="4-web3-uihttpsgithubcomdeveloper-daoweb3-ui">4. <a href="https://github.com/Developer-DAO/web3-ui">Web3 Ui</a></h3>
+<p>A React UI library for Web3. A library of UI components specifically crafted for web3 use cases.</p>
+<h3 id="5-metamask-mobilehttpsgithubcommetamaskmetamask-mobile">5. <a href="https://github.com/MetaMask/metamask-mobile">Metamask Mobile</a></h3>
+<p>Mobile web browser providing access to websites that use the Ethereum blockchain.</p>
+<h3 id="6-nucypherhttpsgithubcomnucyphernucypher">6. <a href="https://github.com/nucypher/nucypher">Nucypher</a></h3>
+<p>A decentralized threshold cryptography network focused on proxy reencryption.</p>
+<h3 id="7-nft-apihttpsgithubcomnft-apinft-api">7. <a href="https://github.com/nft-api/nft-api">Nft Api</a></h3>
+<p>NFT API that returns resolved metadata and has all information about all NFT collections, users, transactions. Cross-Chain NFT API.</p>
+<h3 id="8-maticjshttpsgithubcommaticnetworkmaticjs">8. <a href="https://github.com/maticnetwork/matic.js">Matic.js</a></h3>
+<p>This repository contains the maticjs client library. maticjs makes it easy for developers, who may not be deeply familiar with smart contract development, to interact with the various components of Matic Network.</p>
+<p>This library will help developers to move assets from Ethereum chain to Matic chain, and withdraw from Matic to Ethereum using fraud proofs.</p>
+<h3 id="9-blockchain-bookshttpsgithubcomblockchainbooksblockchainbooksgithubio">9. <a href="https://github.com/BlockchainBooks/blockchainbooks.github.io">Blockchain Books</a></h3>
+<p>A collection of blockchain books to help people learn and become Awesome.</p>
+<h3 id="10-web3httpsgithubcomlife-itselfweb3">10. <a href="https://github.com/life-itself/web3">web3</a></h3>
+<p>Making sense of web3 &amp; crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.</p>
+<h3 id="11-learn-web3-dapphttpsgithubcomfigment-networkslearn-web3-dapp">11. <a href="https://github.com/figment-networks/learn-web3-dapp">Learn Web3 Dapp</a></h3>
+<p>This Next.js app is designed to be used with the Figment Learn Pathways, to help developers learn about various blockchain protocols such as Solana, NEAR, Secret, Polygon and Polkadot!</p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>40+ No Code/Low Code Tools And Resources For Developers In 2022</title><link>https://mranand.com/blogs/40+-no-codelow-code-tools-and-resources-for-developers-in-2022/</link><pubDate>Sat, 01 Jan 2022 17:40:05 +0530</pubDate><guid>https://mranand.com/blogs/40+-no-codelow-code-tools-and-resources-for-developers-in-2022/</guid><description>There are so many no-code tools to make the work of developers easier. Anyone can build some useful products, startups without writing even a single line of code. In this article, we will see 40+ No Code/Low Code Tools And Resources For Developers that is going to help you In 2022.
+90% of developers don’t know about these resources.</description><content:encoded><![CDATA[<p>There are so many no-code tools to make the work of developers easier. Anyone can build some useful products, startups without writing even a single line of code. In this article, we will see <strong>40+ No Code/Low Code Tools And Resources For Developers</strong> that is going to help you In 2022.</p>
+<h3 id="what-exactly-is-no-code">What exactly is no-code?</h3>
+<p>Programming without code is a concise definition. It is the use of no-code tools that allow you to create a fully functional, responsive web application or website without writing any code. However, it goes a little deeper than that.</p>
+<p>Every piece of technology, including no-code platforms, is developed with code. The distinction is that no-code platforms provide building elements that are required by any website or application, such as pages, data storage and display, individual user profiles, and file upload. People may then link them into their own program using drag and drop or other &ldquo;human-understood&rdquo; actions that do not require coding.</p>
+<h3 id="1-zapierhttpszapiercom">1. <a href="https://zapier.com/">Zapier</a></h3>
+<p>For folks who are always on the go, automation is a great way to save time. Zapier automates the transfer of data across your online apps, allowing you to focus on your most critical tasks.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639572301955/UV_W_wM64.png" alt="screely-1639572286580.png"  />
+</p>
+<h3 id="2-font-flipperhttpsfontflippercom">2. <a href="https://fontflipper.com/">FONT FLIPPER</a></h3>
+<p>You can preview 500+ google fonts on top of your designs using this website.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639572754874/u1_Pb7TYB.png" alt="screely-1639572746616.png"  />
+</p>
+<h3 id="3-figmahttpswwwfigmacom">3. <a href="https://www.figma.com/">Figma</a></h3>
+<p>Figma integrates everyone involved in the design process, allowing teams to produce better products in less time. You can create beautiful designs for your work. The “always online” nature of Figma actually provides some of the greatest strengths of the tool. One of those strengths is that Figma allows for live, real-time collaboration. Free + Paid</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639573000906/9Oz4jawWt.png" alt="screely-1639572987345.png"  />
+</p>
+<h3 id="4-previewedhttpspreviewedapp">4. <a href="https://previewed.app/">Previewed</a></h3>
+<p>Previewed helps to create smart mockups by just dragging and dropping in the browser. You can create device shots and animated clips.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639573395005/RSQHQEas6.png" alt="screely-1639573384652.png"  />
+</p>
+<h3 id="5-nocodeapihttpsnocodeapicom">5. <a href="https://nocodeapi.com/">NoCodeAPI</a></h3>
+<p>NoCodeAPI helps you to set up your Google Sheets, Airtable, Google Analytics, Twitter, Telegram, Open Graph API, MailChimp, and 50+ other apps without a backend to save time and money.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639573722110/AQsGr38Wa.png" alt="screely-1639573709300.png"  />
+</p>
+<h3 id="6-splinehttpssplinedesign">6. <a href="https://spline.design/">Spline</a></h3>
+<p>Spline helps you to create beautiful 3D designs to use for your projects and websites.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639573928254/5hYR78k-w.png" alt="screely-1639573917553.png"  />
+</p>
+<h3 id="7-removebghttpswwwremovebg">7. <a href="https://www.remove.bg/">removebg</a></h3>
+<p>You can remove the background of any image without a click. There are a lot of beautiful backgrounds to choose from.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639574493676/yX3NhOfWj.png" alt="screely-1639574482800.png"  />
+</p>
+<h3 id="8-coolorshttpscoolorsco">8. <a href="https://coolors.co/">Coolors</a></h3>
+<p>The lightning-quick colour scheme generator! Create your ideal colour scheme or get inspired by thousands of stunning colour schemes.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639576693553/Mv2tCxiSk.png" alt="screely-1639576682616.png"  />
+</p>
+<h3 id="9-webflowhttpswebflowcom">9. <a href="https://webflow.com/">Webflow</a></h3>
+<p>Webflow lets you create your own website without writing any code. More than 3,500,000 designers and teams use Webflow to build, collaborate on, and develop amazing websites on a totally visual canvas – no code required. It is a visual interface builder for digital interfaces. It essentially enables you to position and design parts of any digital interface.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639576948150/S22Y_9utg.png" alt="screely-1639576940938.png"  />
+</p>
+<h3 id="10-seo-site-checkuphttpsseositecheckupcom">10. <a href="https://seositecheckup.com/">SEO Site Checkup</a></h3>
+<p>SEO Site Checkup performs a quick audit of your website, checking for proper tags and highlighting any errors that may arise. Analyze your SEO concerns in real-time. You can analyze and act on SEO reports.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639577212769/cPDFXW-oh.png" alt="screely-1639577204965.png"  />
+</p>
+<h3 id="11-typeformhttpswwwtypeformcom">11. <a href="https://www.typeform.com/">Typeform</a></h3>
+<p>Make forms, surveys, and quizzes that people want to fill out. You can create integrations with various apps to enjoy your time-saving workflow. Free + Paid</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639577626023/FrnH6DRit.png" alt="screely-1639577615142.png"  />
+</p>
+<h3 id="12-mockuuups-studiohttpsmockuuupsstudio">12. <a href="https://mockuuups.studio/">Mockuuups Studio</a></h3>
+<p>Your search for the ideal mockups has come to an end. Designers and marketers can drag and drop graphics into 1200+ mockups in seconds.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639578884276/eT3FF7UbtY.png" alt="screely-1639578871929.png"  />
+</p>
+<h3 id="13-extensiondevhttpsextensiondev">13. <a href="https://extension.dev/">extension.dev</a></h3>
+<p>extension.dev is a low-code platform for building and deploying browser extensions that help you grow your business. Use their library of sample extensions and templates to get started right away, or start from scratch. Free</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639579795286/v2pYc4QsQ.png" alt="screely-1639579787004.png"  />
+</p>
+<h3 id="14-flaticonhttpswwwflaticoncom">14. <a href="https://www.flaticon.com/">flaticon</a></h3>
+<p>Download free icons and stickers for your projects. Resources made by and for designers. PNG, SVG, EPS, PSD and BASE 64 formats. Access 6M+ vector icons &amp; stickers.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639579961292/G-6sXFUYR.png" alt="screely-1639579954187.png"  />
+</p>
+<h3 id="15-freepikhttpswwwfreepikcom">15. <a href="https://www.freepik.com/">freepik</a></h3>
+<p>Find tons of graphic resources including Free Vectors, Stock Photos and PSD.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639580197830/_tGft6H5V.png" alt="screely-1639580189268.png"  />
+</p>
+<h3 id="16-landinpagefyihttpslandingpagefyiindexhtml">16. <a href="https://landingpage.fyi/index.html">landin&rsquo;page.fyi</a></h3>
+<p>Build your best landing page with hand-picked examples and tools. A curated library of landing page resources. You&rsquo;ll have a up-to-date landing pages in no time.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639584539538/Zv6JP7TtG.png" alt="screely-1639581335519.png"  />
+</p>
+<h3 id="17-framerhttpswwwframercomfp">17. <a href="https://www.framer.com/fp/">Framer</a></h3>
+<p>Create stunning interactive designs from start to finish all on the canvas. Design realistic websites and apps in minutes with pre-made interactive components, polished assets, layout tools, and more.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639585505868/Zl4_-fmfn.png" alt="screely-1639585442568.png"  />
+</p>
+<h3 id="18-tailshttpsdevdojocomtails">18. <a href="https://devdojo.com/tails">Tails</a></h3>
+<p>Tails is the ultimate drag&rsquo;n drop page creator built for TailwindCSS. Over 220+ components to help you look pretty for your customers. Free + Paid</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639585656041/Mh3CQqHkA.png" alt="screely-1639585647430.png"  />
+</p>
+<h3 id="19-panelbearhttpspanelbearcom">19. <a href="https://panelbear.com/">Panelbear</a></h3>
+<p>Panelbear helps you to measure your website&rsquo;s most important metrics, so you can deliver a great end user experience.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639585783544/aSZnmRQ6G.png" alt="screely-1639585774444.png"  />
+</p>
+<h3 id="20-copyaihttpswwwcopyai">20. <a href="https://www.copy.ai/">copy.ai</a></h3>
+<p>With CopyAI’s automated creativity tools,
+you can generate marketing copy in seconds.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639585969921/4HDhG0jwv.png" alt="screely-1639585961526.png"  />
+</p>
+<h3 id="21-poryhttpsporyio">21. <a href="https://pory.io/">PORY</a></h3>
+<p>Create your app the way you like using drag and drop blocks. Connect your data from all your favourite apps. Control what users can view, create and modify with user groups.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639594064531/6Plx5DM89.png" alt="screely-1639594056888.png"  />
+</p>
+<h3 id="22-shoutouthttpsshoutoutso">22. <a href="https://shoutout.so/">Shoutout</a></h3>
+<p>Increase your consumer base by emphasising why people trust you. Shoutout makes it simple to take your current social proof and transform it into a lovely &ldquo;Wall of Love.&rdquo; In less than 3 minutes, you can capture, curate, and publish a wall.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639594283814/pUreMBUec.png" alt="screely-1639594272618.png"  />
+</p>
+<h3 id="23-codahttpscodaiowelcome">23. <a href="https://coda.io/welcome">Coda</a></h3>
+<p>Coda comes with building blocks—like tables and buttons—and time-saving templates, so your doc can grow and evolve with the needs of your team. No more ping-ponging between documents, spreadsheets, and niche workflow apps to get things done. Coda brings all of your words and data into one flexible surface.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639594582745/Cov2R2wnQ.png" alt="screely-1639594574771.png"  />
+</p>
+<h3 id="24-buildfirehttpsbuildfirecom">24. <a href="https://buildfire.com/">BuildFire</a></h3>
+<p>The Most Powerful App Maker For iOS &amp; Android. BuildFire’s powerful and easy to use mobile app builder makes it so you can create mobile apps for iOS &amp; Android in a fraction of the time and cost.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639594710073/c0WH_eNvF.png" alt="screely-1639594695102.png"  />
+</p>
+<h3 id="25-bubblehttpsbubbleio">25. <a href="https://bubble.io/">bubble</a></h3>
+<p>The best way to build web apps without code. Bubble is the most powerful no-code platform, empowering entrepreneurs to build production-ready web apps.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639594815486/Vii3I5Yz3.png" alt="screely-1639594807266.png"  />
+</p>
+<h3 id="26-pagelyhttpswwwpagelysite">26. <a href="https://www.pagely.site/">PAGELY</a></h3>
+<p>Build beautiful websites In light speed. No coding required.
+Launch websites from Notion, Google Sheets, GitHub or Airtable.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639595012287/yyY-q98bu.png" alt="screely-1639595001653.png"  />
+</p>
+<h3 id="27-buildboxhttpssignupbuildboxcom">27. <a href="https://signup.buildbox.com/">BUILDBOX</a></h3>
+<p>Create 2D and 3D game without any coding. Try this awesome low code game development platform. Build any game from scratch or use templates.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639595280014/XJ8uzBGNu.png" alt="screely-1639595266472.png"  />
+</p>
+<h3 id="28-wicked-templateshttpswwwwickedtemplatescom">28. <a href="https://www.wickedtemplates.com/">Wicked Templates</a></h3>
+<p>Find HTML landing page templates here. You can get Free and Premium themes, UI Kit&rsquo;s, templates and landing pages built with Tailwind CSS, HTML &amp; Next.js.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639595598609/AVvVKHPX_.png" alt="screely-1639595590089.png"  />
+</p>
+<h3 id="29-airtablehttpswwwairtablecom">29. <a href="https://www.airtable.com/">Airtable</a></h3>
+<p>Airtable is a modern spreadsheet tool with database functionalities. It&rsquo;s straightforward and user-friendly, allowing anyone to rapidly establish a database. It&rsquo;s one of the numerous no-code tools that&rsquo;s gaining popularity.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639596019593/o_r5UmNVR.png" alt="screely-1639596010521.png"  />
+</p>
+<h3 id="30-splitbeehttpssplitbeeio">30. <a href="https://splitbee.io/">Splitbee</a></h3>
+<p>The analytics platform helps you to track and optimize your online business. Follow incoming traffic in real-time. Uncover where users come from and what pages they visit. Dive deep into your ad campaigns and see what converts best.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639596155787/0vtELB9_4.png" alt="screely-1639596147000.png"  />
+</p>
+<h3 id="31-voiceflowhttpswwwvoiceflowcom">31. <a href="https://www.voiceflow.com/">Voiceflow</a></h3>
+<p>Voiceflow is a conversation design tool that allows teams to create, develop, and launch voice and chat assistants. Voiceflow makes it simple to create contextual discussions. Leverage reusable components, robust context models, interaction model exports, and more all inside our fast &amp; beautiful drag-n-drop canvas.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639596362401/X3NMZhyZm.png" alt="screely-1639596349375.png"  />
+</p>
+<h3 id="32-notionhttpswwwnotionso">32. <a href="https://www.notion.so/">Notion</a></h3>
+<p>Notion is one of the most popular productivity apps right now, with over a million users. It continues to expand every day, owing to the adaptability of Notion&rsquo;s robust databases, user-friendly pages, and performance enhancements. You can also create webpages using notion.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639596633959/rBgsARINh.png" alt="screely-1639596624427.png"  />
+</p>
+<h3 id="33-taskadehttpswwwtaskadecom">33. <a href="https://www.taskade.com/">Taskade</a></h3>
+<p>If you want Notion, Zoom, and Slack in one place then you definitely have to use this. Map out your workflow, from ideas to action. Collaborate on projects and manage tasks.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639596957879/HHL4lQj0T.png" alt="screely-1639596949283.png"  />
+</p>
+<h3 id="34-glidehttpswwwglideappscom">34. <a href="https://www.glideapps.com/">Glide</a></h3>
+<p>Create powerful apps and websites, without code. Using basic spreadsheet skills, you can make incredible things with Glide. Pick a spreadsheet and Glide instantly generates a real, working app or website to get you started.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639597085710/buKXhHAL8.png" alt="screely-1639597077629.png"  />
+</p>
+<h3 id="35-bumpahttpsgetbumpacom">35. <a href="https://getbumpa.com/">Bumpa</a></h3>
+<p>Manage your business from your phone. Everything you need to sell online, offline and on social media. Track orders. Engage customers. Receive payments. Free Website.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639597274980/DKJEJe7Es.png" alt="screely-1639597262542.png"  />
+</p>
+<h3 id="36-magicpatternhttpswwwmagicpatterndesign">36. <a href="https://www.magicpattern.design/">MagicPattern</a></h3>
+<p>Beautiful graphics with a total of ten tools. Effortlessly and instantly! In just a few clicks, you can create distinctive visuals for social media posts, landing sites, and branding. Then you may save them as photos or even code (SVG &amp; CSS). Create an infinite number of high-quality backdrop graphics for your customers and products.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639597442183/GEPrG3ZRp.png" alt="screely-1639597427099.png"  />
+</p>
+<h3 id="37-shopifyhttpswwwshopifyin">37. <a href="https://www.shopify.in/">Shopify</a></h3>
+<p>Shopify is an e-commerce platform that enables anybody to open an online store and sell their goods. With Shopify POS, merchants can also sell their items in person. Without any programming skills, you can set up a Shopify store and get it up and operating in no time. Themes are installed with a click of a button, and customising them (depending on the theme and its accessible parameters) is as simple as filling out an online form.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639597686133/9duj-5vDd.png" alt="screely-1639597672214.png"  />
+</p>
+<h3 id="38-graphitehttpsgraphitespace">38. <a href="https://graphite.space/">Graphite</a></h3>
+<p>Responsive, Pixel-Perfect, Code-Free. Make site design feel like a comfortable environment. Create pixel-perfect Web Pages, not just mockups, with familiar visual editing tools. Concentrate on the creative aspect, and forget the rest.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639597932532/3rbKuBYYH.png" alt="screely-1639597916091.png"  />
+</p>
+<h3 id="39-testimonialhttpstestimonialto">39. <a href="https://testimonial.to/">Testimonial</a></h3>
+<p>Easily get video testimonials from your customers. It is difficult it is to get video testimonials. As a result, Testimonial is there for you. You don&rsquo;t require a developer or website hosting to collect video testimonials from your consumers in minutes.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639598165560/kPIX6Vgt_.png" alt="screely-1639598158194.png"  />
+</p>
+<h3 id="40-carrdhttpscarrdco">40. <a href="https://carrd.co/">Carrd</a></h3>
+<p>Carrd is a site-building platform similar to SquareSpace or WordPress that has grown in popularity over the last year. Carrd distinguishes itself from other websites by specializing in one-page websites. Almost all of its capabilities are free to use, and it has a wide range of applications.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639598413517/HWzQBrWcp.png" alt="screely-1639598401311.png"  />
+</p>
+<h3 id="41-ifttthttpsiftttcom">41. <a href="https://ifttt.com/">IFTTT</a></h3>
+<p>IFTTT is short for If This Then That, and is the best way to integrate apps, devices, and services. IFTTT makes it possible for devices, services, and apps to interact in new and powerful ways. IFTTT was based on the idea that everything works better when it&rsquo;s done jointly. For anybody wanting to design a smart home or automate their life, tech incompatibility has become a challenge. It&rsquo;s simple with IFTTT.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639598725228/ITwdxlHqu.png" alt="screely-1639598605485.png"  />
+</p>
+<h3 id="42-nocode-videohttpswwwnocodevideo">42. <a href="https://www.nocode.video/">Nocode Video</a></h3>
+<p>Explore top Nocode Videos from around the web and learn about new tech. Find tutorials related to Nocode.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639599449648/YKACNFsNC.png" alt="screely-1639599439018.png"  />
+</p>
+<h3 id="43-memberspacehttpswwwmemberspacecom">43. <a href="https://www.memberspace.com/">MemberSpace</a></h3>
+<p>With just a few clicks, you can make any section of your website members-only. Simply restrict access to any page of your website, then decide how much visitors will pay to get access. Create memberships for whatever you desire, including courses, video lessons, member directories, and more, all while maintaining complete control over the design.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639599622381/LbvuPe7wV.png" alt="screely-1639599568882.png"  />
+</p>
+<h3 id="44-nocoderyhttpsdevnocoderycom">44. <a href="https://dev.nocodery.com/">NoCodery</a></h3>
+<p>Nocodery is a job board for nocoders, created by nocoders for nocoders. Nocodery collects nocode job offers and jobs from a variety of sources so you don&rsquo;t have to search for them manually on job boards, saving you time!</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639599877237/ExEReF5kA.png" alt="screely-1639599868920.png"  />
+</p>
+<h3 id="45-codelesshowhttpscodelesshow">45. <a href="https://codeless.how/">Codeless.how</a></h3>
+<p>Codeless is a website offering information for anyone who runs an internet business and wishes to automate routine operations without writing code. You&rsquo;ll learn how to use technologies like Zapier, Webflow, and Airtable to automate marketing, sales, billing, and other activities.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639600090619/9iuWJNCpC.png" alt="screely-1639600075265.png"  />
+</p>
+<h3 id="46softrhttpswwwsoftrio">46.<a href="https://www.softr.io/">Softr</a></h3>
+<p>Softr is a fantastic online development tool that allows users to create code-free websites, portals, and web apps in only ten minutes on Airtable. Using Zapier, You may integrate application logic with external services or interconnect multiple sites.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639600678403/8d-p2c3n4.png" alt="screely-1639600669490.png"  />
+</p>
+<p>People have been able to use computers without ever writing a line of code for decades. With the proliferation of no-code technologies, a comparable revolution is taking place for those who wish to write software. While the no-code revolution is still in its early stages, the business is expected to be worth more than $43 billion by 2023. The current boom, on the other hand, is the consequence of decades of hard labour and progress that cannot be overlooked.</p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>25 Must-Visit Killer Websites For Developers</title><link>https://mranand.com/blogs/25-must-visit-killer-websites-for-developers/</link><pubDate>Sat, 01 Jan 2022 17:31:05 +0530</pubDate><guid>https://mranand.com/blogs/25-must-visit-killer-websites-for-developers/</guid><description>There are so many websites to make the work of developers easier. Everyone doesn&amp;#39;t know all. In this article, we will see 25 Must-Visit Killer Websites For Developers.
+90% of developers don’t know about these websites</description><content:encoded><![CDATA[<p>There are so many websites to make the work of developers easier. Everyone doesn&rsquo;t know all. In this article, we will see <strong>25 Must-Visit Killer Websites For Developers</strong>.</p>
+<h3 id="1-devdocshttpsdevdocsio">1. <a href="https://devdocs.io/">DevDocs</a></h3>
+<p>DevDocs brings together numerous API documentation in a single, searchable interface. You will find docs related to various programming languages, technologies in one place.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638384967813/utLSXf2-U.png" alt="screely-1638384035935.png"  />
+</p>
+<h3 id="2-raysohttpsrayso">2. <a href="https://ray.so/">ray.so</a></h3>
+<p>This website allows you to take beautiful screenshots of codes. It also has a dark mode and some preloaded themes for different programming languages. You can also use its VS Code extension.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638385311659/82S035d0k.png" alt="screely-1638385296060.png"  />
+</p>
+<h3 id="3-poetsohttpspoetso">3. <a href="https://poet.so/">Poet.so</a></h3>
+<p>This site is useful for developers who wish to post photos of their tweets on social media. Website transforms your tweet into a beautiful and editable design.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638385530712/GsADMkksb.png" alt="screely-1638385516106.png"  />
+</p>
+<h3 id="4-roadmapshhttpsroadmapsh">4. <a href="https://roadmap.sh/">roadmap.sh</a></h3>
+<p>This website provides roadmaps, guidelines, and other educational content to assist developers in choosing a path and directing their learning. It is very helpful for a beginner as well as a learner who needs guidance.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638385854363/V8bW_gzx1.png" alt="screely-1638385839901.png"  />
+</p>
+<h3 id="5-lambdatesthttpswwwlambdatestcom">5. <a href="https://www.lambdatest.com/">LambdaTest</a></h3>
+<p>LambdaTest is a cloud-based cross-browser testing platform that lets you test web applications on over 2000 different browsers, operating systems, and devices. LambdaTest allows you to test cross-browser compatibility both manually and automatically.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638386119439/mDXT7rVtt.png" alt="screely-1638386105526.png"  />
+</p>
+<h3 id="6-dailydevhttpsappdailydev">6. <a href="https://app.daily.dev/">daily.dev</a></h3>
+<p>It is a platform where you can find so many good articles to read daily. It shows the best articles from various platforms directly in your feed. Stay updated with quality content from various platforms directly into your browser by using its extension.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638386504039/glWhXS_nQ.png" alt="screely-1638386457871.png"  />
+</p>
+<h3 id="7-showwcasehttpswwwshowwcasecom">7. <a href="https://www.showwcase.com/">Showwcase</a></h3>
+<p>Showwcase is a new social media website specially for people who code connect, build community, and find new opportunities. It is a LinkedIn like platform but only focused on developers. You can join and <a href="https://www.showwcase.com/astrodevil">follow me</a> there.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638386870736/KMtvp18LF.png" alt="screely-1638386858754.png"  />
+</p>
+<h3 id="8-css-trickshttpscss-trickscom">8. <a href="https://css-tricks.com/">CSS-TRICKS</a></h3>
+<p>You can master your web development skills by learning every basics about CSS from this website. If you didn&rsquo;t already know, CSS is what makes pages on the web look beautiful.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638387360963/CZ40Lwai0.png" alt="screely-1638387302168.png"  />
+</p>
+<h3 id="9-medusahttpswwwmedusajscom">9. <a href="https://www.medusajs.com/">Medusa</a></h3>
+<p>An open-source Shopify alternative. Medusa is an open-source headless commerce engine that is fast and customizable. It&rsquo;s Free.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638387765631/u99VAO5fh.png" alt="screely-1638387753072.png"  />
+</p>
+<h3 id="10-smartmockupshttpssmartmockupscom">10. <a href="https://smartmockups.com/">SMARTMOCKUPS</a></h3>
+<p>Why give your time learning how to use Photoshop. Smartmockups allow you to generate gorgeous high-resolution mockups straight in your browser and across numerous devices using a single interface. The quickest web-based mockup tool available, No prior experience or abilities are required, and the library of professional mockups is always growing.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638388146151/XYY-Hey10.png" alt="screely-1638388121263.png"  />
+</p>
+<h3 id="11-code-beautifyhttpscodebeautifyorg">11. <a href="https://codebeautify.org/">Code Beautify</a></h3>
+<p>Make your source code more beautiful and easy to read using code to beautify its AI technology will make your source code more attractive and easy to read.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638388669184/LkNccoLNs.png" alt="screely-1638388657726.png"  />
+</p>
+<h3 id="12-overapihttpsoverapicom">12. <a href="https://overapi.com/">overAPI</a></h3>
+<p>For all developers, OverAPI is one of the most beautiful and useful websites. This website has cheatsheets for the majority of programming languages. Take a look at it right now.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638388599099/SWli6eqLd.png" alt="screely-1638388584887.png"  />
+</p>
+<h3 id="13-responsivelyhttpsresponsivelyapp">13. <a href="https://responsively.app/">Responsively</a></h3>
+<p>This is an open-source website that speeds up the development of web apps by 5 times. All target screens are displayed side by side in a single window. Reduces the time it takes to develop!</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638388914941/fzDk1EbbW.png" alt="screely-1638388903814.png"  />
+</p>
+<h3 id="14-color-hunthttpscolorhuntco">14. <a href="https://colorhunt.co/">Color Hunt</a></h3>
+<p>Colorhunt is a website that allows you to select gorgeous colour palettes. Web designers will find it very beneficial to choose beautiful and appealing colours, as well as to accept colour recommendations from other artists and art projects.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638389100098/2g69Ma1ju.png" alt="screely-1638389088000.png"  />
+</p>
+<h3 id="15-carbonhttpscarbonnowsh">15. <a href="https://carbon.now.sh/">Carbon</a></h3>
+<p>This website will help you to create and share beautiful images of your source codes. It also allows you to make changes to the photographs. You should give it a go right now.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638389339711/JzN9a1yTi.png" alt="screely-1638389329198.png"  />
+</p>
+<h3 id="16-meta-tagshttpsmetatagsio">16. <a href="https://metatags.io/">Meta Tags</a></h3>
+<p>It is a website tag generator that also allows you to update and experiment with your content before seeing how it will appear on Google, Facebook, LinkedIn, and other social media sites.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638389558917/vBV-rOHip.png" alt="screely-1638389538922.png"  />
+</p>
+<h3 id="17-profile-pic-makerhttpspfpmakercom">17. <a href="https://pfpmaker.com/">Profile Pic Maker</a></h3>
+<p>This website creates a professional and beautiful profile for each photo in your Web developer portfolio. As a developer, you will be exposed to social media. You only need to upload any of your images, and it will edit and enhance them. Give it a go right now.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638389794694/Ywlpmxb0a.png" alt="screely-1638389786334.png"  />
+</p>
+<h3 id="18-small-dev-toolshttpssmalldevtools">18. <a href="https://smalldev.tools/">Small Dev Tools</a></h3>
+<p>This website offers a variety of free developer tools, including encoders/decoders, HTML/CSS/Javascript formatters, minifies, fake or test data generators, and more. It also allows you to share codes.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638390009000/3vdcuU143.png" alt="screely-1638389956512.png"  />
+</p>
+<h3 id="19-resumeiohttpsresumeio">19. <a href="https://resume.io/">resume.io</a></h3>
+<p>This website allows you to create a quality resume. It will help you to create a professional resume by providing you with well-tested templates. Give it a Try.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638390270548/U8e1MzxUy.png" alt="screely-1638390259749.png"  />
+</p>
+<h3 id="20-codepenhttpscodepenio">20. <a href="https://codepen.io/">CODEPEN</a></h3>
+<p>CodePen is a web-based development platform that allows users to modify front-end languages such as HTML, CSS, and JavaScript without having to install any software. The nicest aspect is that the findings are visible in real-time, making troubleshooting easier. Developers and designers can also exchange code samples (known as pens) with the rest of the world.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638390510290/Z11dY_2Vv.png" alt="screely-1638390500404.png"  />
+</p>
+<h3 id="21-storytalehttpsstorytaleio">21. <a href="https://storytale.io/">Storytale</a></h3>
+<p>Storytale is a website that had collections of illustrations that Make your project eye-catching with awesome characters. It can be used personally and commercially. This is a helpful website for web designers. Get High-class assets for web and mobile projects.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638390858191/-tZZB4fvS.png" alt="screely-1638390848756.png"  />
+</p>
+<h3 id="22-readmesohttpsreadmeso">22. <a href="https://readme.so/">readme.so</a></h3>
+<p>This website allows you to create project README very easily. Its simple editor helps you to quickly add and customize all the sections you need for your project&rsquo;s README. You can use this to create documentation of your open-source projects quickly.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638391156722/7CiKyNZNv.png" alt="screely-1638391148567.png"  />
+</p>
+<h3 id="23-peppertypehttpswwwpeppertypeai">23. <a href="https://www.peppertype.ai/">Peppertype</a></h3>
+<p>Peppertype is a new tool that helps in automating the content production and ideation process. It analyses your business operations, understands your brand and target audience, and then creates fresh content for you using superior machine learning and artificial intelligence. If you are a developer creating content regularly, then this is for you.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638391381010/rY_Fyi21N.png" alt="screely-1638391370901.png"  />
+</p>
+<h3 id="24-synthesiahttpswwwsynthesiaio">24. <a href="https://www.synthesia.io/">synthesia</a></h3>
+<p>Synthesia helps you to create AI-based videos in over 50+ languages. You don&rsquo;t need a camera, microphone, or real face to create video content. You just need to upload your script and you will get an AI video.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638391829724/zFvA9ViJg.png" alt="screely-1638391816957.png"  />
+</p>
+<h3 id="25-programmer-humorhttpsprogrammerhumorio">25. <a href="https://programmerhumor.io/">Programmer Humor</a></h3>
+<p>Even developers also need entertainment. You can visit this website for various memes and jokes related to programming and developers. Have Fun.</p>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638392080280/sDiDjjAgL.png" alt="screely-1638392067037.png"  />
+</p>
+<p><strong>Bonus Website</strong>: I used screenshots taken by <strong><a href="https://www.screely.com/">Screely</a></strong> in this Article.</p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item><item><title>Some Apps You Should Use As a Student Developer</title><link>https://mranand.com/blogs/some-apps-you-should-use-as-a-student-developer/</link><pubDate>Thu, 30 Dec 2021 20:57:05 +0530</pubDate><guid>https://mranand.com/blogs/some-apps-you-should-use-as-a-student-developer/</guid><description>Having useful apps in phones is very important now-a-days. And as a student you must use apps useful for you.</description><content:encoded><![CDATA[<p>In this new world of technology, there are various apps coming time to time to ease the life and work of peoples. As a student, you must have to use some apps that helps in your study, learning and creating contents.</p>
+<p><strong>Here are some apps you should try as student developer</strong></p>
+<h3 id="messaging">Messaging</h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625407711964/aS5qagu3y.gif" alt="MessageNotificationGIF.gif"  />
+</p>
+<p>In this tough time of Covid-19, the study is fully online, and online messaging apps are being used by every student and teacher to share notes, assignments, and academics-related information. Use any one app that is used by your friends, family member and university mates so you don’t bother much.</p>
+<p>These Apps Are:</p>
+<ul>
+<li><a href="https://signal.org/en/">Signal</a></li>
+<li><a href="https://www.whatsapp.com/?lang=en">WhatsApp</a></li>
+<li><a href="https://telegram.org/">Telegram</a></li>
+</ul>
+<h3 id="networking">Networking</h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625409247482/2NjR-oD2i.gif" alt="ConnectingLoadingGIF.gif"  />
+</p>
+<p>One of the most important things you should do as a student developer is networking. You&rsquo;ve probably heard of networking and know that it includes meeting the proper people who can assist you with your job goals now or in the future.
+According to a recent study, networking is responsible for 85 percent of all job searches. So you have to build strong networking to get connected for opportunities.
+In this new online world you all need a good networking app.</p>
+<p>These Apps Are:</p>
+<ul>
+<li><a href="https://www.linkedin.com/">Linkedin</a></li>
+<li><a href="https://mobile.twitter.com/home">Twitter</a></li>
+<li><a href="https://www.polywork.com/">Polywork</a></li>
+<li><a href="https://www.showwcase.com/">Showwcase</a></li>
+</ul>
+<h3 id="community-presence">Community Presence</h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625410005323/0jrWjieLT.gif" alt="KrumpingGIF.gif"  />
+</p>
+<p>Community Presence is very important for students during college. You can learn new things, participate in various activities and get to know many other students of your college. If you are a student developer, you must be contributing to some open-source organization or taking part in projects building. There are some apps where students and developers communities are active, you can join them to take community insights and discussing projects.</p>
+<p>These Apps Are:</p>
+<ul>
+<li><a href="https://slack.com/intl/en-in/">Slack</a></li>
+<li><a href="https://discord.com/">Discord</a></li>
+</ul>
+<h3 id="time-management">Time Management</h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625411176889/Rj9NGP_Wp.gif" alt="MrBeanCheckingTimeGIF.gif"  />
+</p>
+<p>Managing time as a student is a very important thing. Students who manage their time properly could achieve greater productivity in the study. proper planning for 24hours can make life easier for you. using alarm is the old way to manage time,  now some apps help to manage your time and proper planning.</p>
+<p>These Apps Are:</p>
+<ul>
+<li><a href="https://www.notion.so/">Notion</a></li>
+<li><a href="https://www.taskade.com/">Taskade</a></li>
+</ul>
+<h3 id="learn-and-share">Learn and Share</h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625412427844/ZDgqgezqC.gif" alt="INeedYourHelpToDoThatAidanGallagherGIF.gif"  />
+</p>
+<p>As a student developer, you have to acquire the habit of sharing your learnings with others. You can also read the posts from good developers to gain knowledge. Student developers often need to showcase their codes, projects to the world. Sharing and taking help from others is a good habit, this will help you to the overall growth of yourself. Some apps you should use to sharing content, source codes, and gaining knowledge.</p>
+<p>These Apps Are:</p>
+<ul>
+<li><a href="https://github.com/">GitHub</a></li>
+<li><a href="https://dev.to/">DEV Community</a>  ‍ ‍</li>
+<li><a href="https://app.daily.dev/">daily.dev</a></li>
+</ul>
+<h3 id="content-creation">Content Creation</h3>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625413152984/385FXjMd2.gif" alt="ExclusiveContentZacharyLeviGIF.gif"  />
+</p>
+<p>As a student, if you are interested in creating content to share your knowledge and views with the world you are good to go. there are lots of apps that can help you like to create blogs and if you are a video creator on Instagram or YouTube you can also reach out to your audience for monetary support for your work by using apps.</p>
+<p>These Apps Are:</p>
+<ul>
+<li><a href="https://medium.com/">Medium</a></li>
+<li><a href="https://hashnode.com/@Astrodevil/joinme">Hashnode</a></li>
+<li><a href="https://gumroad.com/">Gumroad</a></li>
+<li><a href="https://www.buymeacoffee.com/?via=Astrodevil">Buy Me a Coffee</a></li>
+</ul>
+<p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625414234437/Z2TJ8QZY9.gif" alt="TheOfficeBowGIF.gif"  />
+</p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+]]></content:encoded></item></channel></rss>
