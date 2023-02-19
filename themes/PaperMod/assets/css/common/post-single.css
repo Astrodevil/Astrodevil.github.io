@@ -200,6 +200,7 @@
     line-height: 1.5;
     background: var(--code-bg);
     border-radius: 2px;
+    
 }
 
 .post-content pre code {
@@ -263,6 +264,7 @@
     background: var(--code-bg);
     border-radius: var(--radius);
     padding: 0.4em;
+    
 }
 
 .dark .toc {

@@ -41,10 +41,17 @@
     border-radius: var(--radius);
     transition: transform 0.1s;
     border: 1px solid var(--border);
+    background: linear-gradient(var(--tertiary),var(--tertiary))padding-box,linear-gradient(to right,#be09eb,#0b9fe8)border-box;
+    border: 3px solid transparent;
+}
+.dark .post-entry{
+    background: linear-gradient(var(--tertiary),var(--tertiary))padding-box,linear-gradient(to right,#450155,#014B72)border-box;
+    border: 3px solid transparent;
 }
 
 .post-entry:active {
     transform: scale(0.96);
+    
 }
 
 .tag-entry .entry-cover {
