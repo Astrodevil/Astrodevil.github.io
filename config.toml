@@ -2,6 +2,7 @@ baseURL = 'https://mranand.com/'
 languageCode = 'en-us'
 title = 'Mr. Ånand'
 theme = [ 'PaperMod', 'hugo-shortcodes' ]
+paginate = 5
 
 
 enableRobotsTXT = true
