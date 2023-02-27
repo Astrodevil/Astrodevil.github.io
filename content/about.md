@@ -10,7 +10,7 @@
 
 ### My Experiences🧑🏼‍💻
 
-- [GSSoC' 22 Project Admin](https://www.linkedin.com/in/amitesh1208/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BI40IE49nRveAC3Ax%2FMwYsg%3D%3D#experience): Collaborating with maintainers and contributors for ZeroOctave-JavaScript-Projects.
+- [GSSoC'22 Project Admin](https://www.linkedin.com/in/amitesh1208/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BI40IE49nRveAC3Ax%2FMwYsg%3D%3D#experience): Collaborating with maintainers and contributors for ZeroOctave-JavaScript-Projects.
 - [GSSoC'21 Participant](https://github.com/Astrodevil/Astrodevil/blob/main/src/Certificate%20-%20Amitesh%20Anand.png): Contributed to some projects, mainly based on Web Development.
 - [DWoC'21 Mentor](https://dwoc.io/): Helped contributors to collaborate on projects during 2 months period.
 - [Hacktoberfest-2021](https://hacktoberfest.digitalocean.com/): Participated as maintainer.

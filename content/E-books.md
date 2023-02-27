@@ -24,6 +24,12 @@
 
 *****
 
+[![Interview Questions and Answers Bundle - By Steve Nouri](https://public-files.gumroad.com/n4tuswktc88kb0jpj7luzu8pmpfk)](https://astrodevil.gumroad.com/l/udiict)
+### Interview Questions and Answers Bundle - By Steve Nouri
+{{< gumroad-button id="udiict" >}}Buy on{{</ gumroad-button >}}
+
+*****
+
 [![Top Google LeetCode Questions ](https://public-files.gumroad.com/variants/iltjk5j9rx7xdkmo6yb7k8qpz4qc/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301)](https://astrodevil.gumroad.com/l/npwmb)
 ### Top Google LeetCode Questions 
 {{< gumroad-button id="npwmb" >}}Buy on{{</ gumroad-button >}}
@@ -33,5 +39,3 @@
 [Become an Affiliate for Mr. Ånand and Earn Upto 30% For Every Paid Sale on Gumroad](https://astrodevil.gumroad.com/affiliates)
 
 *****
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.amazon.in/shop/astro/list/3FM5KPV7Y33SP" data-iframely-url="//iframely.net/nIiSExr"></a></div></div><script async src="//iframely.net/embed.js"></script>

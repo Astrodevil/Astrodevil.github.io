@@ -41,9 +41,9 @@ editPost:
 
 Today is the 3rd day of my **#100DaysOfCode** journey with JavaScript.
 
-I write about my learnings in an explained way through my [blogs](https://astrodevil.hashnode.dev/) and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. **Let's learn together!🫱🏼‍🫲🏼**
+I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. **Let's learn together!🫱🏼‍🫲🏼**
 
-This Article is a part of the [JavaScript Fundamentals](https://blog.mranand.com/series/js-fundamentals) series.
+This Article is a part of the [JavaScript Fundamentals](https://mranand.com/series/javascript-fundamentals/) series.
 
 I studied functions yesterday, check the previous [article](https://astrodevil.hashnode.dev/javascript-fundamentals-mutable-letcomments-functions). Today it's time to know more about functions and the use of operators.
 
