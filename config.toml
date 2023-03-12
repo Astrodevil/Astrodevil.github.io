@@ -24,6 +24,7 @@ ShowFullTextinRSS = true
 defaultTheme = "dark"
 description = "Tech blogger from India. Open-Source and Self-Learning. Love to create different types of content. Student | Content Creator | Explorer and Learner"
 keywords = [ "Blogger", "India", "Selflearning", "Blog", "Portfolio", "PaperMod", "GitHub", "open source", "JavaScript", "Astrodevil", "Content", "Developers", "100Daysofcode", "codesastro", "Webdevelopment", "Student", "Web3", "Programming", "Coding", "Technicalwriter", "Creator", "mranand", "Mr. Ånand", "Amitesh", "Amitesh Anand", "Programming", "Tutorial", "Books", "Project", "Hugo" ]
+enableEmoji = true
 
 
 [outputs]
@@ -79,16 +80,22 @@ url = "/E-books/"
 weight = 60
 
 [[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 70
+
+[[menu.main]]
 identifier = "archives"
 name = "Archives"
 url = "/archives/"
-weight = 70
+weight = 80
 
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 80
+weight = 90
 
 
 

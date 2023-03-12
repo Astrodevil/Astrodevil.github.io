@@ -2,13 +2,13 @@
 [![Shop from my gumroad store](https://img.shields.io/badge/Shop%20from-my%20Gumroad%20Store-blue)](https://astrodevil.gumroad.com/)
 
 
-### Paid articles For Others🤝🏼
+## Paid articles For Others🤝🏼
 [**flycode**](https://www.flycode.com/)
 - [Say No to Coding! Introduction to Low-Code / No-Code](https://blog.flycode.com/say-no-to-coding-introduction-to-low-code-no-code)
 - [15+ Websites to Help You in Your Developer Journey](https://blog.flycode.com/15-websites-to-help-you-in-your-developer-journey)
 
 
-### Featured On [daily.dev](https://app.daily.dev/)🔥
+## Featured On [daily.dev](https://app.daily.dev/)🔥
 
 
 - [Some Useful GitHub Repositories To Enhance Your Web3 Skills](https://app.daily.dev/posts/4fHYq7oFR)
@@ -18,7 +18,7 @@
 - [25 Must-Visit Killer Websites For Developers](https://app.daily.dev/posts/-x_vCHrUD)
 
  
-### Featured On [DevDojo](https://devdojo.com/)🔥
+## Featured On [DevDojo](https://devdojo.com/)🔥
 
 - [Some Useful GitHub Repositories To Enhance Your Web3 Skills](https://devdojo.com/astrodevil/some-useful-github-repositories-to-enhance-your-web3-skills)
 - [Some Apps You Should Use As a Student Developer](https://devdojo.com/astrodevil/some-apps-you-should-use-as-a-student-developer)
