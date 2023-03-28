@@ -5,3 +5,6 @@
 	path = themes/hugo-shortcodes
 	url = https://github.com/isqua/hugo-shortcodes.git
 	branch = theme
+[submodule "themes/hugo-embed-pdf-shortcode"]
+	path = themes/hugo-embed-pdf-shortcode
+	url = https://github.com/anvithks/hugo-embed-pdf-shortcode.git

@@ -19,6 +19,11 @@
 
 
 
+<!-- 
+- [Personal Projects](/projects) built in free time and during weekends.
+Timeline of achievements.
+- [Education and Certifications](/education) which includes courses completed. -->
+
 <!-- {{< youtube id="w7Ft2ymGmfc" autoplay="true" >}} -->
 
 <!-- {{< tweet user="SanDiegoZoo" id="1453110110599868418" >}} -->

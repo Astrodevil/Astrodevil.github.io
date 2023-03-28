@@ -56,14 +56,15 @@
     {{- partial "share_icons.html" . -}}
     {{- end }}
 
+  {{- if (.Param "comments") }}
+  {{- partial "comments.html" . }}
+  
     <div class="iframely-embed"><div class="iframely-responsive" style="display: flex; justify-content: center; border-radius: 15px; overflow: hidden;"><a href="https://www.amazon.in/shop/astro/list/3FM5KPV7Y33SP" data-iframely-url="//iframely.net/nIiSExr"></a></div></div>
     <script async src="//iframely.net/embed.js"></script>
 
   </footer>
 
-  {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
   {{- end }}
 </article>
-
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5qtownc1jy9&amp;m=7&amp;c=00fff6&amp;cr1=ff0000&amp;f=calibri&amp;l=33" async="async"></script>
 {{- end }}{{/* end main */}}

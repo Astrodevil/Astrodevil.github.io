@@ -1,8 +1,6 @@
 {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- if and (gt (len $pages) 1) (in $pages . ) }}
 
-<a href="https://info.flagcounter.com/ODfL"><img src="https://s11.flagcounter.com/count/ODfL/bg_AC9CFF/txt_FCFCFC/border_9D78C2/columns_2/maxflags_5/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
-
 <nav class="paginav">
   {{- with $pages.Next . }}
   <a class="prev" href="{{ .Permalink }}">

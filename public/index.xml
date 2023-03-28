@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mr. Ånand</title><link>https://mranand.com/</link><description>Recent content on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 16:52:05 +0530</lastBuildDate><atom:link href="https://mranand.com/index.xml" rel="self" type="application/rss+xml"/><item><title>JavaScript Fundamentals: Objects</title><link>https://mranand.com/blogs/javascript-fundamentals-objects/</link><pubDate>Tue, 03 Jan 2023 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-objects/</guid><description>Day 13 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 13th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mr. Ånand</title><link>https://mranand.com/</link><description>Recent content on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 16:52:05 +0530</lastBuildDate><atom:link href="https://mranand.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects &amp; Contributions</title><link>https://mranand.com/projects/</link><pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate><guid>https://mranand.com/projects/</guid><description>This page showcases a list of open source projects developed or started by me over the period of time. Also contain some open-source contributions. Order is random and codes are hosted on GitHub.</description><content:encoded><![CDATA[<h2 id="personal-projects">Personal Projects</h2>
+<dl>
+<dt><a href="https://mranand.com/">Personal Website</a> <em>Creator</em> <em>2022 - present</em></dt>
+<dd>(The website you are currenly on) Hosted on GitHub. Uses <a href="https://gohugo.io/">Hugo</a> &amp; theme <a href="https://git.io/hugopapermod">PaperMod</a> to render Markdown pages. 🆕 Comments using <a href="https://giscus.app/">giscus.app</a> which uses <a href="https://github.com/Astrodevil/Astrodevil.github.io/discussions">Github Discussions</a> for storing comments.</dd>
+<dt><a href="https://github.com/Astrodevil/Open-Source-Gallery">Open Source Gallery</a> <em>Creator &amp; Maintainer</em> <em>2021 - present</em></dt>
+<dd>Open-Source-Gallery provides you with all the resources needed to become a good open-source contributor. The motive🎯 of this project is to help new learners to get familiar with the world of open-source.</dd>
+<dt><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects">ZeroOctave Javascript Projects</a> <em>Creator &amp; Maintainer</em> <em>2021 - present</em></dt>
+<dd>Started to practice my web development skills but made open to more contributors later. This repository now contains 150+ mini projects created using HTML, CSS &amp; Javascript.</dd>
+<dt><a href="https://resourcegallery.live/">Resource Gallery</a> <em>Creator &amp; Maintainer</em> <em>2023 - present</em></dt>
+<dd>This repository contains a list of resources for learning web development, machine learning, open source, and other programming languages. Made using <a href="https://astro.build/">Astro</a> &amp; hosted on <a href="https://pages.cloudflare.com/">Cloudflare Pages</a> for managing DNS records.</dd>
+<dt><a href="https://github.com/ZeroOctave/Hacktoberfest-Swags">Hacktoberfest Swags </a> <em>Creator</em> <em>2022</em></dt>
+<dd>Made for new contributors to find some good issues and solve it during Hacktoberfest. Curated some good opportunities to grab cool swags by adding value to awesome projects. Contribute quality, and Get rewarded!</dd>
+</dl>
+<h2 id="open-source-contributions">Open Source Contributions</h2>
+<ul>
+<li>Will be added soon</li>
+</ul>
+]]></content:encoded></item><item><title>JavaScript Fundamentals: Objects</title><link>https://mranand.com/blogs/javascript-fundamentals-objects/</link><pubDate>Tue, 03 Jan 2023 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-objects/</guid><description>Day 13 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 13th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
 <p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
 <h3 id="objects">Objects</h3>
@@ -1927,6 +1944,8 @@ My Experiences🧑🏼‍💻 GSSoC'22 Project Admin: Collaborating with maintai
 </ul>
 <!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <p><a href="https://twitter.com/astrodevil_"><img loading="lazy" src="https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red" alt="Hire me for technical writing"  />
 </a></p>
 <hr>
@@ -1983,6 +2002,37 @@ Become an Affiliate for Mr. Ånand and Earn Upto 30% For Every Paid Sale on Gumr
 <hr>
 <p><a href="https://astrodevil.gumroad.com/affiliates">Become an Affiliate for Mr. Ånand and Earn Upto 30% For Every Paid Sale on Gumroad</a></p>
 <hr>
+]]></content:encoded></item><item><title/><link>https://mranand.com/education/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mranand.com/education/</guid><description>Education and Certifications Education and certifications, some of which may not be reflected on my resume.
+Organization Course/Certificate Duration Obtained Certificate Chandigarh University Bachelors in Engineering 4 Years 2020-24 - GSSoC'21 Certificate of Participation 3 Months May 2021 📄Here More will be added soon&amp;hellip;</description><content:encoded><![CDATA[<h1 id="education-and-certifications">Education and Certifications</h1>
+<p>Education and certifications, some of which may not be reflected on my resume.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Organization</th>
+<th style="text-align:center">Course/Certificate</th>
+<th style="text-align:center">Duration</th>
+<th style="text-align:center">Obtained</th>
+<th style="text-align:right">Certificate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Chandigarh University</td>
+<td style="text-align:center">Bachelors in Engineering</td>
+<td style="text-align:center">4 Years</td>
+<td style="text-align:center">2020-24</td>
+<td style="text-align:right">-</td>
+</tr>
+<tr>
+<td style="text-align:left">GSSoC'21</td>
+<td style="text-align:center">Certificate of Participation</td>
+<td style="text-align:center">3 Months</td>
+<td style="text-align:center">May 2021</td>
+<td style="text-align:right"><a href="https://raw.githubusercontent.com/Astrodevil/Astrodevil/main/src/Certificate%20-%20Amitesh%20Anand.png">📄Here</a></td>
+</tr>
+</tbody>
+</table>
+<p>More will be added soon&hellip;</p>
 ]]></content:encoded></item><item><title/><link>https://mranand.com/featured/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mranand.com/featured/</guid><description>
 Paid articles For Others🤝🏼 flycode
 Say No to Coding! Introduction to Low-Code / No-Code 15+ Websites to Help You in Your Developer Journey Featured On daily.dev🔥 Some Useful GitHub Repositories To Enhance Your Web3 Skills GirlScript Summer of Code Learning And Experiences: From Contributor To Project Admin Make Your GitHub Profile Standout To Attract Better Opportunities All Resources To Help You Start Your Open-Source Journey: Open Source Gallery 25 Must-Visit Killer Websites For Developers Featured On DevDojo🔥 Some Useful GitHub Repositories To Enhance Your Web3 Skills Some Apps You Should Use As a Student Developer 40+ No Code/Low Code Tools And Resources For Developers In 2022 25 Must-Visit Killer Websites For Developers Featured On GirlScript Summer of Code Blog🔥</description><content:encoded><![CDATA[<p><a href="https://twitter.com/astrodevil_"><img loading="lazy" src="https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red" alt="Hire me for technical writing"  />
@@ -2046,47 +2096,4 @@ Resources Gallery📔 If you want to find resources realted to following topics:
 <p><a href="https://ko-fi.com/astrodevil"><img loading="lazy" src="https://cdn.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee at ko-fi.com"  />
 </a></p>
 <hr>
-]]></content:encoded></item><item><title/><link>https://mranand.com/blogs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mranand.com/blogs/</guid><description/><content:encoded></content:encoded></item><item><title>Personal Projects</title><link>https://mranand.com/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mranand.com/projects/</guid><description>This page showcases a list of open source projects developed or started by me over the period of time. Order is random and codes are hosted on GitHub.</description><content:encoded><![CDATA[<h1 id="personal-website---mranandcom">Personal Website - mranand.com</h1>
-<p>(the website you are currenly on)</p>
-<ul>
-<li>Hosted on GitHub.</li>
-<li>Uses <a href="https://gohugo.io/">Hugo</a> &amp; theme <a href="https://git.io/hugopapermod">PaperMod</a> to render Markdown pages.</li>
-<li>🆕 Comments using <a href="https://giscus.app/">giscus.app</a> which uses <a href="https://github.com/Astrodevil/Astrodevil.github.io/discussions">Github Discussions</a> for storing comments.</li>
-</ul>
-<h1 id="open-source-gallery">Open Source Gallery</h1>
-<p><strong>Github</strong> = <a href="https://github.com/Astrodevil/Open-Source-Gallery">https://github.com/Astrodevil/Open-Source-Gallery</a></p>
-<ul>
-<li>
-<p>Open-Source-Gallery provides you with all the resources needed to become a good open-source contributor, project maintainer &amp; developer.</p>
-</li>
-<li>
-<p>The motive🎯 of this project is to help new learners to get familiar with the world of open-source</p>
-</li>
-</ul>
-<p><strong>Live Website</strong> = <a href="https://astrodevil.github.io/Open-Source-Gallery/">https://astrodevil.github.io/Open-Source-Gallery/</a></p>
-<hr>
-<h1 id="zerooctave-javascript-projects">ZeroOctave Javascript Projects</h1>
-<p><strong>Github</strong> = <a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects">https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects</a></p>
-<ul>
-<li>Started to practice my web development skills but made open to more contributors later.</li>
-<li>This repository now contains 150+ mini projects created using HTML, CSS &amp; Javascript.</li>
-</ul>
-<p><strong>Live Website</strong> = <a href="https://zerooctave.co/ZeroOctave-Javascript-Projects/">https://zerooctave.co/ZeroOctave-Javascript-Projects/</a></p>
-<hr>
-<h1 id="resource-gallery">Resource Gallery</h1>
-<p><strong>Github</strong> = <a href="https://github.com/ZeroOctave/resource-gallery">https://github.com/ZeroOctave/resource-gallery</a></p>
-<ul>
-<li>This repository contains a list of resources for learning web development, machine learning, open source, and other programming languages.</li>
-<li>Made using <a href="https://astro.build/">Astro</a></li>
-<li>Hosted on <a href="https://pages.cloudflare.com/">Cloudflare Pages</a> for managing DNS records.</li>
-</ul>
-<p><strong>Live Website</strong> = <a href="https://resourcegallery.live/">https://resourcegallery.live/</a></p>
-<h1 id="hacktoberfest-swags">Hacktoberfest Swags</h1>
-<p><strong>Github</strong> = <a href="https://github.com/ZeroOctave/Hacktoberfest-Swags">https://github.com/ZeroOctave/Hacktoberfest-Swags</a></p>
-<ul>
-<li>Made for new contributors to find some good issues and solve it during Hacktoberfest.</li>
-<li>Everyone loves swags in the developer community. Curated some good opportunities to grab cool swags by adding value to awesome projects. Contribute quality, and Get rewarded!</li>
-</ul>
-<p><strong>Live Website</strong> = <a href="https://zerooctave.co/Hacktoberfest-Swags/">https://zerooctave.co/Hacktoberfest-Swags/</a></p>
-<hr>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded></item><item><title/><link>https://mranand.com/blogs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mranand.com/blogs/</guid><description/><content:encoded></content:encoded></item></channel></rss>

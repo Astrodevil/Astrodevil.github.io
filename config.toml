@@ -1,10 +1,11 @@
 baseURL = 'https://mranand.com/'
 languageCode = 'en-us'
 title = 'Mr. Ånand'
-theme = [ 'PaperMod', 'hugo-shortcodes' ]
+theme = [ 'PaperMod', 'hugo-shortcodes', 'hugo-embed-pdf-shortcode' ]
 paginate = 5
 
 
+enableInlineShortcodes = true
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false

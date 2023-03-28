@@ -38,4 +38,7 @@
 
 [Become an Affiliate for Mr. Ånand and Earn Upto 30% For Every Paid Sale on Gumroad](https://astrodevil.gumroad.com/affiliates)
 
+
 *****
+
+
