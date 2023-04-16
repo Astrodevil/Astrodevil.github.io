@@ -63,21 +63,21 @@ weight = 30
 #weight = 30
 
 [[menu.main]]
-identifier = "Featured"
+identifier = "featured"
 name = "Featured"
 url = "/featured/"
 weight = 40
 
 [[menu.main]]
-identifier = "Gallery"
+identifier = "gallery"
 name = "Gallery"
 url = "/gallery/"
 weight = 50
 
 [[menu.main]]
-identifier = "E-Book"
-name = "E-Books"
-url = "/E-books/"
+identifier = "e-book"
+name = "Video/E-Book"
+url = "/videos/"
 weight = 60
 
 [[menu.main]]

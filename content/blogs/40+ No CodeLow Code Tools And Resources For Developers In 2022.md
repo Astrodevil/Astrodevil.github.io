@@ -3,6 +3,7 @@ title: "40+ No Code/Low Code Tools And Resources For Developers In 2022"
 date: 2022-01-01T17:40:05+05:30
 draft: false
 
+series: ['All Things Low-Code/No-Code']
 # weight: 2
 # aliases: ["/first"]
 tags: ["nocode", "lowcode", "tools", "developer"]

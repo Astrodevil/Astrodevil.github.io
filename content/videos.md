@@ -1,3 +1,11 @@
+# Watch My Latest Videos
+
+{{< youtube id="8lNbbuNop3Q" autoplay="true" >}}
+*****
+{{< youtube id="qifhqBZ95CU" autoplay="true" >}}
+*****
+{{< youtube id="awd1SzD-yXI" autoplay="true" >}} 
+
 # Purchase From My Store
 
 *****
@@ -30,11 +38,6 @@
 
 *****
 
-[![Top Google LeetCode Questions ](https://public-files.gumroad.com/variants/iltjk5j9rx7xdkmo6yb7k8qpz4qc/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301)](https://astrodevil.gumroad.com/l/npwmb)
-### Top Google LeetCode Questions 
-{{< gumroad-button id="npwmb" >}}Buy on{{</ gumroad-button >}}
-
-*****
 
 [Become an Affiliate for Mr. Ånand and Earn Upto 30% For Every Paid Sale on Gumroad](https://astrodevil.gumroad.com/affiliates)
 
