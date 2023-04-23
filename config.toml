@@ -120,8 +120,8 @@ imageHeight = 120
   name = "Newsletter"
   url = "https://zerooctave.substack.com/"
 [[params.profileMode.buttons]]
-  name = "Resume"
-  url = "https://drive.google.com/file/d/1zC81LO5XOmLDd7KhCJlsM96w1J4HaEcw/view?usp=sharing"
+  name = "x Collab"
+  url = "https://mr-nand.daftpage.com/"
 
 
 [params.HugoShortcodes.Gumroad]
