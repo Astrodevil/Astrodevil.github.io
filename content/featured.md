@@ -2,8 +2,11 @@
 [![Shop from my gumroad store](https://img.shields.io/badge/Shop%20from-my%20Gumroad%20Store-blue)](https://astrodevil.gumroad.com/)
 
 
-## Paid articles For Others🤝🏼
-[**flycode**](https://www.flycode.com/)
+## Collabs & Sponsored Posts🤝🏼
+[**DevBytes**](https://devbytes.co.in/)
+- [DevBytes App: News Shorts App for Developers](https://blog.mranand.com/devbytes-app-news-shorts-app-for-developers)
+
+[**FlyCode**](https://www.flycode.com/)
 - [Say No to Coding! Introduction to Low-Code / No-Code](https://blog.flycode.com/say-no-to-coding-introduction-to-low-code-no-code)
 - [15+ Websites to Help You in Your Developer Journey](https://blog.flycode.com/15-websites-to-help-you-in-your-developer-journey)
 

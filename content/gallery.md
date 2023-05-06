@@ -1,6 +1,9 @@
 [![Hire me for technical writing](https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red)](https://mr-nand.daftpage.com/)
 [![Shop from my gumroad store](https://img.shields.io/badge/Shop%20from-my%20Gumroad%20Store-blue)](https://astrodevil.gumroad.com/)
 
+<iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/instagram-live-follower-counter/codes.astro style="border: 0; width:300px; height:90px;"></iframe>
+<iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/twitter-live-follower-counter/astrodevil_ style="border: 0; width:300px; height:90px;"></iframe>
+
 ## [Developer Tech🔮](https://www.amazon.in/shop/astro/list/3FM5KPV7Y33SP)
 A curated list of Gadgets a developer needs in the different price ranges.
 
@@ -24,7 +27,7 @@ ZeroOctave is a GitHub Organization.
 
 welcomes newbies to Open Source. Contribute in our organization to enhance your skills and obviously our source codes.
 
-## [Hackathon & Opportunity🎊](https://www.showwcase.com/community/hackathon-and-opportunity)
+## [Hackathon & Opportunity🎊](https://www.showwcase.com/community/hackathon)
 Hackathon & Opportunity is a [Showwcase](https://www.showwcase.com/) community.
  
 Find hackathons, open-source, and various good opportunities.  Many hackathon participants find it hard to get teammates, you can find them here by making a post.

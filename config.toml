@@ -22,7 +22,7 @@ ShowShareButtons = true
 ShowCodeCopyButtons = true
 ShowFullTextinRSS = true
 # comments = true
-defaultTheme = "dark"
+defaultTheme = "auto"
 description = "Tech blogger from India. Open-Source and Self-Learning. Love to create different types of content. Student | Content Creator | Explorer and Learner"
 keywords = [ "Blogger", "India", "Selflearning", "Blog", "Portfolio", "PaperMod", "GitHub", "open source", "JavaScript", "Astrodevil", "Content", "Developers", "100Daysofcode", "codesastro", "Webdevelopment", "Student", "Web3", "Programming", "Coding", "Technicalwriter", "Creator", "mranand", "Mr. Ånand", "Amitesh", "Amitesh Anand", "Programming", "Tutorial", "Books", "Project", "Hugo" ]
 enableEmoji = true
@@ -120,7 +120,7 @@ imageHeight = 120
   name = "Newsletter"
   url = "https://zerooctave.substack.com/"
 [[params.profileMode.buttons]]
-  name = "x Collab"
+  name = "Collab"
   url = "https://mr-nand.daftpage.com/"
 
 
@@ -166,3 +166,6 @@ url = "/index.xml"
    series = "series"
    tags = "tags"
    category = "categories"
+
+[markup.goldmark.renderer]
+  unsafe = true
