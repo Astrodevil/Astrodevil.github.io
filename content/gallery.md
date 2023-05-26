@@ -1,9 +1,6 @@
 [![Hire me for technical writing](https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red)](https://mr-nand.daftpage.com/)
 [![Shop from my gumroad store](https://img.shields.io/badge/Shop%20from-my%20Gumroad%20Store-blue)](https://astrodevil.gumroad.com/)
 
-<iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/instagram-live-follower-counter/codes.astro style="border: 0; width:300px; height:90px;"></iframe>
-<iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/twitter-live-follower-counter/astrodevil_ style="border: 0; width:300px; height:90px;"></iframe><iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/youtube-live-subscriber-counter/UCmLYBvs9CwY2NC9oFERnVzA style="border: 0; width:300px; height:90px;"></iframe>
-
 ## [Developer Tech🔮](https://www.amazon.in/shop/astro/list/3FM5KPV7Y33SP)
 A curated list of Gadgets a developer needs in the different price ranges.
 
