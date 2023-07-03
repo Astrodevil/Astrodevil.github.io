@@ -1,7 +1,7 @@
 baseURL = 'https://mranand.com/'
 languageCode = 'en-us'
 title = 'Mr. Ånand'
-theme = [ 'PaperMod', 'hugo-shortcodes', 'hugo-embed-pdf-shortcode' ]
+theme = [ 'PaperMod', 'hugo-shortcodes' ]
 paginate = 5
 
 
@@ -44,23 +44,6 @@ name = "Search"
 url = "/search/"
 weight = 20
 
-[[menu.main]]
-identifier = "tags"
-name = "Tags"
-url = "/tags/"
-weight = 30
-
-#[[menu.main]]
-#identifier = "categories"
-#name = "Categories"
-#url = "/categories/"
-#weight = 30
-                        # categories and Series features will be enabled if required
-#[[menu.main]]
-#identifier = "series"
-#name = "Series"
-#url = "/series/"
-#weight = 30
 
 [[menu.main]]
 identifier = "featured"
@@ -86,11 +69,6 @@ name = "Projects"
 url = "/projects/"
 weight = 70
 
-[[menu.main]]
-identifier = "archives"
-name = "Archives"
-url = "/archives/"
-weight = 80
 
 [[menu.main]]
 identifier = "about"
