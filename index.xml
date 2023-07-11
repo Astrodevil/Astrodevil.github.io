@@ -172,7 +172,14 @@
 <p>A JavaScript object is a state-and-behaviour-containing entity (properties and method). Examples include a car, pen, bicycle, chair, glass, keyboard, and monitor. JavaScript is an object-based language. In JavaScript, everything is an object. JavaScript relies on templates rather than classes. To obtain the object in this case, no class is created. But we deliberately make objects.</p>
 <p>It is always a good idea to be careful about modifying objects directly! The function is modifying something outside of its scope, potentially leading to unexpected consequences!</p>
 <p><strong>Today I learned about Objects in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Arrays</title><link>https://mranand.com/blogs/javascript-fundamentals-arrays/</link><pubDate>Thu, 29 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-arrays/</guid><description>Day 10, 11 &amp;amp; 12 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 12th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
 <p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
@@ -281,7 +288,14 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>JavaScript does not care if we modify a value inside the data structure when the word <code>const</code> is used with an object or an array. Arrays are objects, so you may also include arrays while discussing an object&rsquo;s characteristics.</p>
 <p><strong>Today I learned about Arrays in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: String Looping, Index Of and Slicing Strings</title><link>https://mranand.com/blogs/javascript-fundamentals-string-looping-index-of-and-slicing-strings/</link><pubDate>Sun, 25 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-string-looping-index-of-and-slicing-strings/</guid><description>Day 9 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 9th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
 <p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
@@ -338,7 +352,14 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>On strings, there is a <code>lastIndexOf</code> method as well. It locates the string&rsquo;s last occurrence and returns its index.</p>
 <p><strong>Today I learned about String Looping, Index Of and Slicing Strings in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: String Manipulation</title><link>https://mranand.com/blogs/javascript-fundamentals-string-manipulation/</link><pubDate>Fri, 23 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-string-manipulation/</guid><description>Day 8 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 8th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
 <p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
@@ -399,7 +420,14 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>Strings in JavaScript allow us to store text that includes characters, integers, and Unicode and is immutable. Additionally, there are numerous built-in functions in JavaScript for creating and manipulating strings in different ways.</p>
 <p><strong>Today I learned about String Manipulation in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: While Loop, Break and Questions for Practice</title><link>https://mranand.com/blogs/javascript-fundamentals-while-loop-break-and-questions-for-practice/</link><pubDate>Thu, 22 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-while-loop-break-and-questions-for-practice/</guid><description>Day 7 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 7th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
 <p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
@@ -495,7 +523,14 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>We can exit loop by using both return and break statement.</p>
 <p><strong>Today I learned about While Loop and Break Statement and also practiced a few Questions in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: For Loop and Modulus Operator</title><link>https://mranand.com/blogs/javascript-fundamentals-for-loop-and-modulus-operator/</link><pubDate>Wed, 21 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-for-loop-and-modulus-operator/</guid><description>Day 6 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 6th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
 <p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
@@ -584,7 +619,14 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>At the beginning of the <code>for</code> loop, the <strong>Initialization</strong> is once executed. Each iteration begins with a check of the <strong>Condition</strong>. The <strong>Statement</strong> will be executed if the expression evaluates to true. If it&rsquo;s untrue, the statement won&rsquo;t execute. Each iteration ends with the <strong>Update</strong> being executed. For the subsequent execution of the <strong>Statement</strong>, it may update a variable. As long as the <strong>Condition</strong> is true, the <strong>Statement</strong> is then executed. The actual work of the loop is completed here.</p>
 <p><strong>Today I learned about For Loop, Modulus Operator in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Conditionals</title><link>https://mranand.com/blogs/javascript-fundamentals-conditionals/</link><pubDate>Mon, 19 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-conditionals/</guid><description>Day 5 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 5th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
 <p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
@@ -699,7 +741,14 @@
 <p>Ending with an extra bit of information about JavaScript&hellip;</p>
 <p>In order to guarantee that code is readable to a standard, many organisations maintain a rigid style guide. <code>{}</code> are typically recommended for <code>if/else</code> statements.</p>
 <p><strong>Today I learned about Conditionals, If, Else, Else If in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Math Object</title><link>https://mranand.com/blogs/javascript-fundamentals-math-object/</link><pubDate>Sun, 18 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-math-object/</guid><description>Day 4 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 4th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
 <p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
@@ -730,7 +779,14 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>The JavaScript Math object allows us to perform mathematical tasks on numbers. There are various math object properties.</p>
 <p><strong>Today I learned about Math.random, Math.floor Functions in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Parameters, Arguments and Operators</title><link>https://mranand.com/blogs/javascript-fundamentals-parameters-arguments-and-operators/</link><pubDate>Sat, 17 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-parameters-arguments-and-operators/</guid><description>Day 3 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 3rd day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
 <p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
@@ -777,7 +833,14 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>Priority is given to division and multiplication above addition and subtraction. Expressions are evaluated from left to right if the precedence of the operators is the same, as it is when division and multiplication are used.</p>
 <p><strong>Today I learned about Parameters, Arguments and Operators in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Mutable let,Comments, Functions</title><link>https://mranand.com/blogs/javascript-fundamentals-mutable-letcomments-functions/</link><pubDate>Fri, 16 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-mutable-letcomments-functions/</guid><description>Day 2 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 2nd day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I am going to write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
 <p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
@@ -825,7 +888,14 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>If we define/declare a function once, it can be called elsewhere in the program.</p>
 <p><strong>Today I learned about Mutable let, Comments, and Functions in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Number Variable, Multiple Variables, Booleans, Strings</title><link>https://mranand.com/blogs/javascript-fundamentals-number-variable-multiple-variables-booleans-strings/</link><pubDate>Thu, 15 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-number-variable-multiple-variables-booleans-strings/</guid><description>Day 1 of #100DaysOfCode</description><content:encoded><![CDATA[<p>After exams and lots of procrastination, I finally resumed my <strong>#100DaysOfCode</strong> journey with JavaScript. Today is the 1st day of my journey and learned some basic concepts of JavaScript.</p>
 <p>I am going to write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
 <h3 id="introduction-to-javascript">Introduction to JavaScript</h3>
@@ -894,7 +964,14 @@
 <p>Ending with an extra bit of information about JavaScript&hellip;</p>
 <p>JavaScript also uses <strong>upper snake case</strong> sometimes like <code>const SERVER_KEY_VALUE = &quot;abcdefg&quot;;</code> This casing is typically reserved for environment variables or values that are needed to be determined before code executions. Like, if you have some secret key that you want to store on the server but not on the local machine, then You might keep that variable tucked away on the server in an environment variable that will require permissions to access or change. These are the types of variables we&rsquo;ll often see with this casing.</p>
 <p><strong>Today I learned about Number variables, multiple variables, booleans, quotes and strings in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>Astrodevil's 2022 Wrapped: Dev Retro 2022</title><link>https://mranand.com/blogs/astrodevil-year-wrap-dev-retro/</link><pubDate>Mon, 12 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/astrodevil-year-wrap-dev-retro/</guid><description>Dev Retro 2022</description><content:encoded><![CDATA[<p>Hey Folks! Long time no see. <strong>2022</strong> is going to end in a few days. In this article, I am going to talk about myself, what I achieved, and my failures this year.</p>
 <p>**2023 is already knocking at the doors!**🎅🏼</p>
 <p>It&rsquo;s time to celebrate the past year&rsquo;s achievements and learn from the mistakes of 2022. Thanks to Hashnode for organizing the <strong>&ldquo;Dev Retro 2022&rdquo;</strong> campaign.</p>
@@ -971,7 +1048,14 @@
 <p><strong>🫱🏼‍🫲🏼Let&rsquo;s Connect</strong></p>
 <p><a href="https://www.showwcase.com/astrodevil?referralToken=diy00cbqnih">Showwcase</a> &mdash; <a href="https://www.instagram.com/codes.astro/">Instagram</a></p>
 <p><strong>How was yours? Let me know in the comments!</strong></p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>Creating Personal Blog With Hugo and Netlify</title><link>https://mranand.com/blogs/creating-personal-blog-with-hugo-and-netlify/</link><pubDate>Tue, 08 Nov 2022 12:30:05 +0530</pubDate><guid>https://mranand.com/blogs/creating-personal-blog-with-hugo-and-netlify/</guid><description>Blog website using a static site generator Hugo and deploying it to Netlify</description><content:encoded><![CDATA[<p>In this Article! I am going to share the step-by-step method I followed while building a blog website using a static site generator <strong><a href="https://gohugo.io/">Hugo</a></strong> and deploying it to <strong>Netlify</strong>. I encountered some small errors during the process, I am gonna entertain those as well. Let&rsquo;s get started.</p>
 <p>As I am using windows, commands may be different, follow <a href="https://gohugo.io/documentation/">official docs</a> while building your own website using Hugo. Also, I am running all commands on git bash.</p>
 <h2 id="step-1">Step 1</h2>
@@ -1064,7 +1148,14 @@ This folder isn&#39;t linked to a site yet
 
 // select public directory 
 </code></pre><p>Hurray! Now you can access your live website with Netlify domain from Netlify dashboard. I have created one other site and it&rsquo;s deployed, check my live website <a href="https://bloggeek.netlify.app/">here&hellip;</a></p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>Learn and Explore Low-Code / No-Code Stack by Involving in These Communities</title><link>https://mranand.com/blogs/learn-and-explore-low-code-no-code-stack-by-involving-in-these-communities/</link><pubDate>Fri, 07 Oct 2022 11:45:05 +0530</pubDate><guid>https://mranand.com/blogs/learn-and-explore-low-code-no-code-stack-by-involving-in-these-communities/</guid><description>No-Code /Low-Code is a new trend in tech and you can master this new tech by involving in communities.</description><content:encoded><![CDATA[<p>I am pretty sure you all are familiar with full-stack, MERN stack, and many similar tech stacks related to development. But I will not talk about it because lots of content are already there. I am going to tell you about the <strong>&ldquo;No-Code /Low-Code stack&rdquo;</strong> a new trend in tech and how you will master this new tech by involving in related communities.</p>
 <h3 id="what-is-low-code--no-code-stack">What is Low-Code / No-Code Stack?</h3>
 <p>This tech stack is nothing but a complete knowledge of Low-Code / No-Code tools and platforms for different stages or processes of software development. Like planning, designing, building, deploying, and launching a fully functional product. It&rsquo;s a new trend, many developers are working in this field and new platforms are coming around low code like Notion or Zapier. If you are not from a tech background and do not want to go deep with coding, You can consider learning this low-code / no-code tech stack and make wonders happen.</p>
@@ -1120,7 +1211,14 @@ This folder isn&#39;t linked to a site yet
 <p>Clients looking to hire specialists, companies, and independent freelancers can connect through this network. If you are a no-coder looking to work for respected businesses, this is the place for you. You can also interact with your peers, present your work, learn, and get feedback. You also gain access to premium events, professional resources, expert sessions, and discussions about various tools.</p>
 <p>Hire the best personnel for automation, no-code, low-code, and remote work. Develop software up to 10 times faster, automate tasks, and launch it in a few of weeks by learning no-code.</p>
 <p><strong>I hope you find this article helpful! If you know some other communities, let me know on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a>.</strong></p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>Some Useful GitHub Repositories To Enhance Your Web3 Skills</title><link>https://mranand.com/blogs/some-useful-github-repositories-to-enhance-your-web3-skills/</link><pubDate>Mon, 30 May 2022 11:22:05 +0530</pubDate><guid>https://mranand.com/blogs/some-useful-github-repositories-to-enhance-your-web3-skills/</guid><description>GitHub Repositories you can contribute to and enhance your practical knowledge of web3 technologies.</description><content:encoded><![CDATA[<p>As the world is moving towards new technology, Web3 is the most trending of them. Developers are learning this new technology very fast, many companies are also shifting towards decentralized blockchain technology. To become a good web3 developer one need good skills related to tech, and for that, they will need practical knowledge of web3 technologies. Like working on or making projects based on blockchain.</p>
 <p>In this article, I am going to share ** Some Useful GitHub Repositories you can contribute** to and enhance your practical knowledge of web3 technologies.</p>
 <h3 id="1-100-days-of-web3httpsgithubcomfrancescoxxfree-web3-resources">1. <a href="https://github.com/FrancescoXX/free-Web3-resources">100 Days Of Web3</a></h3>
@@ -1147,7 +1245,14 @@ This folder isn&#39;t linked to a site yet
 <p>Making sense of web3 &amp; crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.</p>
 <h3 id="11-learn-web3-dapphttpsgithubcomfigment-networkslearn-web3-dapp">11. <a href="https://github.com/figment-networks/learn-web3-dapp">Learn Web3 Dapp</a></h3>
 <p>This Next.js app is designed to be used with the Figment Learn Pathways, to help developers learn about various blockchain protocols such as Solana, NEAR, Secret, Polygon and Polkadot!</p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>GirlScript Summer of Code Learning And Experiences: From Contributor To Project Admin</title><link>https://mranand.com/blogs/girlscript-summer-of-code-learning-and-experiences/</link><pubDate>Thu, 28 Apr 2022 22:12:05 +0530</pubDate><guid>https://mranand.com/blogs/girlscript-summer-of-code-learning-and-experiences/</guid><description>GSSoC stands for GirlScript Summer of Code. It is a three-month-long Open-Source Program conducted by the GirlScript Foundation for beginners. This year I am selected as project admin for the program. (GSSOC&amp;#39;22)
 In this article, I am going to share my experiences from being a contributor in an open-source program to the project admin &amp;amp; mentor of one.</description><content:encoded><![CDATA[<p>GSSoC stands for <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code</a>. It is a three-month-long Open-Source Program conducted by the GirlScript Foundation for beginners. This year I am selected as project admin for the program. (GSSOC'22)</p>
 <p>In this article, I am going to share my experiences from being a contributor in an open-source program to the project admin &amp; mentor of one.</p>
@@ -1170,7 +1275,14 @@ In this article, I am going to share my experiences from being a contributor in 
 <li><a href="https://github.com/ZeroOctave#what-you-can-do-here">Contribute In Projects</a></li>
 <li><a href="https://hashnode.com/teams/invite/0013e746-aa30-4335-9196-5dd3bed50715">Join ZeroOctave Blog Team</a></li>
 </ul>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>Make Your GitHub Profile Standout To Attract Better Opportunities</title><link>https://mranand.com/blogs/make-your-github-profile-standout-to-attract-better-opportunities/</link><pubDate>Sat, 19 Mar 2022 11:00:05 +0530</pubDate><guid>https://mranand.com/blogs/make-your-github-profile-standout-to-attract-better-opportunities/</guid><description>To screen candidates, the industry is shifting away from resumes and toward GitHub profiles. In the software industry, Open Source projects are widely regarded now. How can recruiters know that the abilities you claim to have are truly the skills you have? When you&amp;#39;re a fresher with no professional experience open-source contributions come in useful. Without any prior industry expertise, GitHub allows you to exhibit your work. As a result, it&amp;#39;s important to make GitHub Profile stand out and present the best version of yourself.</description><content:encoded><![CDATA[<p>To screen candidates, the industry is shifting away from resumes and toward GitHub profiles. In the software industry, Open Source projects are widely regarded now. How can recruiters know that the abilities you claim to have are truly the skills you have? When you&rsquo;re a fresher with no professional experience open-source contributions come in useful. Without any prior industry expertise, GitHub allows you to exhibit your work. As a result, it&rsquo;s important to make GitHub Profile stand out and present the best version of yourself.</p>
 <p>In this article, I am shedding light on tips to <strong>Make Your GitHub Profile Standout To Attract Better Opportunities</strong>.</p>
 <h2 id="introduction">Introduction!</h2>
@@ -1295,7 +1407,14 @@ jobs:
 </li>
 </ul>
 <p>I hope, This will help you to make your GitHub profile stand-out! What are you waiting for? Now go create your own profile README and open a world of opportunities for yourself. Check out my <a href="https://github.com/Astrodevil">GitHub</a>🤝</p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>15 Recommended Books For Computer Science Students</title><link>https://mranand.com/blogs/15-recommended-books-for-computer-science-students/</link><pubDate>Sat, 19 Mar 2022 10:56:05 +0530</pubDate><guid>https://mranand.com/blogs/15-recommended-books-for-computer-science-students/</guid><description>We are in the modern world where the digitization of education is already going on. Now lots of blogs, articles are there on the internet to learn from. But Book has its own value, the author puts his all knowledge experience and time to write one whole book. The knowledge and details you get from a book are very precious.</description><content:encoded><![CDATA[<p>We are in the modern world where the digitization of education is already going on. Now lots of blogs, articles are there on the internet to learn from. But Book has its own value, the author puts his all knowledge experience and time to write one whole book. The knowledge and details you get from a book are very precious.</p>
 <p>In this article, I am going to discuss 15 Recommended Books For Computer Science Students</p>
 <h3 id="1-clean-code-a-handbook-of-agile-software-craftsmanshiphttpsamznto3f96hka">1. <a href="https://amzn.to/3F96hkA">Clean Code: A Handbook of Agile Software Craftsmanship</a></h3>
@@ -1366,7 +1485,14 @@ You will learn about SStables, LSM trees, and B-Trees, as well as how they are e
 <p><a href="https://amzn.to/3GE7SjP"><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642415714814/sxl5Smsoz.png" alt="image.png"  />
 </a></p>
 <p>The book&rsquo;s goal is to provide a comprehensive enrichment of knowledge in the domain of object-oriented programming using C++ as the implementation language. The author has utilized simple language to convey important principles of object-oriented programming and to aid readers&rsquo; comprehension. The same ideas have been implemented in solved examples written in the C++ programming language. The book retains its original style of straightforward writing and includes plenty of solved examples, programming exercises, and additional practice problems.</p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>40+ No Code/Low Code Tools And Resources For Developers In 2022</title><link>https://mranand.com/blogs/40+-no-codelow-code-tools-and-resources-for-developers-in-2022/</link><pubDate>Sat, 01 Jan 2022 17:40:05 +0530</pubDate><guid>https://mranand.com/blogs/40+-no-codelow-code-tools-and-resources-for-developers-in-2022/</guid><description>There are so many no-code tools to make the work of developers easier. Anyone can build some useful products, startups without writing even a single line of code. In this article, we will see 40+ No Code/Low Code Tools And Resources For Developers that is going to help you In 2022.
 90% of developers don’t know about these resources.</description><content:encoded><![CDATA[<p>There are so many no-code tools to make the work of developers easier. Anyone can build some useful products, startups without writing even a single line of code. In this article, we will see <strong>40+ No Code/Low Code Tools And Resources For Developers</strong> that is going to help you In 2022.</p>
 <h3 id="what-exactly-is-no-code">What exactly is no-code?</h3>
@@ -1559,7 +1685,14 @@ Launch websites from Notion, Google Sheets, GitHub or Airtable.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639600678403/8d-p2c3n4.png" alt="screely-1639600669490.png"  />
 </p>
 <p>People have been able to use computers without ever writing a line of code for decades. With the proliferation of no-code technologies, a comparable revolution is taking place for those who wish to write software. While the no-code revolution is still in its early stages, the business is expected to be worth more than $43 billion by 2023. The current boom, on the other hand, is the consequence of decades of hard labour and progress that cannot be overlooked.</p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>All Resources To Help You Start Your Open-Source Journey: Open Source Gallery</title><link>https://mranand.com/blogs/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery/</link><pubDate>Sat, 01 Jan 2022 17:37:05 +0530</pubDate><guid>https://mranand.com/blogs/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery/</guid><description>Do you want to start your open source journey? Don&amp;#39;t know where to start? Difficulty in finding suitable projects according to your tech stack? Then this article is for you. In this article, I am going to discuss a resource gallery that I curated to help beginners get into the open-source world.
 Tutorials, Docs, Projects, and Communities to Get You Started.</description><content:encoded><![CDATA[<p>Do you want to start your open source journey? Don&rsquo;t know where to start? Difficulty in finding suitable projects according to your tech stack? Then this article is for you. In this article, I am going to discuss a resource gallery that I curated to help beginners get into the open-source world.</p>
 <h1 id="open-source-galleryhttpsgithubcomastrodevilopen-source-gallery"><a href="https://github.com/Astrodevil/Open-Source-Gallery">Open Source Gallery</a></h1>
@@ -1588,7 +1721,14 @@ Tutorials, Docs, Projects, and Communities to Get You Started.</description><con
 <h3 id="final-words">Final Words✅</h3>
 <p>Open Source Gallery is made with a view to helping everyone, It will be constantly updated with new and valuable resources. So you all are welcome to add more resources to the <a href="https://github.com/Astrodevil/Open-Source-Gallery">repository</a> and share it with everyone out there who is going to start open-source in 2022.</p>
 <p>Don&rsquo;t forget to give it a <a href="https://github.com/Astrodevil/Open-Source-Gallery">⭐</a> on GitHub.</p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>25 Must-Visit Killer Websites For Developers</title><link>https://mranand.com/blogs/25-must-visit-killer-websites-for-developers/</link><pubDate>Sat, 01 Jan 2022 17:31:05 +0530</pubDate><guid>https://mranand.com/blogs/25-must-visit-killer-websites-for-developers/</guid><description>There are so many websites to make the work of developers easier. Everyone doesn&amp;#39;t know all. In this article, we will see 25 Must-Visit Killer Websites For Developers.
 90% of developers don’t know about these websites</description><content:encoded><![CDATA[<p>There are so many websites to make the work of developers easier. Everyone doesn&rsquo;t know all. In this article, we will see <strong>25 Must-Visit Killer Websites For Developers</strong>.</p>
 <h3 id="1-devdocshttpsdevdocsio">1. <a href="https://devdocs.io/">DevDocs</a></h3>
@@ -1692,7 +1832,14 @@ Tutorials, Docs, Projects, and Communities to Get You Started.</description><con
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638392080280/sDiDjjAgL.png" alt="screely-1638392067037.png"  />
 </p>
 <p><strong>Bonus Website</strong>: I used screenshots taken by <strong><a href="https://www.screely.com/">Screely</a></strong> in this Article.</p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>How NOT to contribute to Open Source on GitHub: Tips For Beginners</title><link>https://mranand.com/blogs/how-not-to-contribute-to-open-source-on-github-tips-for-beginners/</link><pubDate>Sat, 01 Jan 2022 17:29:05 +0530</pubDate><guid>https://mranand.com/blogs/how-not-to-contribute-to-open-source-on-github-tips-for-beginners/</guid><description>While maintaining some projects on GitHub during Hacktoberfest 2021, I came across many new open source contributors. They are just starting their open-source journey and making mistakes. In the beginning, making mistakes is not a bad thing. But, correctly contributing to open-source projects is also very important.
 In this article, I am going to discuss some tips on - How Not to contribute to Open-Source on GitHub.</description><content:encoded><![CDATA[<p>While maintaining some projects on GitHub during Hacktoberfest 2021, I came across many new open source contributors. They are just starting their open-source journey and making mistakes. In the beginning, making mistakes is not a bad thing. But, correctly contributing to open-source projects is also very important.</p>
 <p>In this article, I am going to discuss some tips on - <strong>How Not to contribute to Open-Source on GitHub</strong>.</p>
@@ -1754,7 +1901,14 @@ In this article, I am going to discuss some tips on - How Not to contribute to O
 </p>
 <h3 id="references">References</h3>
 <p><a href="https://youtu.be/ExFCwFPTsE0">Eddie Jaoude</a></p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>Are You A Coder? Here Are 20 Top Tips From The Coding Community</title><link>https://mranand.com/blogs/are-you-a-coder-here-are-20-top-tips-from-the-coding-community/</link><pubDate>Sat, 01 Jan 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/are-you-a-coder-here-are-20-top-tips-from-the-coding-community/</guid><description>Learning to code is an amazing thing. How you can code something interesting and then view its fascinating outcomes. But Doing it in the right way is also very important. While scrolling YouTube I found a video where some developers and community leaders were sharing their tips about programming.
 In this Article, I am going to share 20 Top Tips From The Coding Community</description><content:encoded><![CDATA[<p>Learning to code is an amazing thing. How you can code something interesting and then view its fascinating outcomes. But Doing it in the right way is also very important. While scrolling YouTube I found a video where some developers and community leaders were sharing their tips about programming.</p>
 <p>In this Article, I am going to share <strong>20 Top Tips From The Coding Community</strong></p>
@@ -1806,7 +1960,14 @@ Suppose you are learning web development, create mini-projects after clearing ev
 <li><strong>Use Stack Overflow:</strong> If You get stuck in coding problems and find solutions later share it there so that anyone facing the same issue in the future can take help from it.</li>
 <li><strong>Some Apps For Student Developers:</strong>  Gaming apps to social media apps, everyone is using different apps. But having some proper apps to increase your productivity and boost your coding journey is also important. So Read My Article  <a href="https://astrodevil.hashnode.dev/some-apps-for-student-developer">here</a>  about some suggestions.</li>
 </ul>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>Some Cool GitHub Actions You Won't Believe Exists</title><link>https://mranand.com/blogs/some-cool-github-actions-you-wont-believe-exists/</link><pubDate>Fri, 31 Dec 2021 17:50:05 +0530</pubDate><guid>https://mranand.com/blogs/some-cool-github-actions-you-wont-believe-exists/</guid><description>With GitHub Actions, you can automate, customize, and execute your software development workflows right in your repository. You may find, create, and distribute actions for any job you want to do, including CI/CD, and combine actions in a fully customized workflow.
 In this Article, I am going to discuss Some Cool GitHub Actions You Won&amp;#39;t Believe Exists.</description><content:encoded><![CDATA[<p>With GitHub Actions, you can automate, customize, and execute your software development workflows right in your repository. You may find, create, and distribute actions for any job you want to do, including CI/CD, and combine actions in a fully customized workflow.</p>
 <p>In this Article, I am going to discuss <strong>Some Cool GitHub Actions You Won&rsquo;t Believe Exists</strong>.</p>
@@ -1856,7 +2017,14 @@ In this Article, I am going to discuss Some Cool GitHub Actions You Won&amp;#39;
 </li>
 </ul>
 <p>GitHub Actions are such a productive tool that I have decided to use one of the above Actions in my GitHub while writing this blog. Could You guess? Which one.</p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title>Some Apps You Should Use As a Student Developer</title><link>https://mranand.com/blogs/some-apps-you-should-use-as-a-student-developer/</link><pubDate>Thu, 30 Dec 2021 20:57:05 +0530</pubDate><guid>https://mranand.com/blogs/some-apps-you-should-use-as-a-student-developer/</guid><description>Having useful apps in phones is very important now-a-days. And as a student you must use apps useful for you.</description><content:encoded><![CDATA[<p>In this new world of technology, there are various apps coming time to time to ease the life and work of peoples. As a student, you must have to use some apps that helps in your study, learning and creating contents.</p>
 <p><strong>Here are some apps you should try as student developer</strong></p>
 <h3 id="messaging">Messaging</h3>
@@ -1923,7 +2091,14 @@ In this new online world you all need a good networking app.</p>
 </ul>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625414234437/Z2TJ8QZY9.gif" alt="TheOfficeBowGIF.gif"  />
 </p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_-or-supports-me-by-buying-me-a-coffeehttpswwwbuymeacoffeecomastrodevil">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a> or Supports Me By <a href="https://www.buymeacoffee.com/Astrodevil">Buying Me A Coffee☕</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+
+
+
+<a class="hugo-shortcodes-bmc-button" href="https://www.buymeacoffee.com/Astrodevil">
+    <img src="https://img.buymeacoffee.com/button-api/?button_colour=ffdd00&amp;coffee_colour=ffffff&amp;emoji=&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;slug=Astrodevil&amp;text=Buy&#43;me&#43;a&#43;coffee" alt="Buy me a coffee" />
+</a>
+
 ]]></content:encoded></item><item><title/><link>https://mranand.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mranand.com/about/</guid><description>About🙏🏼 🎓 I am currently pursuing my Bachelor&amp;rsquo;s in Computer Science Engineering.
 🌱 I am currently learning Web Development and writing Tech Articles.
 🎯 My Goal is to Contribute to as many Open Source projects as possible.
@@ -2077,4 +2252,196 @@ Developer Resources Gallery - 300+ Resources and Tools Buy on React Interview Qu
 <hr>
 <p><a href="https://astrodevil.gumroad.com/affiliates">Become an Affiliate for Mr. Ånand and Earn Upto 30% For Every Paid Sale on Gumroad</a></p>
 <hr>
+]]></content:encoded></item><item><title>Collab With Me</title><link>https://mranand.com/services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mranand.com/services/</guid><description>Blogs Guest Blog Blog on my Profiles Your Demand Book a Call
+Newsletter Sponsorships Sponsor Issue Job Listings Spotlight Slot Drop a DM
+Package Blog Slot + YT Short + Instagram Reel + Tweet + Video Slot + Random Posts Drop a DM
+If you have any different ideas about the collab or promotion, Drop a DM on Twitter or book a call from my available slots.
+You can also collab with me by filling details in this form.</description><content:encoded><![CDATA[<p><a href="https://blog.mranand.com/series/collabs"><img loading="lazy" src="https://daftpage.s3.amazonaws.com/projects/clgs1es01004v08mld5271dxb/assets/copy-of-blog-banner-for-website-content-br5q33.png" alt="Collab with Anand"  />
+</a></p>
+<!-- Pricings and services cards -->
+<style>
+.p-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 20px;
+}
+
+.p-card {
+  position: relative;
+  margin-bottom: var(--gap);
+  padding: var(--gap);
+  background: var(--entry);
+  border-radius: var(--radius);
+  transition: transform 0.1s;
+  border: 1px solid var(--border);
+  background: linear-gradient(var(--tertiary), var(--tertiary)) padding-box, linear-gradient(to right, #be09eb, #0b9fe8) border-box;
+  border: 3px solid transparent;
+}
+
+.dark .p-card {
+  background: linear-gradient(var(--tertiary), var(--tertiary)) padding-box, linear-gradient(to right, #450155, #014B72) border-box;
+  border: 3px solid transparent;
+}
+
+.p-card:hover {
+  transform: translateY(-5px);
+}
+
+.p-card__content {
+  text-align: center;
+}
+
+.p-card__title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.p-card__description ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.p-card__description ul li {
+  margin-bottom: 5px;
+}
+
+.p-card__description ul li:before {
+  font-size: 8px;
+  /* Adjust the bullet size */
+  display: inline-block;
+  width: 8px;
+  margin-right: 5px;
+  /* Adjust the spacing between the bullet and the feature text */
+}
+
+.p-card__price {
+  font-weight: bold;
+  background: linear-gradient(to right, #be09eb, #0b9fe8);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+</style>
+<div class="p-grid">
+  <div class="p-card">
+    <div class="p-card__content">
+      <h3 class="p-card__title">Blogs</h3>
+      <p class="p-card__description">
+        <ul>
+          <li>Guest Blog</li>
+          <li>Blog on my Profiles</li>
+          <li>Your Demand</li>
+        </ul>
+      </p>
+      <p class="p-card__price"><a href="https://topmate.io/mranand/401460">Book a Call</a></p>
+    </div>
+  </div>
+  <div class="p-card">
+    <div class="p-card__content">
+      <h3 class="p-card__title">Newsletter Sponsorships</h3>
+      <p class="p-card__description">
+        <ul>
+          <li>Sponsor Issue</li>
+          <li>Job Listings</li>
+          <li>Spotlight Slot</li>
+        </ul>
+      </p>
+      <p class="p-card__price"><a href="https://twitter.com/Astrodevil_">Drop a DM</a></p>
+    </div>
+  </div>
+  <div class="p-card">
+    <div class="p-card__content">
+      <h3 class="p-card__title">Package</h3>
+      <p class="p-card__description">
+        <ul>
+          <li>Blog Slot + YT Short + Instagram Reel + Tweet + Video Slot + Random Posts</li>
+        </ul>
+      </p>
+      <p class="p-card__price"><a href="https://twitter.com/Astrodevil_">Drop a DM</a></p>
+    </div>
+  </div>
+</div>
+<p>If you have any different ideas about the collab or promotion, Drop a DM on <a href="https://twitter.com/Astrodevil_">Twitter</a> or book a <a href="https://topmate.io/mranand/401460">call</a> from my available slots.</p>
+<p>You can also collab with me by filling details in this <a href="https://tally.so/r/3XLky4">form</a>.</p>
+<hr>
+<h2 id="recent-collabs">Recent Collabs</h2>
+<div class="profile-pics">
+<div class="profile-pic">
+    <a href="https://www.dronahq.com/" target="_blank">
+      <img src="https://yt3.googleusercontent.com/ytc/AGIKgqP7q3TjATZ3q360mZI9vs8qI6cAFQAx-vDpRlRm=s900-c-k-c0x00ffffff-no-rj" alt="DronaHQ">
+    </a>
+  </div>
+  <div class="profile-pic">
+    <a href="https://devbytes.co.in/" target="_blank">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeDdT3bbV2Unp8IjT2-DP6QGNCdUAaN2glvw&usqp=CAU" alt="DevBytes">
+    </a>
+  </div>
+  <div class="profile-pic">
+    <a href="https://blog.flycode.com/" target="_blank">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzQlfe5VbXWI-eJzJULd2wnF7sbq_PLulIm6XCwHeeiboEn1rRYWNu74S02iSVt2r6Cnk&usqp=CAU" alt="FlyCode">
+    </a>
+  </div>
+</div>
+<style>
+.profile-pics {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  /* Adjust the spacing between the circular images */
+}
+
+.profile-pic {
+  width: 120px;
+  /* Adjust the size of each circular image */
+  height: 120px;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  /* Add a box shadow for a subtle effect */
+  transition: transform 0.2s;
+  /* Add a transition effect on hover */
+  background: linear-gradient(var(--tertiary), var(--tertiary)) padding-box, linear-gradient(to right, #be09eb, #0b9fe8) border-box;
+  border: 3px solid transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dark .profile-pic {
+  background: linear-gradient(var(--tertiary), var(--tertiary)) padding-box, linear-gradient(to right, #450155, #014B72) border-box;
+  border: 3px solid transparent;
+}
+
+.profile-pic:hover {
+  transform: scale(1.1);
+  /* Enlarge the profile picture on hover */
+}
+
+.profile-pic img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  /* Add border-radius to make the image circular */
+}
+
+@media (max-width: 768px) {
+  .profile-pics {
+    flex-wrap: wrap;
+    /* Allow the profile pictures to wrap on smaller screens */
+  }
+
+  .profile-pic {
+    width: 80px;
+    /* Adjust the size of each circular image for smaller screens */
+    height: 80px;
+  }
+}
+</style>
+<hr>
+<!-- Testimonial section -->
+<h2 id="testimonials">Testimonials</h2>
+<p>How was the collab experience? Send me your thoughts that I can share on my website <a href="https://shoutout.io/submit/mranand/">here</a>.</p>
 ]]></content:encoded></item></channel></rss>
