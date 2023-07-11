@@ -54,6 +54,10 @@
     
 }
 
+.post-entry:hover {
+    transform: translateY(-5px);
+  }
+
 .tag-entry .entry-cover {
     display: none;
 }

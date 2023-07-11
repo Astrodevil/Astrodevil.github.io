@@ -113,7 +113,9 @@ Because most coders overlook open-source contributions, I'm writing this in the 
 - **Use Stack Overflow:** If You get stuck in coding problems and find solutions later share it there so that anyone facing the same issue in the future can take help from it. 
 - **Some Apps For Student Developers:**  Gaming apps to social media apps, everyone is using different apps. But having some proper apps to increase your productivity and boost your coding journey is also important. So Read My Article  [here](https://astrodevil.hashnode.dev/some-apps-for-student-developer)  about some suggestions.
 
-#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) 
+
+{{< bmc-button slug="Astrodevil">}}
 
 
 

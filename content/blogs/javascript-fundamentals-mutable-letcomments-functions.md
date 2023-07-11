@@ -143,4 +143,6 @@ If we define/declare a function once, it can be called elsewhere in the program.
 
 **Today I learned about Mutable let, Comments, and Functions in JavaScript.**
 
-#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) 
+
+{{< bmc-button slug="Astrodevil">}}

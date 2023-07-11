@@ -105,4 +105,6 @@ The JavaScript Math object allows us to perform mathematical tasks on numbers. T
 
 **Today I learned about Math.random, Math.floor Functions in JavaScript.**
 
-#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) 
+
+{{< bmc-button slug="Astrodevil">}}

@@ -306,4 +306,6 @@ It is always a good idea to be careful about modifying objects directly! The fun
 
 **Today I learned about Objects in JavaScript.**
 
-#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) 
+
+{{< bmc-button slug="Astrodevil">}}

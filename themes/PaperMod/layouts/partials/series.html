@@ -1,6 +1,6 @@
 {{ if .Params.series }}
 <div>
-    <h4>This article is part of a series.</h4>
+    <h3>This article is part of a series.</h3>
     <ul class="list-group">
         {{ range $num,$post := (index .Site.Taxonomies.series (index .Params.series 0 | urlize)).Pages.ByDate }}
             {{ if eq $post.Permalink $.Page.Permalink }}

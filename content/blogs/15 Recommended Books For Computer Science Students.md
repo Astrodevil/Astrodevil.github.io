@@ -151,7 +151,9 @@ You will learn about SStables, LSM trees, and B-Trees, as well as how they are e
 
 The book's goal is to provide a comprehensive enrichment of knowledge in the domain of object-oriented programming using C++ as the implementation language. The author has utilized simple language to convey important principles of object-oriented programming and to aid readers' comprehension. The same ideas have been implemented in solved examples written in the C++ programming language. The book retains its original style of straightforward writing and includes plenty of solved examples, programming exercises, and additional practice problems.
 
-#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) 
+
+{{< bmc-button slug="Astrodevil">}}
 
 
 

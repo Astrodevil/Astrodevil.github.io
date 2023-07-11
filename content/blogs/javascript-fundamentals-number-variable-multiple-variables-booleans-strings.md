@@ -141,4 +141,6 @@ JavaScript also uses **upper snake case** sometimes like `const SERVER_KEY_VALUE
 
 **Today I learned about Number variables, multiple variables, booleans, quotes and strings in JavaScript.**
 
-#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) 
+
+{{< bmc-button slug="Astrodevil">}}

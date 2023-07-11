@@ -116,8 +116,9 @@ When you create any pull request or issue I know you get excited. Maintainers wi
 [Eddie Jaoude](https://youtu.be/ExFCwFPTsE0)
 
 
-#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) 
 
+{{< bmc-button slug="Astrodevil">}}
 
 
 

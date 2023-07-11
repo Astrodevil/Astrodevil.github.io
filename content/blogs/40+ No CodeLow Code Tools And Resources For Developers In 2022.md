@@ -283,6 +283,7 @@ Softr is a fantastic online development tool that allows users to create code-fr
 
 People have been able to use computers without ever writing a line of code for decades. With the proliferation of no-code technologies, a comparable revolution is taking place for those who wish to write software. While the no-code revolution is still in its early stages, the business is expected to be worth more than $43 billion by 2023. The current boom, on the other hand, is the consequence of decades of hard labour and progress that cannot be overlooked.
 
-#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) 
 
+{{< bmc-button slug="Astrodevil">}}
 

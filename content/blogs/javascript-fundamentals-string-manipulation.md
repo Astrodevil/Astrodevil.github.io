@@ -152,4 +152,6 @@ Strings in JavaScript allow us to store text that includes characters, integers,
 
 **Today I learned about String Manipulation in JavaScript.**
 
-#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) 
+
+{{< bmc-button slug="Astrodevil">}}

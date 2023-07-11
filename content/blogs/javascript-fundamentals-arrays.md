@@ -216,4 +216,5 @@ JavaScript does not care if we modify a value inside the data structure when the
 
 **Today I learned about Arrays in JavaScript.**
 
-#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) 
+{{< bmc-button slug="Astrodevil">}}

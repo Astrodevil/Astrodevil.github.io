@@ -74,5 +74,6 @@ In this Article, I am going to discuss **Some Cool GitHub Actions You Won't Beli
 GitHub Actions are such a productive tool that I have decided to use one of the above Actions in my GitHub while writing this blog. Could You guess? Which one.
 
 
-#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil) 
- 
+#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) 
+
+{{< bmc-button slug="Astrodevil">}}

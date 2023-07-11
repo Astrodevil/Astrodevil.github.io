@@ -179,4 +179,5 @@ At the beginning of the `for` loop, the **Initialization** is once executed. Eac
 
 **Today I learned about For Loop, Modulus Operator in JavaScript.**
 
-#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on [Twitter](https://mobile.twitter.com/Astrodevil_) 
+{{< bmc-button slug="Astrodevil">}}

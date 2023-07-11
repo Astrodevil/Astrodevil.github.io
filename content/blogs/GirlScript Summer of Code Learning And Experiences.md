@@ -71,7 +71,8 @@ If you are a beginner, you are welcome to contribute to our organization. If you
 - [Contribute In Projects](https://github.com/ZeroOctave#what-you-can-do-here)
 - [Join ZeroOctave Blog Team](https://hashnode.com/teams/invite/0013e746-aa30-4335-9196-5dd3bed50715)
 
-#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) 
 
+{{< bmc-button slug="Astrodevil">}}
 
 

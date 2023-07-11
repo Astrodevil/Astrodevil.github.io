@@ -170,7 +170,9 @@ Even developers also need entertainment. You can visit this website for various 
 
 **Bonus Website**: I used screenshots taken by **[Screely](https://www.screely.com/)** in this Article.
 
-#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) 
+
+{{< bmc-button slug="Astrodevil">}}
 
 
 

@@ -176,4 +176,6 @@ netlify deploy --prod
 Hurray! Now you can access your live website with Netlify domain from Netlify dashboard. I have created one other site and it's deployed, check my live website [here...](https://bloggeek.netlify.app/)
 
 
-#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) 
+
+{{< bmc-button slug="Astrodevil">}}

@@ -160,6 +160,8 @@ Add this block to README.md file where you want to showcase your recent activity
 
 I hope, This will help you to make your GitHub profile stand-out! What are you waiting for? Now go create your own profile README and open a world of opportunities for yourself. Check out my [GitHub](https://github.com/Astrodevil)🤝
 
-#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) 
+
+{{< bmc-button slug="Astrodevil">}}
 
 

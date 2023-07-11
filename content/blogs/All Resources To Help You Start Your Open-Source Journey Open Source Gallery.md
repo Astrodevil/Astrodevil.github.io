@@ -81,7 +81,9 @@ Open Source Gallery is made with a view to helping everyone, It will be constant
 
 Don't forget to give it a [⭐](https://github.com/Astrodevil/Open-Source-Gallery) on GitHub.
 
-#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_) or Supports Me By [Buying Me A Coffee☕](https://www.buymeacoffee.com/Astrodevil)
+#### If You ❤️ My Content! Connect Me on  [Twitter](https://mobile.twitter.com/Astrodevil_)
+{{< bmc-button slug="Astrodevil">}}
+
 
 
 
