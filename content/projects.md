@@ -34,7 +34,10 @@ keywords:
 
 
 ## Open Source Contributions
-- Will be added soon
+
+[![Astrodevil's GitHub | Stats](https://stats.quine.sh/Astrodevil/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Astrodevil)
+
+[![Astrodevil's GitHub | Languages Over Time](https://stats.quine.sh/Astrodevil/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Astrodevil)
 
 
 
