@@ -185,7 +185,15 @@ LangChain is a framework that simplifies application development using large lan
 
 Gretel ai is a synthetic data platform that enables developers to create artificial datasets resembling real data, ensuring privacy is maintained. With Gretel.ai's APIs, developers can easily generate anonymized and secure synthetic data, accelerating innovation while protecting sensitive information. The platform offers comprehensive tools for training AI models, validating use cases, and generating data as required, with a quick setup time. Developers can explore synthetic data through sample notebooks or the user-friendly web app, catering to both technical and non-technical users. Gretel ai empowers developers to harness the potential of synthetic data while upholding privacy standards.
 
-## 21\. [CodeWP](https://codewp.ai/)
+**Few more tools...**
+
+## 21\. [Merlin](https://app.getmerlin.in/plans?ref=njjmztya)
+
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690189472516/0ad35f9e-08ee-4d50-9a06-5b2295955287.png)](https://app.getmerlin.in/plans?ref=njjmztya)
+
+Merlin is a Chrome extension powered by ChatGPT API that enhances your productivity by providing applications of ChatGPT on any website on your browser. It provides you with features like free access to the GPT-4 model by OpenAI, Youtube Summary, Blog Summary, AI writer for Gmail, Twitter & LinkedIn, Chat GPT response on Google search, AI Chatbot to Chat with Merlin on any website and much more. It helps you get the best out of AI on Google Search, Youtube, Gmail, LinkedIn, Substack and 10+ million other websites.
+
+## 22\. [CodeWP](https://codewp.ai/)
 
 [![CodeWP](https://cdn.hashnode.com/res/hashnode/image/upload/v1689835584488/e1763aef-d00a-49d9-8b98-55134c81e37d.png)](https://codewp.ai/)
 
