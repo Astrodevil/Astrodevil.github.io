@@ -3,16 +3,19 @@
 
 
 ## Collabs & Sponsored Posts🤝🏼
-[**DevBytes**](https://devbytes.co.in/)
-- [DevBytes App: News Shorts App for Developers](https://blog.mranand.com/devbytes-app-news-shorts-app-for-developers)
 
-[**FlyCode**](https://www.flycode.com/)
+- [How Developers, CTOs, and Product Managers Are Building Internal Operational Apps in 2023](https://blog.devgenius.io/how-developers-ctos-and-product-managers-are-building-internal-operational-apps-in-2023-c2ce9c60a126)
+- [DevBytes App: News Shorts App for Developers](https://blog.mranand.com/devbytes-app-news-shorts-app-for-developers)
 - [Say No to Coding! Introduction to Low-Code / No-Code](https://blog.flycode.com/say-no-to-coding-introduction-to-low-code-no-code)
 - [15+ Websites to Help You in Your Developer Journey](https://blog.flycode.com/15-websites-to-help-you-in-your-developer-journey)
 
 
-## Featured On [daily.dev](https://app.daily.dev/)🔥
+## Trending On [HackerNoon](https://hackernoon.com/)🔥
 
+- [Essential AI Tools for Developers in 2023: 20 Must-Try Solutions](https://hackernoon.com/essential-ai-tools-for-developers-in-2023-20-must-try-solutions)
+
+
+## Featured On [daily.dev](https://app.daily.dev/)🔥
 
 - [Some Useful GitHub Repositories To Enhance Your Web3 Skills](https://app.daily.dev/posts/4fHYq7oFR)
 - [GirlScript Summer of Code Learning And Experiences: From Contributor To Project Admin](https://app.daily.dev/posts/A3RoaiOp5)
@@ -23,6 +26,7 @@
  
 ## Featured On [DevDojo](https://devdojo.com/)🔥
 
+- [Top 20 Must Try AI Tools for Developers in 2023](https://devdojo.com/tutorial/top-20-must-try-ai-tools-for-developers-in-2023)
 - [Some Useful GitHub Repositories To Enhance Your Web3 Skills](https://devdojo.com/astrodevil/some-useful-github-repositories-to-enhance-your-web3-skills)
 - [Some Apps You Should Use As a Student Developer](https://devdojo.com/astrodevil/some-apps-you-should-use-as-a-student-developer)
 - [40+ No Code/Low Code Tools And Resources For Developers In 2022](https://devdojo.com/astrodevil/40-no-codelow-code-tools-and-resources-for-developers-in-2022)

@@ -123,6 +123,37 @@ You can also collab with me by filling details in this [form](https://tally.so/r
 
 <div class="profile-pics">
 <div class="profile-pic">
+    <a href="https://pieces.app/" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/102047422?s=200&v=4" alt="Pieces for Developers">
+    </a>
+  </div>
+  <div class="profile-pic">
+    <a href="https://durable.co/" target="_blank">
+      <img src="https://atai-main.b-cdn.net/tools/durable-ai-icon.png" alt="Durable">
+    </a>
+  </div>
+  <div class="profile-pic">
+    <a href="https://tldv.cello.so/AXf1WSXl27m" target="_blank">
+      <img src="https://d2psx7tq1h8q4e.cloudfront.net/media/20220413164924/cropped-Favicon-1-1.png" alt="tl;dv">
+    </a>
+  </div>
+  
+<div class="profile-pic">
+    <a href="https://jam.dev/" target="_blank">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA-2Qdt1tweQuZMxMyehHFxihP2CFJCg-CzA&usqp=CAU" alt="Jam.Dev">
+    </a>
+  </div>
+<div class="profile-pic">
+    <a href="https://www.decktopus.com/?via=mr" target="_blank">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHG1BpmdlAZgLVAOBPBcimtLHlZ6jSoqWxBA&usqp=CAU" alt="Decktopus AI">
+    </a>
+  </div>
+  <div class="profile-pic">
+    <a href="https://you.com" target="_blank">
+      <img src="https://downloadr2.apkmirror.com/wp-content/uploads/2023/07/41/64beb351c62d4_com.you.browser.png" alt="you.com">
+    </a>
+  </div>
+  <div class="profile-pic">
     <a href="https://www.dronahq.com/" target="_blank">
       <img src="https://yt3.googleusercontent.com/ytc/AGIKgqP7q3TjATZ3q360mZI9vs8qI6cAFQAx-vDpRlRm=s900-c-k-c0x00ffffff-no-rj" alt="DronaHQ">
     </a>
@@ -143,15 +174,16 @@ You can also collab with me by filling details in this [form](https://tally.so/r
 <style>
 .profile-pics {
   display: flex;
+  flex-wrap: wrap; /* Allow the profile pictures to wrap on multiple lines */
   justify-content: center;
   gap: 20px;
   /* Adjust the spacing between the circular images */
 }
 
 .profile-pic {
-  width: 120px;
+  width: 80px;
   /* Adjust the size of each circular image */
-  height: 120px;
+  height: 80px;
   border-radius: 50%;
   overflow: hidden;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
@@ -184,15 +216,10 @@ You can also collab with me by filling details in this [form](https://tally.so/r
 }
 
 @media (max-width: 768px) {
-  .profile-pics {
-    flex-wrap: wrap;
-    /* Allow the profile pictures to wrap on smaller screens */
-  }
-
   .profile-pic {
-    width: 80px;
+    width: 60px;
     /* Adjust the size of each circular image for smaller screens */
-    height: 80px;
+    height: 60px;
   }
 }
 </style>
