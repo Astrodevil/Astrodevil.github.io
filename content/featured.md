@@ -4,6 +4,7 @@
 
 ## Collabs & Sponsored Posts🤝🏼
 
+- [Conversational AI vs Generative AI: Benefits for Developers](https://code.pieces.app/blog/conversational-ai-vs-generative-ai-benefits)
 - [Mastering the Code: Essential Tips for Software Engineering Students](https://code.pieces.app/blog/tips-for-software-engineering-students)
 - [How Developers, CTOs, and Product Managers Are Building Internal Operational Apps in 2023](https://blog.devgenius.io/how-developers-ctos-and-product-managers-are-building-internal-operational-apps-in-2023-c2ce9c60a126)
 - [DevBytes App: News Shorts App for Developers](https://blog.mranand.com/devbytes-app-news-shorts-app-for-developers)
