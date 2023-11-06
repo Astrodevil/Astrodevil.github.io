@@ -230,3 +230,5 @@ You can also collab with me by filling details in this [form](https://tally.so/r
 
 How was the collab experience? Send me your thoughts that I can share on my website [here](https://shoutout.io/submit/mranand/).
 
+<div class="shoutout-embed" data-widgetTitle="Blog" data-widgetId="d2b6feee-54c8-49f7-a958-dfda2762e328"></div>
+<script class="shoutout-script" src="https://shoutout.io/static/website/js/embed.js" defer></script>
