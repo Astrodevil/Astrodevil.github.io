@@ -49,32 +49,32 @@ weight = 20
 identifier = "featured"
 name = "Featured"
 url = "/featured/"
-weight = 40
+weight = 30
 
 [[menu.main]]
 identifier = "gallery"
 name = "Gallery"
 url = "/gallery/"
-weight = 50
+weight = 40
 
 [[menu.main]]
-identifier = "e-book"
-name = "Video/E-Book"
-url = "/videos/"
-weight = 60
+identifier = "store"
+name = "Store"
+url = "https://store.mranand.com/"
+weight = 50
 
 [[menu.main]]
 identifier = "projects"
 name = "Projects"
 url = "/projects/"
-weight = 70
+weight = 60
 
 
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 90
+weight = 70
 
 
 
