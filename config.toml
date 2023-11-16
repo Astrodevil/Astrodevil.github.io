@@ -99,7 +99,7 @@ imageHeight = 120
   url = "https://zerooctave.substack.com/"
 [[params.profileMode.buttons]]
   name = "Collab"
-  url = "https://www.passionfroot.me/mranand"
+  url = "https://passionfroot.me/mranand"
 
 
 [params.HugoShortcodes.Gumroad]
