@@ -10,15 +10,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
 description: "Dev Retro 2022"
 
 # canonicalURL: "https://blog.mranand.com/astrodevils-2022-wrapped-dev-retro-2022"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

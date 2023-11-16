@@ -10,17 +10,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
-description: "With GitHub Actions, you can automate, customize, and execute your software development workflows right in your repository. You may find, create, and distribute actions for any job you want to do, including CI/CD, and combine actions in a fully customized workflow.
-
-In this Article, I am going to discuss Some Cool GitHub Actions You Won't Believe Exists."
+description: "With GitHub Actions, you can automate, customize, and execute your software development workflows right in your repository. You may find, create, and distribute actions for any job you want to do, including CI/CD, and combine actions in a fully customized workflow. In this Article, I am going to discuss Some Cool GitHub Actions You Won't Believe Exists."
 
 # canonicalURL: "https://astrodevil.hashnode.dev/some-cool-github-actions-you-wont-believe-exists"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowWordCount: true

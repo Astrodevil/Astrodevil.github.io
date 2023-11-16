@@ -11,15 +11,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
 description: "As a developer, let me break it down for you in casual language. Internal apps are like secret weapons for businesses. They're custom-made applications built specifically for internal use, helping teams work smarter and faster. These apps tackle everyday challenges like managing projects, tracking inventory, or streamlining processes. They're like your personal sidekick, making your work life easier and more efficient."
 
 canonicalURL: "https://astrodevil.medium.com/how-developers-ctos-and-product-managers-are-building-internal-operational-apps-in-2023-c2ce9c60a126"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowWordCount: true

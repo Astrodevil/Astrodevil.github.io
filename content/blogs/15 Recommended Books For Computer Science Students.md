@@ -11,15 +11,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
 description: "We are in the modern world where the digitization of education is already going on. Now lots of blogs, articles are there on the internet to learn from. But Book has its own value, the author puts his all knowledge experience and time to write one whole book. The knowledge and details you get from a book are very precious."
 
 # canonicalURL: "https://astrodevil.hashnode.dev/15-recommended-books-for-computer-science-students"
-disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
+disableHLJS: false # to enable highlightjs
 hideSummary: false
 searchHidden: false
 ShowWordCount: true

@@ -11,17 +11,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
-description: "There are so many websites to make the work of developers easier. Everyone doesn't know all. In this article, we will see 25 Must-Visit Killer Websites For Developers.
-
-90% of developers don’t know about these websites"
+description: "There are so many websites to make the work of developers easier. Everyone doesn't know all. In this article, we will see 25 Must-Visit Killer Websites For Developers. 90% of developers don’t know about these websites"
 
 # canonicalURL: "https://astrodevil.hashnode.dev/25-must-visit-killer-websites-for-developers"
-disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
+disableHLJS: false # to enable highlightjs
 hideSummary: false
 searchHidden: false
 ShowWordCount: true

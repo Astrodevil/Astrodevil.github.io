@@ -10,15 +10,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
 description: "GitHub Repositories you can contribute to and enhance your practical knowledge of web3 technologies."
 
 # canonicalURL: "https://astrodevil.hashnode.dev/some-useful-github-repositories-to-enhance-your-web3-skills"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

@@ -10,17 +10,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
-description: "Do you want to start your open source journey? Don't know where to start? Difficulty in finding suitable projects according to your tech stack? Then this article is for you. In this article, I am going to discuss a resource gallery that I curated to help beginners get into the open-source world. 
-
-Tutorials, Docs, Projects, and Communities to Get You Started."
+description: "Do you want to start your open source journey? Don't know where to start? Difficulty in finding suitable projects according to your tech stack? Then this article is for you. In this article, I am going to discuss a resource gallery that I curated to help beginners get into the open-source world. Tutorials, Docs, Projects, and Communities to Get You Started."
 
 # canonicalURL: "https://astrodevil.hashnode.dev/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

@@ -10,15 +10,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
 description: "Having useful apps in phones is very important now-a-days. And as a student you must use apps useful for you."
 
 # canonicalURL: "https://astrodevil.hashnode.dev/some-apps-for-student-developer"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

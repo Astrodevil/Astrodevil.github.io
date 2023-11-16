@@ -10,15 +10,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
 description: "Blog website using a static site generator Hugo and deploying it to Netlify"
 
 # canonicalURL: "https://astrodevil.hashnode.dev/creating-personal-blog-with-hugo-and-netlify"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

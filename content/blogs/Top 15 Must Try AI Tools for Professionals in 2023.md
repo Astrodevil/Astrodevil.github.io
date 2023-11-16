@@ -11,15 +11,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
 description: "In this article, we'll see a few AI-powered tools that are set to revolutionize development and make the lives of professionals easy in 2023. We'll talk about the top 15 AI and low-code tools designed to empower professionals. AI tools are so much more powerful now that they enable them to create impactful products, manage teams and run their own startups. Discover the cutting-edge capabilities of these AI tools and how they can significantly enhance efficiency and innovation in the development process."
 
 # canonicalURL: ""
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowWordCount: true

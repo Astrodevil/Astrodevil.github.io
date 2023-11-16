@@ -11,15 +11,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
 description: "Day 3 of #100DaysOfCode"
 
 # canonicalURL: "https://blog.mranand.com/javascript-fundamentals-parameters-arguments-and-operators"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowWordCount: true

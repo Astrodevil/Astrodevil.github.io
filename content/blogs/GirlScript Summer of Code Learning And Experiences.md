@@ -10,17 +10,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
-description: "GSSoC stands for GirlScript Summer of Code. It is a three-month-long Open-Source Program conducted by the GirlScript Foundation for beginners. This year I am selected as project admin for the program. (GSSOC'22)
-
-In this article, I am going to share my experiences from being a contributor in an open-source program to the project admin & mentor of one. "
+description: "GSSoC stands for GirlScript Summer of Code. It is a three-month-long Open-Source Program conducted by the GirlScript Foundation for beginners. This year I am selected as project admin for the program. (GSSOC'22) In this article, I am going to share my experiences from being a contributor in an open-source program to the project admin & mentor of one. "
 
 # canonicalURL: "https://zerooctave.hashnode.dev/girlscript-summer-of-code-learning-and-experiences-from-contributor-to-project-admin"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

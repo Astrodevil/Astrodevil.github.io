@@ -11,15 +11,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
 description: "Embarking on an extraordinary journey at DevRel University has given me profound knowledge and invaluable insights. Guided by industry experts, each session has illuminated the world of Developer Relations (DevRel). In this blog, I'll share the transformative learnings from each session, capturing the essence of my DevRel University experience."
 
 # canonicalURL: ""
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowWordCount: true

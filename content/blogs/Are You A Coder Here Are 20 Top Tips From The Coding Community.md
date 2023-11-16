@@ -10,17 +10,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
-description: "Learning to code is an amazing thing. How you can code something interesting and then view its fascinating outcomes. But Doing it in the right way is also very important. While scrolling YouTube I found a video where some developers and community leaders were sharing their tips about programming.
-
-In this Article, I am going to share 20 Top Tips From The Coding Community "
+description: "Learning to code is an amazing thing. How you can code something interesting and then view its fascinating outcomes. But Doing it in the right way is also very important. While scrolling YouTube I found a video where some developers and community leaders were sharing their tips about programming. In this Article, I am going to share 20 Top Tips From The Coding Community "
 
 # canonicalURL: "https://astrodevil.hashnode.dev/are-you-a-coder-here-are-20-top-tips-from-the-coding-community"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

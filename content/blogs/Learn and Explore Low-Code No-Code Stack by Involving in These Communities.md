@@ -11,15 +11,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
 description: "No-Code /Low-Code is a new trend in tech and you can master this new tech by involving in communities."
 
 # canonicalURL: "https://astrodevil.hashnode.dev/learn-and-explore-low-code-no-code-stack-by-involving-in-these-communities"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

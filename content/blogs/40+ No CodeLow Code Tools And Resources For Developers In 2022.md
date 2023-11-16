@@ -11,17 +11,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
-description: "There are so many no-code tools to make the work of developers easier. Anyone can build some useful products, startups without writing even a single line of code. In this article, we will see 40+ No Code/Low Code Tools And Resources For Developers that is going to help you In 2022.
-
-90% of developers don’t know about these resources."
+description: "There are so many no-code tools to make the work of developers easier. Anyone can build some useful products, startups without writing even a single line of code. In this article, we will see 40+ No Code/Low Code Tools And Resources For Developers that is going to help you In 2022. 90% of developers don’t know about these resources."
 
 # canonicalURL: "https://astrodevil.hashnode.dev/40-no-codelow-code-tools-and-resources-for-developers-in-2022"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowWordCount: true

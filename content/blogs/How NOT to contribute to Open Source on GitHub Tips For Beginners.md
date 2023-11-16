@@ -10,17 +10,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
-description: "While maintaining some projects on GitHub during Hacktoberfest 2021, I came across many new open source contributors. They are just starting their open-source journey and making mistakes. In the beginning, making mistakes is not a bad thing. But, correctly contributing to open-source projects is also very important.
-
-In this article, I am going to discuss some tips on - How Not to contribute to Open-Source on GitHub."
+description: "While maintaining some projects on GitHub during Hacktoberfest 2021, I came across many new open source contributors. They are just starting their open-source journey and making mistakes. In the beginning, making mistakes is not a bad thing. But, correctly contributing to open-source projects is also very important. In this article, I am going to discuss some tips on - How Not to contribute to Open-Source on GitHub."
 
 # canonicalURL: "https://astrodevil.hashnode.dev/how-not-to-contribute-to-open-source-on-github-tips-for-beginners"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

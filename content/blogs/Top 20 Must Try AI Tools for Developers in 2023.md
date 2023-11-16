@@ -11,15 +11,13 @@ author: "Mr. Ånand"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: false
 hidemeta: false
 comments: true
 description: "In this article, We'll talk about the top 20 AI and low-code tools designed to empower developers. AI tools are so much more powerful now that it enables them to create impactful products, manage teams and run their own startups. Discover the cutting-edge capabilities of these AI tools and how they can significantly enhance efficiency and innovation in the development process."
 
 # canonicalURL: ""
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to enable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowWordCount: true
