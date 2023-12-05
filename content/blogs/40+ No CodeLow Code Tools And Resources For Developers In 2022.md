@@ -1,5 +1,5 @@
 ---
-title: "40+ No Code/Low Code Tools And Resources For Developers In 2022"
+title: "40+ No Code/Low Code Tools And Resources For Developers In 2024"
 date: 2022-01-01T17:40:05+05:30
 draft: false
 
