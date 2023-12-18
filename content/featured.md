@@ -4,6 +4,7 @@
 
 ## Collabs & Sponsored Posts🤝🏼
 
+- [Productionizing Jupyter Notebooks with Versatile Data Kit (VDK)](https://medium.com/versatile-data-kit/productionizing-jupyter-notebooks-with-versatile-data-kit-vdk-ec5824d31b77)
 - [How to Contribute to Open Source: The Ultimate Guide to Collaborative Software Development](https://code.pieces.app/blog/how-to-contribute-to-open-source-the-ultimate-guide)
 - [Conversational AI vs Generative AI: Benefits for Developers](https://code.pieces.app/blog/conversational-ai-vs-generative-ai-benefits)
 - [Mastering the Code: Essential Tips for Software Engineering Students](https://code.pieces.app/blog/tips-for-software-engineering-students)
@@ -15,6 +16,7 @@
 
 ## Trending On [HackerNoon](https://hackernoon.com/)🔥
 
+- [How to Use Versatile Data Kit to Turn Your Jupyter Notebooks Into Scalable & Reliable Data Pipelines](https://hackernoon.com/how-to-use-versatile-data-kit-to-turn-your-jupyter-notebooks-into-scalable-and-reliable-data-pipelines)
 - [Essential AI Tools for Developers in 2023: 20 Must-Try Solutions](https://hackernoon.com/essential-ai-tools-for-developers-in-2023-20-must-try-solutions)
 
 
