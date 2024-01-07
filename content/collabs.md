@@ -22,6 +22,11 @@ This time I decided to do a promotional article for Indie Hackers who are buildi
 
 Example article format - https://mranand.com/blogs/top-15-must-try-ai-tools-for-professionals-in-2023/
 
+### What I Need from You?
+- If you're offering any holiday discounts or pre-launch invites and you want to include it in my article, send it to me.
+- I am publishing this blog around 23 end or 24 start, so any kind of update you want to put out for future users, share it to me.
+- Any other things you want me to include, share it with me.
+
 
 ### Deliverables!
 You can check platform links for the latest blog done in collaboration with you.
