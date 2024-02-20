@@ -2,7 +2,7 @@
 [![Shop from my gumroad store](https://img.shields.io/badge/Shop%20from-my%20Gumroad%20Store-blue)](https://astrodevil.gumroad.com/)
 
 
-## Collabs & Sponsored Posts🤝🏼
+## Collabs Posts🤝🏼
 
 - [Top 15 No Code SaaS Tools to Help Developers](https://code.pieces.app/blog/top-15-no-code-saas-tools-to-help-developers)
 - [Secure Customer Privacy with Differential Privacy and Versatile Data Kit (VDK)](https://medium.com/versatile-data-kit/secure-customer-privacy-with-differential-privacy-and-versatile-data-kit-vdk-b08bee5d54bd)
