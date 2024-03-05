@@ -41,7 +41,7 @@ In a time when technology is advancing at an exponential rate, the entrepreneuri
 
 In this article, we will explore **15 Must-Visit Killer Websites For Minimalist Entrepreneurs**.
 
-## 1\. [Mixo](https://www.mixo.io/)
+## 1\. [Mixo](https://dub.sh/JJDMZ8u)
 
 [![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709131544782/659c790c-b0a5-4930-9d90-862e519be99f.png)](https://www.mixo.io/)
 
