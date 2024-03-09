@@ -3,12 +3,12 @@ title: "Collab with Ånand🫱🏼‍🫲🏼"
 layout: "single"
 description: "This page shows the deliverables related to the collab done recently or ongoing."
 showReadingTime: false
-modified: 2023-12-27
+modified: 2024-03-04
 ---
 
 ### Who am I?
 
->💡 I am a computer science student from India, currently looking for freelance technical writing and remote internships in software development industry or DevRel specific roles.
+>💡 I am a computer science student from India, currently open for freelance technical writing and remote internships in software development industry or DevRel specific roles. (Currently working as Developer Advocate)
 
 >💡 You can also connect with me on [Twitter](https://mobile.twitter.com/astrodevil_), [Instagram](https://www.instagram.com/codes.astro/) and through my [LinkedIn](https://www.linkedin.com/in/amitesh1208/).
 
@@ -18,14 +18,7 @@ modified: 2023-12-27
 ### My Offer!
 I have been writing promotional articles time to time for multiple SaaS and other platforms and it helped them to gain attention from more users, I distribute my articles across platforms and delivered few trending ones. You can check my best ones [here](https://mranand.com/featured/). 
 
-This time I decided to do a promotional article for Indie Hackers who are building cool stuffs in public. I do charge for the tools to feature in by article list. But as you are building cool stuffs and no big pay check coming your way initially, `I will feature your SaaS in free with giving top 3-5 slots to few Indie hackers that are willing to pay`, I hope you understand this.
-
 Example article format - https://mranand.com/blogs/top-15-must-try-ai-tools-for-professionals-in-2023/
-
-### What I Need from You?
-- If you're offering any holiday discounts or pre-launch invites and you want to include it in my article, send it to me.
-- I am publishing this blog around 23 end or 24 start, so any kind of update you want to put out for future users, share it to me.
-- Any other things you want me to include, share it with me.
 
 
 ### Deliverables!
@@ -47,7 +40,7 @@ You can check platform links for the latest blog done in collaboration with you.
 
 **✨[Devdojo](https://devdojo.com/astrodevil/)**
 
-✨~~Hackernoon~~ (Takes up to 72hrs for manual review)
+✨~~Hackernoon~~ (Takes up to 72hrs for manual review technical articles only)
 
 Just check the article and do let me know if anything needs to be changed, using the existing communication channel. 
 
