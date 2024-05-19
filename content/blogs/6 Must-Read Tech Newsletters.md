@@ -65,7 +65,7 @@ If you want to simplify your tech updates and stay ahead, we've got you covered.
 
 **Content:** The Rundown AI newsletter is a popular daily email that provides concise updates on the latest developments in artificial intelligence. Curated by AI enthusiasts Rowan Cheung, it offers a brief, 5-minute read that highlights key stories and insights from the AI world. The newsletter covers a range of topics, including computer vision, natural language processing, and robotics, offering both news summaries and practical applications of AI tools and technologies. Apart from just newsletter it has dedicated AI job boards and AI tools page too.
 
-## 3\. [Byte Byte Go](https://blog.bytebytego.com/)
+## 3\. [ByteByteGo](https://blog.bytebytego.com/)
 
 [![](https://cdn.hashnode.com/res/hashnode/image/upload/v1716026837237/27f1d140-1f84-409e-8739-94d9ad4f8b24.png)](https://blog.bytebytego.com/)
 
