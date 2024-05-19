@@ -1,9 +1,10 @@
-[![Hire me for technical writing](https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red)](/services/)
+[![Hire me for technical writing](https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red)](https://www.passionfroot.me/mranand)
 [![Shop from my gumroad store](https://img.shields.io/badge/Shop%20from-my%20Gumroad%20Store-blue)](https://astrodevil.gumroad.com/)
 
 
 ## Collabs Posts🤝🏼
 
+- [Introduction to AI Prompt Engineering](https://code.pieces.app/blog/introduction-to-ai-prompt-engineering)
 - [Top 15 No Code SaaS Tools to Help Developers](https://code.pieces.app/blog/top-15-no-code-saas-tools-to-help-developers)
 - [Secure Customer Privacy with Differential Privacy and Versatile Data Kit (VDK)](https://medium.com/versatile-data-kit/secure-customer-privacy-with-differential-privacy-and-versatile-data-kit-vdk-b08bee5d54bd)
 - [Productionizing Jupyter Notebooks with Versatile Data Kit (VDK)](https://medium.com/versatile-data-kit/productionizing-jupyter-notebooks-with-versatile-data-kit-vdk-ec5824d31b77)

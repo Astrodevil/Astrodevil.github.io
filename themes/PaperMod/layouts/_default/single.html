@@ -21,7 +21,8 @@
     </div>
     {{- end }}
   </header>
-  {{- $isHidden := .Params.cover.hidden | default .Site.Params.cover.hiddenInSingle | default .Site.Params.cover.hidden }}
+  {{- $isHidden := .Params.cover.hidden | default .Site.Params.cover.hiddenInSingle | default .Site.Params.cover.hidden
+  }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
   {{- if (.Param "ShowToc") }}
   {{- partial "toc.html" . }}
@@ -35,7 +36,7 @@
     {{- else }}{{ .Content }}{{ end }}
   </div>
   {{- end }}
-{{ partial "series.html" . }}
+  {{ partial "series.html" . }}
 
   <footer class="post-footer">
     {{- if .Params.tags }}
@@ -48,20 +49,28 @@
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}
-    <iframe src="https://embeds.beehiiv.com/2793cd0c-01aa-42be-8bab-69734099dd88" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
-    
+    <iframe src="https://embeds.beehiiv.com/2793cd0c-01aa-42be-8bab-69734099dd88" data-test-id="beehiiv-embed"
+      width="100%" height="320" frameborder="0" scrolling="no"
+      style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
     {{- if (and .Site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
     {{- partial "share_icons.html" . -}}
     {{- end }}
 
-  {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
-  
-  <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://bento.me/" data-iframely-url="//iframely.net/36TtqoJ?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script>
+    {{- if (.Param "comments") }}
+    {{- partial "comments.html" . }}
+
+    <div class="iframely-embed">
+      <div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://bento.me/"
+          data-iframely-url="//iframely.net/36TtqoJ?card=small"></a></div>
+    </div>
+    <script async src="//iframely.net/embed.js"></script>
 
   </footer>
 
   {{- end }}
 </article>
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5qtownc1jy9&amp;m=7&amp;c=00fff6&amp;cr1=ff0000&amp;f=calibri&amp;l=33" async="async"></script>
+<script type="text/javascript"
+  src="//rf.revolvermaps.com/0/0/8.js?i=5qtownc1jy9&amp;m=7&amp;c=00fff6&amp;cr1=ff0000&amp;f=calibri&amp;l=33"
+  async="async"></script>
 {{- end }}{{/* end main */}}

@@ -1,4 +1,4 @@
-[![Hire me for technical writing](https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red)](https://mr-nand.daftpage.com/)
+[![Hire me for technical writing](https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red)](https://www.passionfroot.me/mranand)
 [![Shop from my gumroad store](https://img.shields.io/badge/Shop%20from-my%20Gumroad%20Store-blue)](https://astrodevil.gumroad.com/)
 
 ## [Developer Tech🔮](https://www.amazon.in/shop/astro/list/3FM5KPV7Y33SP)

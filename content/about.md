@@ -27,6 +27,6 @@ Timeline of achievements.
 
 <!-- {{< tweet user="SanDiegoZoo" id="1453110110599868418" >}} -->
 
-[![Hire me for technical writing](https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red)](https://mr-nand.daftpage.com/)
+[![Hire me for technical writing](https://img.shields.io/badge/Hire%20me-for%20Technical%20Writing-red)](https://www.passionfroot.me/mranand)
 
 *****
