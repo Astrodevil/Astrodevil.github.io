@@ -125,6 +125,6 @@ Investing in personal branding can significantly enhance your career prospects a
 
 ## Conclusion
 
-Reviewing over 150 technical writers has been an enlightening experience, revealing key areas for improvement and growth. Whether you're a casual writer or a dedicated technical writer, focusing on ownership, consistency, personal profiles, and branding can elevate your work and enhance your career. By addressing these common pitfalls, you can develop the skills and reputation needed to succeed in the competitive field of technical writing.
+Reviewing over 150 technical writers has been an enlightening experience, revealing key areas for improvement and growth. Whether you're a casual writer or a dedicated technical writer, focusing on ownership, consistency, personal profiles, and branding can improve your work and enhance your career. By addressing these common mistakes, you can develop the skills and reputation needed to succeed in the competitive field of technical writing.
 
 {{< bmc-button slug="Astrodevil">}}
