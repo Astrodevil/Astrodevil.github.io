@@ -1,5 +1,5 @@
 ---
-title: "I Have Reviewed 150+ Technical Writers - Here’s What I Found!🚀🔥"
+title: "I Have Reviewed 150+ Technical Writers - Here’s What I Found!🔥"
 date: 2024-06-02T08:25:05+05:30
 draft: false
 
