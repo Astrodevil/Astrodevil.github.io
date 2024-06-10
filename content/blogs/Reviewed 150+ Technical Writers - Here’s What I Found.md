@@ -115,16 +115,31 @@ Investing in personal branding can significantly enhance your career prospects a
 
 **Keep this in mind:**
 
-- `💡When applying for technical writing jobs, share a single link that includes all your live blog posts and articles. This makes it easier for employers to review your work.`
+{{< callout type="info" >}}
+When applying for technical writing jobs, share a single link that includes all your live blog posts and articles. This makes it easier for employers to review your work.
+{{< /callout >}}
 
-- `💡Technical writers with personal blogs tend to attract more opportunities organically.`
+{{< callout type="warning" >}}
+Always share portfolios/profiles with live links to your blogs instead of PDF or GitHub files for better credibility.
+{{< /callout >}}
 
-- `💡Always share portfolios/profiles with live links to your blogs instead of PDF or GitHub files for better credibility.`
+{{< callout type="error" >}}
+Avoid spamming DMs or links when seeking writing opportunities. Instead, create a good profile on one social media platform that aligns with your blogging profile.
+{{< /callout >}}
 
-- `💡Avoid spamming DMs or links when seeking writing opportunities. Instead, create a good profile on one social media platform that aligns with your blogging profile.`
+{{< callout  >}}
+Technical writers with personal blogs tend to attract more opportunities organically.
+{{< /callout >}}
+
 
 ## Conclusion
 
 Reviewing over 150 technical writers has been an enlightening experience, revealing key areas for improvement and growth. Whether you're a casual writer or a dedicated technical writer, focusing on ownership, consistency, personal profiles, and branding can elevate your work and enhance your career. By addressing these common pitfalls, you can develop the skills and reputation needed to succeed in the competitive field of technical writing.
 
 {{< bmc-button slug="Astrodevil">}}
+
+
+
+
+
+

@@ -77,20 +77,374 @@
 <p><strong>for eg; to see how branding helps, search &ldquo;Astrodevil&rdquo; on Google and let me know in the comments what you found.😅</strong></p>
 </blockquote>
 <p><strong>Keep this in mind:</strong></p>
-<ul>
-<li>
-<p><code>💡When applying for technical writing jobs, share a single link that includes all your live blog posts and articles. This makes it easier for employers to review your work.</code></p>
-</li>
-<li>
-<p><code>💡Technical writers with personal blogs tend to attract more opportunities organically.</code></p>
-</li>
-<li>
-<p><code>💡Always share portfolios/profiles with live links to your blogs instead of PDF or GitHub files for better credibility.</code></p>
-</li>
-<li>
-<p><code>💡Avoid spamming DMs or links when seeking writing opportunities. Instead, create a good profile on one social media platform that aligns with your blogging profile.</code></p>
-</li>
-</ul>
+<style>
+  .callout {
+    position: relative;
+    margin: 1rem 0;
+    display: flex;
+    border-radius: 0.375rem;
+    border: 1px solid #C05621;  
+    background-color: #FFFAF0;  
+    padding: 0.75rem;
+    color: #7B341E;  
+  }
+  .dark .callout {
+    border-color: rgba(255, 152, 96, 0.2);  
+    background-color: rgba(255, 152, 96, 0.2);  
+    color: rgba(255, 152, 96, 1);  
+  }
+  .emoji {
+    padding-right: 0.75rem;
+    font-size: 1.25rem;
+  }
+  .callout-info {
+    border-color: #2C5282;  
+    background-color: #EBF8FF;  
+    color: #2A4365;  
+  }
+  .dark .callout-info {
+    border-color: rgba(66, 153, 225, 0.2);  
+    background-color: rgba(66, 153, 225, 0.2);  
+    color: rgba(66, 153, 225, 1);  
+  }
+  .callout-warning {
+    border-color: #B7791F;  
+    background-color: #FEFCBF;  
+    color: #975A16;  
+  }
+  .dark .callout-warning {
+    border-color: rgba(236, 201, 75, 0.2);  
+    background-color: rgba(236, 201, 75, 0.2);  
+    color: rgba(236, 201, 75, 1);  
+  }
+  .callout-error {
+    border-color: #C53030;  
+    background-color: #FFF5F5;  
+    color: #742A2A;  
+  }
+  .dark .callout-error {
+    border-color: rgba(245, 101, 101, 0.2);  
+    background-color: rgba(245, 101, 101, 0.2);  
+    color: rgba(245, 101, 101, 1);  
+  }
+  </style>
+  
+  <div class="not-prose callout" data-type="info">
+    <span class="emoji pointer-events-none select-none">💡</span>
+    
+When applying for technical writing jobs, share a single link that includes all your live blog posts and articles. This makes it easier for employers to review your work.
+
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const callouts = document.querySelectorAll('.callout');
+
+  callouts.forEach(function(callout) {
+    const emoji = callout.querySelector('.emoji');
+    const type = callout.getAttribute('data-type');
+
+    switch(type) {
+      case "info":
+        callout.classList.remove('callout-default', 'callout-warning', 'callout-error');
+        callout.classList.add('callout-info');
+        emoji.textContent = "ℹ️";
+        break;
+      case "warning":
+        callout.classList.remove('callout-default', 'callout-info', 'callout-error');
+        callout.classList.add('callout-warning');
+        emoji.textContent = "⚠️";
+        break;
+      case "error":
+        callout.classList.remove('callout-default', 'callout-info', 'callout-warning');
+        callout.classList.add('callout-error');
+        emoji.textContent = "🚨";
+        break;
+      default:
+        callout.classList.add('callout-default');
+        emoji.textContent = "💡";
+        break;
+    }
+  });
+});
+</script>
+
+<style>
+  .callout {
+    position: relative;
+    margin: 1rem 0;
+    display: flex;
+    border-radius: 0.375rem;
+    border: 1px solid #C05621;  
+    background-color: #FFFAF0;  
+    padding: 0.75rem;
+    color: #7B341E;  
+  }
+  .dark .callout {
+    border-color: rgba(255, 152, 96, 0.2);  
+    background-color: rgba(255, 152, 96, 0.2);  
+    color: rgba(255, 152, 96, 1);  
+  }
+  .emoji {
+    padding-right: 0.75rem;
+    font-size: 1.25rem;
+  }
+  .callout-info {
+    border-color: #2C5282;  
+    background-color: #EBF8FF;  
+    color: #2A4365;  
+  }
+  .dark .callout-info {
+    border-color: rgba(66, 153, 225, 0.2);  
+    background-color: rgba(66, 153, 225, 0.2);  
+    color: rgba(66, 153, 225, 1);  
+  }
+  .callout-warning {
+    border-color: #B7791F;  
+    background-color: #FEFCBF;  
+    color: #975A16;  
+  }
+  .dark .callout-warning {
+    border-color: rgba(236, 201, 75, 0.2);  
+    background-color: rgba(236, 201, 75, 0.2);  
+    color: rgba(236, 201, 75, 1);  
+  }
+  .callout-error {
+    border-color: #C53030;  
+    background-color: #FFF5F5;  
+    color: #742A2A;  
+  }
+  .dark .callout-error {
+    border-color: rgba(245, 101, 101, 0.2);  
+    background-color: rgba(245, 101, 101, 0.2);  
+    color: rgba(245, 101, 101, 1);  
+  }
+  </style>
+  
+  <div class="not-prose callout" data-type="warning">
+    <span class="emoji pointer-events-none select-none">💡</span>
+    
+Always share portfolios/profiles with live links to your blogs instead of PDF or GitHub files for better credibility.
+
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const callouts = document.querySelectorAll('.callout');
+
+  callouts.forEach(function(callout) {
+    const emoji = callout.querySelector('.emoji');
+    const type = callout.getAttribute('data-type');
+
+    switch(type) {
+      case "info":
+        callout.classList.remove('callout-default', 'callout-warning', 'callout-error');
+        callout.classList.add('callout-info');
+        emoji.textContent = "ℹ️";
+        break;
+      case "warning":
+        callout.classList.remove('callout-default', 'callout-info', 'callout-error');
+        callout.classList.add('callout-warning');
+        emoji.textContent = "⚠️";
+        break;
+      case "error":
+        callout.classList.remove('callout-default', 'callout-info', 'callout-warning');
+        callout.classList.add('callout-error');
+        emoji.textContent = "🚨";
+        break;
+      default:
+        callout.classList.add('callout-default');
+        emoji.textContent = "💡";
+        break;
+    }
+  });
+});
+</script>
+
+<style>
+  .callout {
+    position: relative;
+    margin: 1rem 0;
+    display: flex;
+    border-radius: 0.375rem;
+    border: 1px solid #C05621;  
+    background-color: #FFFAF0;  
+    padding: 0.75rem;
+    color: #7B341E;  
+  }
+  .dark .callout {
+    border-color: rgba(255, 152, 96, 0.2);  
+    background-color: rgba(255, 152, 96, 0.2);  
+    color: rgba(255, 152, 96, 1);  
+  }
+  .emoji {
+    padding-right: 0.75rem;
+    font-size: 1.25rem;
+  }
+  .callout-info {
+    border-color: #2C5282;  
+    background-color: #EBF8FF;  
+    color: #2A4365;  
+  }
+  .dark .callout-info {
+    border-color: rgba(66, 153, 225, 0.2);  
+    background-color: rgba(66, 153, 225, 0.2);  
+    color: rgba(66, 153, 225, 1);  
+  }
+  .callout-warning {
+    border-color: #B7791F;  
+    background-color: #FEFCBF;  
+    color: #975A16;  
+  }
+  .dark .callout-warning {
+    border-color: rgba(236, 201, 75, 0.2);  
+    background-color: rgba(236, 201, 75, 0.2);  
+    color: rgba(236, 201, 75, 1);  
+  }
+  .callout-error {
+    border-color: #C53030;  
+    background-color: #FFF5F5;  
+    color: #742A2A;  
+  }
+  .dark .callout-error {
+    border-color: rgba(245, 101, 101, 0.2);  
+    background-color: rgba(245, 101, 101, 0.2);  
+    color: rgba(245, 101, 101, 1);  
+  }
+  </style>
+  
+  <div class="not-prose callout" data-type="error">
+    <span class="emoji pointer-events-none select-none">💡</span>
+    
+Avoid spamming DMs or links when seeking writing opportunities. Instead, create a good profile on one social media platform that aligns with your blogging profile.
+
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const callouts = document.querySelectorAll('.callout');
+
+  callouts.forEach(function(callout) {
+    const emoji = callout.querySelector('.emoji');
+    const type = callout.getAttribute('data-type');
+
+    switch(type) {
+      case "info":
+        callout.classList.remove('callout-default', 'callout-warning', 'callout-error');
+        callout.classList.add('callout-info');
+        emoji.textContent = "ℹ️";
+        break;
+      case "warning":
+        callout.classList.remove('callout-default', 'callout-info', 'callout-error');
+        callout.classList.add('callout-warning');
+        emoji.textContent = "⚠️";
+        break;
+      case "error":
+        callout.classList.remove('callout-default', 'callout-info', 'callout-warning');
+        callout.classList.add('callout-error');
+        emoji.textContent = "🚨";
+        break;
+      default:
+        callout.classList.add('callout-default');
+        emoji.textContent = "💡";
+        break;
+    }
+  });
+});
+</script>
+
+<style>
+  .callout {
+    position: relative;
+    margin: 1rem 0;
+    display: flex;
+    border-radius: 0.375rem;
+    border: 1px solid #C05621;  
+    background-color: #FFFAF0;  
+    padding: 0.75rem;
+    color: #7B341E;  
+  }
+  .dark .callout {
+    border-color: rgba(255, 152, 96, 0.2);  
+    background-color: rgba(255, 152, 96, 0.2);  
+    color: rgba(255, 152, 96, 1);  
+  }
+  .emoji {
+    padding-right: 0.75rem;
+    font-size: 1.25rem;
+  }
+  .callout-info {
+    border-color: #2C5282;  
+    background-color: #EBF8FF;  
+    color: #2A4365;  
+  }
+  .dark .callout-info {
+    border-color: rgba(66, 153, 225, 0.2);  
+    background-color: rgba(66, 153, 225, 0.2);  
+    color: rgba(66, 153, 225, 1);  
+  }
+  .callout-warning {
+    border-color: #B7791F;  
+    background-color: #FEFCBF;  
+    color: #975A16;  
+  }
+  .dark .callout-warning {
+    border-color: rgba(236, 201, 75, 0.2);  
+    background-color: rgba(236, 201, 75, 0.2);  
+    color: rgba(236, 201, 75, 1);  
+  }
+  .callout-error {
+    border-color: #C53030;  
+    background-color: #FFF5F5;  
+    color: #742A2A;  
+  }
+  .dark .callout-error {
+    border-color: rgba(245, 101, 101, 0.2);  
+    background-color: rgba(245, 101, 101, 0.2);  
+    color: rgba(245, 101, 101, 1);  
+  }
+  </style>
+  
+  <div class="not-prose callout" data-type="default">
+    <span class="emoji pointer-events-none select-none">💡</span>
+    
+Technical writers with personal blogs tend to attract more opportunities organically.
+
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const callouts = document.querySelectorAll('.callout');
+
+  callouts.forEach(function(callout) {
+    const emoji = callout.querySelector('.emoji');
+    const type = callout.getAttribute('data-type');
+
+    switch(type) {
+      case "info":
+        callout.classList.remove('callout-default', 'callout-warning', 'callout-error');
+        callout.classList.add('callout-info');
+        emoji.textContent = "ℹ️";
+        break;
+      case "warning":
+        callout.classList.remove('callout-default', 'callout-info', 'callout-error');
+        callout.classList.add('callout-warning');
+        emoji.textContent = "⚠️";
+        break;
+      case "error":
+        callout.classList.remove('callout-default', 'callout-info', 'callout-warning');
+        callout.classList.add('callout-error');
+        emoji.textContent = "🚨";
+        break;
+      default:
+        callout.classList.add('callout-default');
+        emoji.textContent = "💡";
+        break;
+    }
+  });
+});
+</script>
+
 <h2 id="conclusion">Conclusion</h2>
 <p>Reviewing over 150 technical writers has been an enlightening experience, revealing key areas for improvement and growth. Whether you&rsquo;re a casual writer or a dedicated technical writer, focusing on ownership, consistency, personal profiles, and branding can elevate your work and enhance your career. By addressing these common pitfalls, you can develop the skills and reputation needed to succeed in the competitive field of technical writing.</p>
 
