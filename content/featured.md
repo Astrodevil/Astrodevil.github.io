@@ -1,5 +1,6 @@
 ## Collabs Posts🤝🏼
 
+- [A Beginner's Guide to Vector Embeddings](https://code.pieces.app/blog/a-beginners-guide-to-vector-embeddings)
 - [Introduction to AI Prompt Engineering](https://code.pieces.app/blog/introduction-to-ai-prompt-engineering)
 - [Top 15 No Code SaaS Tools to Help Developers](https://code.pieces.app/blog/top-15-no-code-saas-tools-to-help-developers)
 - [Secure Customer Privacy with Differential Privacy and Versatile Data Kit (VDK)](https://medium.com/versatile-data-kit/secure-customer-privacy-with-differential-privacy-and-versatile-data-kit-vdk-b08bee5d54bd)
