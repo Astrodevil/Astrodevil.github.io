@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>technicalwriting on Mr. Ånand</title><link>https://mranand.com/tags/technicalwriting/</link><description>Recent content in technicalwriting on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2024 08:25:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/technicalwriting/index.xml" rel="self" type="application/rss+xml"/><item><title>I Have Reviewed 150+ Technical Writers - Here’s What I Found!🚀🔥</title><link>https://mranand.com/blogs/reviewed-150+-technical-writers-heres-what-i-found/</link><pubDate>Sun, 02 Jun 2024 08:25:05 +0530</pubDate><guid>https://mranand.com/blogs/reviewed-150+-technical-writers-heres-what-i-found/</guid><description>Technical Writing 101</description><content:encoded><![CDATA[<p>Before starting the main discussions, let&rsquo;s have a quick background on how I reviewed 150+ technical writers. I was searching for a few good technical writers who could publish great blogs about AI/ML, web development tutorials, or even general articles. For this, I reviewed technical writers from Hashnode, Dev, Medium, other platforms, and many from the portfolios shared on my X post. Most were good writers, but their profiles lacked a few things as technical writers.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>technicalwriting on Mr. Ånand</title><link>https://mranand.com/tags/technicalwriting/</link><description>Recent content in technicalwriting on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2024 08:25:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/technicalwriting/index.xml" rel="self" type="application/rss+xml"/><item><title>I Have Reviewed 150+ Technical Writers - Here’s What I Found!🔥</title><link>https://mranand.com/blogs/reviewed-150+-technical-writers-heres-what-i-found/</link><pubDate>Sun, 02 Jun 2024 08:25:05 +0530</pubDate><guid>https://mranand.com/blogs/reviewed-150+-technical-writers-heres-what-i-found/</guid><description>Technical Writing 101</description><content:encoded><![CDATA[<p>Before starting the main discussions, let&rsquo;s have a quick background on how I reviewed 150+ technical writers. I was searching for a few good technical writers who could publish great blogs about AI/ML, web development tutorials, or even general articles. For this, I reviewed technical writers from Hashnode, Dev, Medium, other platforms, and many from the portfolios shared on my X post. Most were good writers, but their profiles lacked a few things as technical writers.</p>
 <p>In this article, I&rsquo;ll be sharing my findings from their portfolios so that you can make your profile better as a technical writer.</p>
 <blockquote>
 <p><strong>This article addresses beginners and writers eager to improve themselves as technical writers.</strong></p>
@@ -25,6 +25,57 @@
 </li>
 </ol>
 <p>By taking these steps, you can better showcase your skills and accomplishments, making it easier for others to recognize and appreciate your work.</p>
+<div class="sponsor-card">
+  <a href="https://tldr.tech/signup?utm_source=TheSophomoreChronicle&amp;utm_campaign=TheSophomoreChronicle-cpa-campaign&amp;utm_medium=newsletter-sponsorship" target="_blank" rel="noopener noreferrer" class="sponsor-card__link">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ2hELfr8tjOfIMJ4h2zYJdkKBDL2iG45NAg&amp;s" alt="TLDR Newsletter" class="sponsor-card__image">
+    <div class="sponsor-card__content">
+      <h3 class="sponsor-card__title">TLDR Newsletter</h3>
+      <p class="sponsor-card__text">This article is supported by TLDR Newsletter</p>
+    </div>
+  </a>
+</div>
+
+<style>
+.sponsor-card {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(var(--tertiary),var(--tertiary))padding-box,linear-gradient(to right,#1fa034,#d1a21f)border-box;
+  border: 3px solid transparent;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: box-shadow 0.3s ease;
+  
+}
+.sponsor-card:hover {
+  background: linear-gradient(var(--tertiary),var(--tertiary))padding-box,linear-gradient(to right,#d1a21f,#1fa034)border-box;
+  border: 3px solid transparent;
+}
+.sponsor-card__link {
+  display: flex;
+  text-decoration: none;
+  color: inherit;
+  width: 100%;
+}
+.sponsor-card__image {
+  width: 150px;
+  height: auto;
+  display: block;
+}
+.sponsor-card__content {
+  padding: 16px;
+  flex: 1;
+}
+.sponsor-card__title {
+  margin: 0;
+  font-size: 1.25em;
+  font-weight: bold;
+}
+.sponsor-card__text {
+  margin: 8px 0 0;
+  font-size: 1em;
+}
+</style>
+
 <h2 id="no-personal-profiles">No Personal Profiles</h2>
 <p>Another significant gap I noticed is the absence of personal blogging profiles among many technical writers. While contributing to company blogs or external platforms can be valuable, having a personal blog that you control is essential for establishing your unique voice and showcasing your expertise.</p>
 <p>A personal blog allows you to:</p>
@@ -446,7 +497,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <h2 id="conclusion">Conclusion</h2>
-<p>Reviewing over 150 technical writers has been an enlightening experience, revealing key areas for improvement and growth. Whether you&rsquo;re a casual writer or a dedicated technical writer, focusing on ownership, consistency, personal profiles, and branding can elevate your work and enhance your career. By addressing these common pitfalls, you can develop the skills and reputation needed to succeed in the competitive field of technical writing.</p>
+<p>Reviewing over 150 technical writers has been an enlightening experience, revealing key areas for improvement and growth. Whether you&rsquo;re a casual writer or a dedicated technical writer, focusing on ownership, consistency, personal profiles, and branding can improve your work and enhance your career. By addressing these common mistakes, you can develop the skills and reputation needed to succeed in the competitive field of technical writing.</p>
 
 
 

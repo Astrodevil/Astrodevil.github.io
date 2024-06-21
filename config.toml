@@ -96,7 +96,7 @@ imageHeight = 120
   url = "https://bio.link/astrodevil"
 [[params.profileMode.buttons]]
   name = "Newsletter"
-  url = "https://mranand.beehiiv.com?via=mr-anand"
+  url = "https://mranand.substack.com"
 [[params.profileMode.buttons]]
   name = "Collab"
   url = "https://passionfroot.me/mranand"

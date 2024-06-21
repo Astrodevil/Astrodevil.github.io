@@ -1,0 +1,50 @@
+<div class="sponsor-card">
+  <a href="{{ .Get "link" }}" target="_blank" rel="noopener noreferrer" class="sponsor-card__link">
+    <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" class="sponsor-card__image">
+    <div class="sponsor-card__content">
+      <h3 class="sponsor-card__title">{{ .Get "title" }}</h3>
+      <p class="sponsor-card__text">{{ .Get "text" }}</p>
+    </div>
+  </a>
+</div>
+
+<style>
+.sponsor-card {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(var(--tertiary),var(--tertiary))padding-box,linear-gradient(to right,#1fa034,#d1a21f)border-box;
+  border: 3px solid transparent;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: box-shadow 0.3s ease;
+  
+}
+.sponsor-card:hover {
+  background: linear-gradient(var(--tertiary),var(--tertiary))padding-box,linear-gradient(to right,#d1a21f,#1fa034)border-box;
+  border: 3px solid transparent;
+}
+.sponsor-card__link {
+  display: flex;
+  text-decoration: none;
+  color: inherit;
+  width: 100%;
+}
+.sponsor-card__image {
+  width: 150px;
+  height: auto;
+  display: block;
+}
+.sponsor-card__content {
+  padding: 16px;
+  flex: 1;
+}
+.sponsor-card__title {
+  margin: 0;
+  font-size: 1.25em;
+  font-weight: bold;
+}
+.sponsor-card__text {
+  margin: 8px 0 0;
+  font-size: 1em;
+}
+</style>
