@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>webdevelopment on Mr. Ånand</title><link>https://mranand.com/tags/webdevelopment/</link><description>Recent content in webdevelopment on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 16:52:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/webdevelopment/index.xml" rel="self" type="application/rss+xml"/><item><title>JavaScript Fundamentals: Objects</title><link>https://mranand.com/blogs/javascript-fundamentals-objects/</link><pubDate>Tue, 03 Jan 2023 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-objects/</guid><description>Day 13 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 13th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="objects">Objects</h3>
 <p>In JavaScript, almost &ldquo;everything&rdquo; is an object. JavaScript objects start with an open curly-brace <code>{</code> and end with a closed curly brace <code>}</code>. It contains key-value pairs in between these braces.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">team</span> <span style="color:#f92672">=</span> {
@@ -155,7 +155,7 @@
 <p>A JavaScript object is a state-and-behaviour-containing entity (properties and method). Examples include a car, pen, bicycle, chair, glass, keyboard, and monitor. JavaScript is an object-based language. In JavaScript, everything is an object. JavaScript relies on templates rather than classes. To obtain the object in this case, no class is created. But we deliberately make objects.</p>
 <p>It is always a good idea to be careful about modifying objects directly! The function is modifying something outside of its scope, potentially leading to unexpected consequences!</p>
 <p><strong>Today I learned about Objects in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -165,7 +165,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Arrays</title><link>https://mranand.com/blogs/javascript-fundamentals-arrays/</link><pubDate>Thu, 29 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-arrays/</guid><description>Day 10, 11 &amp;amp; 12 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 12th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="arrays">Arrays</h3>
 <p>In JavaScript, we use arrays to store a list of elements. An array starts with an open square bracket <code>[</code> and ends with a closed square bracket <code>]</code>. The elements inside the array are separated by a comma <code>,</code>.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">numbers</span> <span style="color:#f92672">=</span> [<span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">4</span>];
@@ -271,7 +271,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>JavaScript does not care if we modify a value inside the data structure when the word <code>const</code> is used with an object or an array. Arrays are objects, so you may also include arrays while discussing an object&rsquo;s characteristics.</p>
 <p><strong>Today I learned about Arrays in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -281,7 +281,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: String Looping, Index Of and Slicing Strings</title><link>https://mranand.com/blogs/javascript-fundamentals-string-looping-index-of-and-slicing-strings/</link><pubDate>Sun, 25 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-string-looping-index-of-and-slicing-strings/</guid><description>Day 9 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 9th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="string-looping">String Looping</h3>
 <p>Strings are really simple to loop through. We learned how to retrieve characters by using the <code>.length</code> property and <code>[]</code>.</p>
 <p>So how can we loop over strings using these?</p>
@@ -335,7 +335,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>On strings, there is a <code>lastIndexOf</code> method as well. It locates the string&rsquo;s last occurrence and returns its index.</p>
 <p><strong>Today I learned about String Looping, Index Of and Slicing Strings in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -345,7 +345,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: String Manipulation</title><link>https://mranand.com/blogs/javascript-fundamentals-string-manipulation/</link><pubDate>Fri, 23 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-string-manipulation/</guid><description>Day 8 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 8th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="comparing-strings">Comparing Strings</h3>
 <p>String comparison is actually very simple! The comparison operators <code>===</code>, <code>&lt;</code> and <code>&gt;</code> that we studied in earlier lectures can be used.</p>
 <p>For <code>===</code>, we may compare the strings case-sensitively to see if they are identical:</p>
@@ -403,7 +403,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>Strings in JavaScript allow us to store text that includes characters, integers, and Unicode and is immutable. Additionally, there are numerous built-in functions in JavaScript for creating and manipulating strings in different ways.</p>
 <p><strong>Today I learned about String Manipulation in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -413,7 +413,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: While Loop, Break and Questions for Practice</title><link>https://mranand.com/blogs/javascript-fundamentals-while-loop-break-and-questions-for-practice/</link><pubDate>Thu, 22 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-while-loop-break-and-questions-for-practice/</guid><description>Day 7 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 7th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="while-loop">While Loop</h3>
 <p>As long as the test condition evaluates to <code>true</code>, the while statement generates a loop that performs the provided statement. Before the statement is carried out, the condition is assessed.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">while</span>(<span style="color:#a6e22e">b</span> <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">7</span>) {
@@ -506,7 +506,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>We can exit loop by using both return and break statement.</p>
 <p><strong>Today I learned about While Loop and Break Statement and also practiced a few Questions in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -516,7 +516,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: For Loop and Modulus Operator</title><link>https://mranand.com/blogs/javascript-fundamentals-for-loop-and-modulus-operator/</link><pubDate>Wed, 21 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-for-loop-and-modulus-operator/</guid><description>Day 6 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 6th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="loops">Loops</h3>
 <p>Loops provide a quick and simple way to repeat an action. Programmers take advantage of this speed by creating scripts that do a task repeatedly until a predetermined condition is satisfied.</p>
 <p>In <em>pseudocode</em> this might look a little like this:</p>
@@ -602,7 +602,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>At the beginning of the <code>for</code> loop, the <strong>Initialization</strong> is once executed. Each iteration begins with a check of the <strong>Condition</strong>. The <strong>Statement</strong> will be executed if the expression evaluates to true. If it&rsquo;s untrue, the statement won&rsquo;t execute. Each iteration ends with the <strong>Update</strong> being executed. For the subsequent execution of the <strong>Statement</strong>, it may update a variable. As long as the <strong>Condition</strong> is true, the <strong>Statement</strong> is then executed. The actual work of the loop is completed here.</p>
 <p><strong>Today I learned about For Loop, Modulus Operator in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -612,7 +612,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Conditionals</title><link>https://mranand.com/blogs/javascript-fundamentals-conditionals/</link><pubDate>Mon, 19 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-conditionals/</guid><description>Day 5 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 5th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="console-log">Console Log</h3>
 <p>The <code>console.log</code> will log values during the program&rsquo;s execution. If we <code>console.log</code> a value, that value will show in our test results. You will also often see <code>console.log</code> used in code examples:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">let</span> <span style="color:#a6e22e">a</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">22</span>; 
@@ -724,7 +724,7 @@
 <p>Ending with an extra bit of information about JavaScript&hellip;</p>
 <p>In order to guarantee that code is readable to a standard, many organisations maintain a rigid style guide. <code>{}</code> are typically recommended for <code>if/else</code> statements.</p>
 <p><strong>Today I learned about Conditionals, If, Else, Else If in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -734,7 +734,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Math Object</title><link>https://mranand.com/blogs/javascript-fundamentals-math-object/</link><pubDate>Sun, 18 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-math-object/</guid><description>Day 4 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 4th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <p>Today, I learned about <code>Math.random</code>, <code>Math.floor</code> Functions and to call a function within our function.</p>
 <h3 id="mathrandom">Math.random</h3>
 <p>In JavaScript, there are many math utilities on the <code>Math</code> object. To get a random number we can call the <code>Math.random</code> function.</p>
@@ -762,7 +762,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>The JavaScript Math object allows us to perform mathematical tasks on numbers. There are various math object properties.</p>
 <p><strong>Today I learned about Math.random, Math.floor Functions in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -772,8 +772,8 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Parameters, Arguments and Operators</title><link>https://mranand.com/blogs/javascript-fundamentals-parameters-arguments-and-operators/</link><pubDate>Sat, 17 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-parameters-arguments-and-operators/</guid><description>Day 3 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 3rd day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
-<p>I studied functions yesterday, check the previous <a href="https://astrodevil.hashnode.dev/javascript-fundamentals-mutable-letcomments-functions">article</a>. Today it&rsquo;s time to know more about functions and the use of operators.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
+<p>I studied functions yesterday, check the previous <a href="https://astrodevil.hashnode.dev/javascript-fundamentals-mutable-letcomments-functions" target="_blank" class="highlight-line">article</a>. Today it&rsquo;s time to know more about functions and the use of operators.</p>
 <h3 id="parameters-and-arguments"><strong>Parameters and Arguments</strong></h3>
 <p>Both the terms <strong>parameter</strong> and <strong>argument</strong> refer to the inputs supplied to a function.</p>
 <p>Here&rsquo;s a function with two inputs:</p>
@@ -816,7 +816,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>Priority is given to division and multiplication above addition and subtraction. Expressions are evaluated from left to right if the precedence of the operators is the same, as it is when division and multiplication are used.</p>
 <p><strong>Today I learned about Parameters, Arguments and Operators in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -826,7 +826,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Mutable let,Comments, Functions</title><link>https://mranand.com/blogs/javascript-fundamentals-mutable-letcomments-functions/</link><pubDate>Fri, 16 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-mutable-letcomments-functions/</guid><description>Day 2 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 2nd day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I am going to write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="mutable-let">Mutable let</h3>
 <p>We worked on variables in the last section and now going further with variables, how can we change the stored value inside of a variable?</p>
 <p>We used <code>const</code> keyword to declare a constant variable, but if we try to change the value it will give errors.</p>
@@ -871,7 +871,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>If we define/declare a function once, it can be called elsewhere in the program.</p>
 <p><strong>Today I learned about Mutable let, Comments, and Functions in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -947,7 +947,7 @@
 <p>Ending with an extra bit of information about JavaScript&hellip;</p>
 <p>JavaScript also uses <strong>upper snake case</strong> sometimes like <code>const SERVER_KEY_VALUE = &quot;abcdefg&quot;;</code> This casing is typically reserved for environment variables or values that are needed to be determined before code executions. Like, if you have some secret key that you want to store on the server but not on the local machine, then You might keep that variable tucked away on the server in an environment variable that will require permissions to access or change. These are the types of variables we&rsquo;ll often see with this casing.</p>
 <p><strong>Today I learned about Number variables, multiple variables, booleans, quotes and strings in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -956,108 +956,108 @@
 </a>
 
 ]]></content:encoded></item><item><title>25 Must-Visit Killer Websites For Developers</title><link>https://mranand.com/blogs/25-must-visit-killer-websites-for-developers/</link><pubDate>Sat, 01 Jan 2022 17:31:05 +0530</pubDate><guid>https://mranand.com/blogs/25-must-visit-killer-websites-for-developers/</guid><description>There are so many websites to make the work of developers easier. Everyone doesn&amp;#39;t know all. In this article, we will see 25 Must-Visit Killer Websites For Developers. 90% of developers don’t know about these websites</description><content:encoded><![CDATA[<p>There are so many websites to make the work of developers easier. Everyone doesn&rsquo;t know all. In this article, we will see <strong>25 Must-Visit Killer Websites For Developers</strong>.</p>
-<h3 id="1-devdocshttpsdevdocsio">1. <a href="https://devdocs.io/">DevDocs</a></h3>
+<h3 id="1-devdocshttpsdevdocsio">1. <a href="https://devdocs.io/" target="_blank" class="highlight-line">DevDocs</a></h3>
 <p>DevDocs brings together numerous API documentation in a single, searchable interface. You will find docs related to various programming languages, technologies in one place.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638384967813/utLSXf2-U.png" alt="screely-1638384035935.png"  />
 </p>
-<h3 id="2-raysohttpsrayso">2. <a href="https://ray.so/">ray.so</a></h3>
+<h3 id="2-raysohttpsrayso">2. <a href="https://ray.so/" target="_blank" class="highlight-line">ray.so</a></h3>
 <p>This website allows you to take beautiful screenshots of codes. It also has a dark mode and some preloaded themes for different programming languages. You can also use its VS Code extension.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638385311659/82S035d0k.png" alt="screely-1638385296060.png"  />
 </p>
-<h3 id="3-poetsohttpspoetso">3. <a href="https://poet.so/">Poet.so</a></h3>
+<h3 id="3-poetsohttpspoetso">3. <a href="https://poet.so/" target="_blank" class="highlight-line">Poet.so</a></h3>
 <p>This site is useful for developers who wish to post photos of their tweets on social media. Website transforms your tweet into a beautiful and editable design.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638385530712/GsADMkksb.png" alt="screely-1638385516106.png"  />
 </p>
-<h3 id="4-roadmapshhttpsroadmapsh">4. <a href="https://roadmap.sh/">roadmap.sh</a></h3>
+<h3 id="4-roadmapshhttpsroadmapsh">4. <a href="https://roadmap.sh/" target="_blank" class="highlight-line">roadmap.sh</a></h3>
 <p>This website provides roadmaps, guidelines, and other educational content to assist developers in choosing a path and directing their learning. It is very helpful for a beginner as well as a learner who needs guidance.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638385854363/V8bW_gzx1.png" alt="screely-1638385839901.png"  />
 </p>
-<h3 id="5-lambdatesthttpswwwlambdatestcom">5. <a href="https://www.lambdatest.com/">LambdaTest</a></h3>
+<h3 id="5-lambdatesthttpswwwlambdatestcom">5. <a href="https://www.lambdatest.com/" target="_blank" class="highlight-line">LambdaTest</a></h3>
 <p>LambdaTest is a cloud-based cross-browser testing platform that lets you test web applications on over 2000 different browsers, operating systems, and devices. LambdaTest allows you to test cross-browser compatibility both manually and automatically.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638386119439/mDXT7rVtt.png" alt="screely-1638386105526.png"  />
 </p>
-<h3 id="6-dailydevhttpsappdailydev">6. <a href="https://app.daily.dev/">daily.dev</a></h3>
+<h3 id="6-dailydevhttpsappdailydev">6. <a href="https://app.daily.dev/" target="_blank" class="highlight-line">daily.dev</a></h3>
 <p>It is a platform where you can find so many good articles to read daily. It shows the best articles from various platforms directly in your feed. Stay updated with quality content from various platforms directly into your browser by using its extension.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638386504039/glWhXS_nQ.png" alt="screely-1638386457871.png"  />
 </p>
-<h3 id="7-showwcasehttpswwwshowwcasecom">7. <a href="https://www.showwcase.com/">Showwcase</a></h3>
-<p>Showwcase is a new social media website specially for people who code connect, build community, and find new opportunities. It is a LinkedIn like platform but only focused on developers. You can join and <a href="https://www.showwcase.com/astrodevil">follow me</a> there.</p>
+<h3 id="7-showwcasehttpswwwshowwcasecom">7. <a href="https://www.showwcase.com/" target="_blank" class="highlight-line">Showwcase</a></h3>
+<p>Showwcase is a new social media website specially for people who code connect, build community, and find new opportunities. It is a LinkedIn like platform but only focused on developers. You can join and <a href="https://www.showwcase.com/astrodevil" target="_blank" class="highlight-line">follow me</a> there.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638386870736/KMtvp18LF.png" alt="screely-1638386858754.png"  />
 </p>
-<h3 id="8-css-trickshttpscss-trickscom">8. <a href="https://css-tricks.com/">CSS-TRICKS</a></h3>
+<h3 id="8-css-trickshttpscss-trickscom">8. <a href="https://css-tricks.com/" target="_blank" class="highlight-line">CSS-TRICKS</a></h3>
 <p>You can master your web development skills by learning every basics about CSS from this website. If you didn&rsquo;t already know, CSS is what makes pages on the web look beautiful.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638387360963/CZ40Lwai0.png" alt="screely-1638387302168.png"  />
 </p>
-<h3 id="9-medusahttpswwwmedusajscom">9. <a href="https://www.medusajs.com/">Medusa</a></h3>
+<h3 id="9-medusahttpswwwmedusajscom">9. <a href="https://www.medusajs.com/" target="_blank" class="highlight-line">Medusa</a></h3>
 <p>An open-source Shopify alternative. Medusa is an open-source headless commerce engine that is fast and customizable. It&rsquo;s Free.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638387765631/u99VAO5fh.png" alt="screely-1638387753072.png"  />
 </p>
-<h3 id="10-smartmockupshttpssmartmockupscom">10. <a href="https://smartmockups.com/">SMARTMOCKUPS</a></h3>
+<h3 id="10-smartmockupshttpssmartmockupscom">10. <a href="https://smartmockups.com/" target="_blank" class="highlight-line">SMARTMOCKUPS</a></h3>
 <p>Why give your time learning how to use Photoshop. Smartmockups allow you to generate gorgeous high-resolution mockups straight in your browser and across numerous devices using a single interface. The quickest web-based mockup tool available, No prior experience or abilities are required, and the library of professional mockups is always growing.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638388146151/XYY-Hey10.png" alt="screely-1638388121263.png"  />
 </p>
-<h3 id="11-code-beautifyhttpscodebeautifyorg">11. <a href="https://codebeautify.org/">Code Beautify</a></h3>
+<h3 id="11-code-beautifyhttpscodebeautifyorg">11. <a href="https://codebeautify.org/" target="_blank" class="highlight-line">Code Beautify</a></h3>
 <p>Make your source code more beautiful and easy to read using code to beautify its AI technology will make your source code more attractive and easy to read.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638388669184/LkNccoLNs.png" alt="screely-1638388657726.png"  />
 </p>
-<h3 id="12-overapihttpsoverapicom">12. <a href="https://overapi.com/">overAPI</a></h3>
+<h3 id="12-overapihttpsoverapicom">12. <a href="https://overapi.com/" target="_blank" class="highlight-line">overAPI</a></h3>
 <p>For all developers, OverAPI is one of the most beautiful and useful websites. This website has cheatsheets for the majority of programming languages. Take a look at it right now.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638388599099/SWli6eqLd.png" alt="screely-1638388584887.png"  />
 </p>
-<h3 id="13-responsivelyhttpsresponsivelyapp">13. <a href="https://responsively.app/">Responsively</a></h3>
+<h3 id="13-responsivelyhttpsresponsivelyapp">13. <a href="https://responsively.app/" target="_blank" class="highlight-line">Responsively</a></h3>
 <p>This is an open-source website that speeds up the development of web apps by 5 times. All target screens are displayed side by side in a single window. Reduces the time it takes to develop!</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638388914941/fzDk1EbbW.png" alt="screely-1638388903814.png"  />
 </p>
-<h3 id="14-color-hunthttpscolorhuntco">14. <a href="https://colorhunt.co/">Color Hunt</a></h3>
+<h3 id="14-color-hunthttpscolorhuntco">14. <a href="https://colorhunt.co/" target="_blank" class="highlight-line">Color Hunt</a></h3>
 <p>Colorhunt is a website that allows you to select gorgeous colour palettes. Web designers will find it very beneficial to choose beautiful and appealing colours, as well as to accept colour recommendations from other artists and art projects.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638389100098/2g69Ma1ju.png" alt="screely-1638389088000.png"  />
 </p>
-<h3 id="15-carbonhttpscarbonnowsh">15. <a href="https://carbon.now.sh/">Carbon</a></h3>
+<h3 id="15-carbonhttpscarbonnowsh">15. <a href="https://carbon.now.sh/" target="_blank" class="highlight-line">Carbon</a></h3>
 <p>This website will help you to create and share beautiful images of your source codes. It also allows you to make changes to the photographs. You should give it a go right now.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638389339711/JzN9a1yTi.png" alt="screely-1638389329198.png"  />
 </p>
-<h3 id="16-meta-tagshttpsmetatagsio">16. <a href="https://metatags.io/">Meta Tags</a></h3>
+<h3 id="16-meta-tagshttpsmetatagsio">16. <a href="https://metatags.io/" target="_blank" class="highlight-line">Meta Tags</a></h3>
 <p>It is a website tag generator that also allows you to update and experiment with your content before seeing how it will appear on Google, Facebook, LinkedIn, and other social media sites.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638389558917/vBV-rOHip.png" alt="screely-1638389538922.png"  />
 </p>
-<h3 id="17-profile-pic-makerhttpspfpmakercom">17. <a href="https://pfpmaker.com/">Profile Pic Maker</a></h3>
+<h3 id="17-profile-pic-makerhttpspfpmakercom">17. <a href="https://pfpmaker.com/" target="_blank" class="highlight-line">Profile Pic Maker</a></h3>
 <p>This website creates a professional and beautiful profile for each photo in your Web developer portfolio. As a developer, you will be exposed to social media. You only need to upload any of your images, and it will edit and enhance them. Give it a go right now.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638389794694/Ywlpmxb0a.png" alt="screely-1638389786334.png"  />
 </p>
-<h3 id="18-small-dev-toolshttpssmalldevtools">18. <a href="https://smalldev.tools/">Small Dev Tools</a></h3>
+<h3 id="18-small-dev-toolshttpssmalldevtools">18. <a href="https://smalldev.tools/" target="_blank" class="highlight-line">Small Dev Tools</a></h3>
 <p>This website offers a variety of free developer tools, including encoders/decoders, HTML/CSS/Javascript formatters, minifies, fake or test data generators, and more. It also allows you to share codes.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638390009000/3vdcuU143.png" alt="screely-1638389956512.png"  />
 </p>
-<h3 id="19-resumeiohttpsresumeio">19. <a href="https://resume.io/">resume.io</a></h3>
+<h3 id="19-resumeiohttpsresumeio">19. <a href="https://resume.io/" target="_blank" class="highlight-line">resume.io</a></h3>
 <p>This website allows you to create a quality resume. It will help you to create a professional resume by providing you with well-tested templates. Give it a Try.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638390270548/U8e1MzxUy.png" alt="screely-1638390259749.png"  />
 </p>
-<h3 id="20-codepenhttpscodepenio">20. <a href="https://codepen.io/">CODEPEN</a></h3>
+<h3 id="20-codepenhttpscodepenio">20. <a href="https://codepen.io/" target="_blank" class="highlight-line">CODEPEN</a></h3>
 <p>CodePen is a web-based development platform that allows users to modify front-end languages such as HTML, CSS, and JavaScript without having to install any software. The nicest aspect is that the findings are visible in real-time, making troubleshooting easier. Developers and designers can also exchange code samples (known as pens) with the rest of the world.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638390510290/Z11dY_2Vv.png" alt="screely-1638390500404.png"  />
 </p>
-<h3 id="21-storytalehttpsstorytaleio">21. <a href="https://storytale.io/">Storytale</a></h3>
+<h3 id="21-storytalehttpsstorytaleio">21. <a href="https://storytale.io/" target="_blank" class="highlight-line">Storytale</a></h3>
 <p>Storytale is a website that had collections of illustrations that Make your project eye-catching with awesome characters. It can be used personally and commercially. This is a helpful website for web designers. Get High-class assets for web and mobile projects.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638390858191/-tZZB4fvS.png" alt="screely-1638390848756.png"  />
 </p>
-<h3 id="22-readmesohttpsreadmeso">22. <a href="https://readme.so/">readme.so</a></h3>
+<h3 id="22-readmesohttpsreadmeso">22. <a href="https://readme.so/" target="_blank" class="highlight-line">readme.so</a></h3>
 <p>This website allows you to create project README very easily. Its simple editor helps you to quickly add and customize all the sections you need for your project&rsquo;s README. You can use this to create documentation of your open-source projects quickly.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638391156722/7CiKyNZNv.png" alt="screely-1638391148567.png"  />
 </p>
-<h3 id="23-peppertypehttpswwwpeppertypeai">23. <a href="https://www.peppertype.ai/">Peppertype</a></h3>
+<h3 id="23-peppertypehttpswwwpeppertypeai">23. <a href="https://www.peppertype.ai/" target="_blank" class="highlight-line">Peppertype</a></h3>
 <p>Peppertype is a new tool that helps in automating the content production and ideation process. It analyses your business operations, understands your brand and target audience, and then creates fresh content for you using superior machine learning and artificial intelligence. If you are a developer creating content regularly, then this is for you.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638391381010/rY_Fyi21N.png" alt="screely-1638391370901.png"  />
 </p>
-<h3 id="24-synthesiahttpswwwsynthesiaio">24. <a href="https://www.synthesia.io/">synthesia</a></h3>
+<h3 id="24-synthesiahttpswwwsynthesiaio">24. <a href="https://www.synthesia.io/" target="_blank" class="highlight-line">synthesia</a></h3>
 <p>Synthesia helps you to create AI-based videos in over 50+ languages. You don&rsquo;t need a camera, microphone, or real face to create video content. You just need to upload your script and you will get an AI video.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638391829724/zFvA9ViJg.png" alt="screely-1638391816957.png"  />
 </p>
-<h3 id="25-programmer-humorhttpsprogrammerhumorio">25. <a href="https://programmerhumor.io/">Programmer Humor</a></h3>
+<h3 id="25-programmer-humorhttpsprogrammerhumorio">25. <a href="https://programmerhumor.io/" target="_blank" class="highlight-line">Programmer Humor</a></h3>
 <p>Even developers also need entertainment. You can visit this website for various memes and jokes related to programming and developers. Have Fun.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638392080280/sDiDjjAgL.png" alt="screely-1638392067037.png"  />
 </p>
-<p><strong>Bonus Website</strong>: I used screenshots taken by <strong><a href="https://www.screely.com/">Screely</a></strong> in this Article.</p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<p><strong>Bonus Website</strong>: I used screenshots taken by <strong><a href="https://www.screely.com/" target="_blank" class="highlight-line">Screely</a></strong> in this Article.</p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 

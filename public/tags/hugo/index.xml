@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>hugo on Mr. Ånand</title><link>https://mranand.com/tags/hugo/</link><description>Recent content in hugo on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Nov 2022 12:30:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating Personal Blog With Hugo and Netlify</title><link>https://mranand.com/blogs/creating-personal-blog-with-hugo-and-netlify/</link><pubDate>Tue, 08 Nov 2022 12:30:05 +0530</pubDate><guid>https://mranand.com/blogs/creating-personal-blog-with-hugo-and-netlify/</guid><description>Blog website using a static site generator Hugo and deploying it to Netlify</description><content:encoded><![CDATA[<p>In this Article! I am going to share the step-by-step method I followed while building a blog website using a static site generator <strong><a href="https://gohugo.io/">Hugo</a></strong> and deploying it to <strong>Netlify</strong>. I encountered some small errors during the process, I am gonna entertain those as well. Let&rsquo;s get started.</p>
-<p>As I am using windows, commands may be different, follow <a href="https://gohugo.io/documentation/">official docs</a> while building your own website using Hugo. Also, I am running all commands on git bash.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>hugo on Mr. Ånand</title><link>https://mranand.com/tags/hugo/</link><description>Recent content in hugo on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Nov 2022 12:30:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating Personal Blog With Hugo and Netlify</title><link>https://mranand.com/blogs/creating-personal-blog-with-hugo-and-netlify/</link><pubDate>Tue, 08 Nov 2022 12:30:05 +0530</pubDate><guid>https://mranand.com/blogs/creating-personal-blog-with-hugo-and-netlify/</guid><description>Blog website using a static site generator Hugo and deploying it to Netlify</description><content:encoded><![CDATA[<p>In this Article! I am going to share the step-by-step method I followed while building a blog website using a static site generator <strong><a href="https://gohugo.io/" target="_blank" class="highlight-line">Hugo</a></strong> and deploying it to <strong>Netlify</strong>. I encountered some small errors during the process, I am gonna entertain those as well. Let&rsquo;s get started.</p>
+<p>As I am using windows, commands may be different, follow <a href="https://gohugo.io/documentation/" target="_blank" class="highlight-line">official docs</a> while building your own website using Hugo. Also, I am running all commands on git bash.</p>
 <h2 id="step-1">Step 1</h2>
 <p>Create any folder on Desktop and open <code>git bash</code>. Now time to install hugo.</p>
 <pre tabindex="0"><code>choco install hugo -confirm
@@ -11,7 +11,7 @@
 
 hugo new site blognerd
 </code></pre><p>The above will create a new Hugo site in a folder named <code>blognerd</code>.</p>
-<p>It&rsquo;s time to add theme to the site. See <a href="https://themes.gohugo.io/">theme library</a> for a list of themes to consider. I am using <code>Beautiful Hugo</code> theme.</p>
+<p>It&rsquo;s time to add theme to the site. See <a href="https://themes.gohugo.io/" target="_blank" class="highlight-line">theme library</a> for a list of themes to consider. I am using <code>Beautiful Hugo</code> theme.</p>
 <pre tabindex="0"><code>cd blognerd
 git init
 </code></pre><p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667833676076/PKpoGXV0I.png" alt="screely-1667833660447.png"  />
@@ -54,7 +54,7 @@ Built in 4884 ms
 <img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667834183565/PRMRHTJtn.png" alt="screely-1667834152910.png"  />
 </p>
 <h2 id="step-5">Step 5</h2>
-<p>It&rsquo;s time to give final touch to the newly created site. You can customize theme or configure site by opening up <code>config.toml</code> in a text editor and edit accordingly. In this theme I took help from their GitHub <a href="https://github.com/halogenica/beautifulhugo#readme">readme</a>.</p>
+<p>It&rsquo;s time to give final touch to the newly created site. You can customize theme or configure site by opening up <code>config.toml</code> in a text editor and edit accordingly. In this theme I took help from their GitHub <a href="https://github.com/halogenica/beautifulhugo#readme" target="_blank" class="highlight-line">readme</a>.</p>
 <p>Now, time to build static site. Run below command after closing hugo server by pressing <code>Ctrl+c</code></p>
 <pre tabindex="0"><code>hugo -D  //run only this command
 
@@ -89,8 +89,8 @@ This folder isn&#39;t linked to a site yet
 <pre tabindex="0"><code>netlify deploy --prod
 
 // select public directory 
-</code></pre><p>Hurray! Now you can access your live website with Netlify domain from Netlify dashboard. I have created one other site and it&rsquo;s deployed, check my live website <a href="https://bloggeek.netlify.app/">here&hellip;</a></p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+</code></pre><p>Hurray! Now you can access your live website with Netlify domain from Netlify dashboard. I have created one other site and it&rsquo;s deployed, check my live website <a href="https://bloggeek.netlify.app/" target="_blank" class="highlight-line">here&hellip;</a></p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>javascript on Mr. Ånand</title><link>https://mranand.com/tags/javascript/</link><description>Recent content in javascript on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 16:52:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/javascript/index.xml" rel="self" type="application/rss+xml"/><item><title>JavaScript Fundamentals: Objects</title><link>https://mranand.com/blogs/javascript-fundamentals-objects/</link><pubDate>Tue, 03 Jan 2023 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-objects/</guid><description>Day 13 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 13th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="objects">Objects</h3>
 <p>In JavaScript, almost &ldquo;everything&rdquo; is an object. JavaScript objects start with an open curly-brace <code>{</code> and end with a closed curly brace <code>}</code>. It contains key-value pairs in between these braces.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">team</span> <span style="color:#f92672">=</span> {
@@ -155,7 +155,7 @@
 <p>A JavaScript object is a state-and-behaviour-containing entity (properties and method). Examples include a car, pen, bicycle, chair, glass, keyboard, and monitor. JavaScript is an object-based language. In JavaScript, everything is an object. JavaScript relies on templates rather than classes. To obtain the object in this case, no class is created. But we deliberately make objects.</p>
 <p>It is always a good idea to be careful about modifying objects directly! The function is modifying something outside of its scope, potentially leading to unexpected consequences!</p>
 <p><strong>Today I learned about Objects in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -165,7 +165,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Arrays</title><link>https://mranand.com/blogs/javascript-fundamentals-arrays/</link><pubDate>Thu, 29 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-arrays/</guid><description>Day 10, 11 &amp;amp; 12 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 12th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="arrays">Arrays</h3>
 <p>In JavaScript, we use arrays to store a list of elements. An array starts with an open square bracket <code>[</code> and ends with a closed square bracket <code>]</code>. The elements inside the array are separated by a comma <code>,</code>.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">numbers</span> <span style="color:#f92672">=</span> [<span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">4</span>];
@@ -271,7 +271,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>JavaScript does not care if we modify a value inside the data structure when the word <code>const</code> is used with an object or an array. Arrays are objects, so you may also include arrays while discussing an object&rsquo;s characteristics.</p>
 <p><strong>Today I learned about Arrays in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -281,7 +281,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: String Looping, Index Of and Slicing Strings</title><link>https://mranand.com/blogs/javascript-fundamentals-string-looping-index-of-and-slicing-strings/</link><pubDate>Sun, 25 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-string-looping-index-of-and-slicing-strings/</guid><description>Day 9 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 9th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="string-looping">String Looping</h3>
 <p>Strings are really simple to loop through. We learned how to retrieve characters by using the <code>.length</code> property and <code>[]</code>.</p>
 <p>So how can we loop over strings using these?</p>
@@ -335,7 +335,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>On strings, there is a <code>lastIndexOf</code> method as well. It locates the string&rsquo;s last occurrence and returns its index.</p>
 <p><strong>Today I learned about String Looping, Index Of and Slicing Strings in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -345,7 +345,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: String Manipulation</title><link>https://mranand.com/blogs/javascript-fundamentals-string-manipulation/</link><pubDate>Fri, 23 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-string-manipulation/</guid><description>Day 8 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 8th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="comparing-strings">Comparing Strings</h3>
 <p>String comparison is actually very simple! The comparison operators <code>===</code>, <code>&lt;</code> and <code>&gt;</code> that we studied in earlier lectures can be used.</p>
 <p>For <code>===</code>, we may compare the strings case-sensitively to see if they are identical:</p>
@@ -403,7 +403,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>Strings in JavaScript allow us to store text that includes characters, integers, and Unicode and is immutable. Additionally, there are numerous built-in functions in JavaScript for creating and manipulating strings in different ways.</p>
 <p><strong>Today I learned about String Manipulation in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -413,7 +413,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: While Loop, Break and Questions for Practice</title><link>https://mranand.com/blogs/javascript-fundamentals-while-loop-break-and-questions-for-practice/</link><pubDate>Thu, 22 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-while-loop-break-and-questions-for-practice/</guid><description>Day 7 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 7th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="while-loop">While Loop</h3>
 <p>As long as the test condition evaluates to <code>true</code>, the while statement generates a loop that performs the provided statement. Before the statement is carried out, the condition is assessed.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">while</span>(<span style="color:#a6e22e">b</span> <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">7</span>) {
@@ -506,7 +506,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>We can exit loop by using both return and break statement.</p>
 <p><strong>Today I learned about While Loop and Break Statement and also practiced a few Questions in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -516,7 +516,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: For Loop and Modulus Operator</title><link>https://mranand.com/blogs/javascript-fundamentals-for-loop-and-modulus-operator/</link><pubDate>Wed, 21 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-for-loop-and-modulus-operator/</guid><description>Day 6 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 6th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="loops">Loops</h3>
 <p>Loops provide a quick and simple way to repeat an action. Programmers take advantage of this speed by creating scripts that do a task repeatedly until a predetermined condition is satisfied.</p>
 <p>In <em>pseudocode</em> this might look a little like this:</p>
@@ -602,7 +602,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>At the beginning of the <code>for</code> loop, the <strong>Initialization</strong> is once executed. Each iteration begins with a check of the <strong>Condition</strong>. The <strong>Statement</strong> will be executed if the expression evaluates to true. If it&rsquo;s untrue, the statement won&rsquo;t execute. Each iteration ends with the <strong>Update</strong> being executed. For the subsequent execution of the <strong>Statement</strong>, it may update a variable. As long as the <strong>Condition</strong> is true, the <strong>Statement</strong> is then executed. The actual work of the loop is completed here.</p>
 <p><strong>Today I learned about For Loop, Modulus Operator in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -612,7 +612,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Conditionals</title><link>https://mranand.com/blogs/javascript-fundamentals-conditionals/</link><pubDate>Mon, 19 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-conditionals/</guid><description>Day 5 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 5th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="console-log">Console Log</h3>
 <p>The <code>console.log</code> will log values during the program&rsquo;s execution. If we <code>console.log</code> a value, that value will show in our test results. You will also often see <code>console.log</code> used in code examples:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">let</span> <span style="color:#a6e22e">a</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">22</span>; 
@@ -724,7 +724,7 @@
 <p>Ending with an extra bit of information about JavaScript&hellip;</p>
 <p>In order to guarantee that code is readable to a standard, many organisations maintain a rigid style guide. <code>{}</code> are typically recommended for <code>if/else</code> statements.</p>
 <p><strong>Today I learned about Conditionals, If, Else, Else If in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -734,7 +734,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Math Object</title><link>https://mranand.com/blogs/javascript-fundamentals-math-object/</link><pubDate>Sun, 18 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-math-object/</guid><description>Day 4 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 4th day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <p>Today, I learned about <code>Math.random</code>, <code>Math.floor</code> Functions and to call a function within our function.</p>
 <h3 id="mathrandom">Math.random</h3>
 <p>In JavaScript, there are many math utilities on the <code>Math</code> object. To get a random number we can call the <code>Math.random</code> function.</p>
@@ -762,7 +762,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>The JavaScript Math object allows us to perform mathematical tasks on numbers. There are various math object properties.</p>
 <p><strong>Today I learned about Math.random, Math.floor Functions in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -772,8 +772,8 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Parameters, Arguments and Operators</title><link>https://mranand.com/blogs/javascript-fundamentals-parameters-arguments-and-operators/</link><pubDate>Sat, 17 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-parameters-arguments-and-operators/</guid><description>Day 3 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 3rd day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
-<p>I studied functions yesterday, check the previous <a href="https://astrodevil.hashnode.dev/javascript-fundamentals-mutable-letcomments-functions">article</a>. Today it&rsquo;s time to know more about functions and the use of operators.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
+<p>I studied functions yesterday, check the previous <a href="https://astrodevil.hashnode.dev/javascript-fundamentals-mutable-letcomments-functions" target="_blank" class="highlight-line">article</a>. Today it&rsquo;s time to know more about functions and the use of operators.</p>
 <h3 id="parameters-and-arguments"><strong>Parameters and Arguments</strong></h3>
 <p>Both the terms <strong>parameter</strong> and <strong>argument</strong> refer to the inputs supplied to a function.</p>
 <p>Here&rsquo;s a function with two inputs:</p>
@@ -816,7 +816,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>Priority is given to division and multiplication above addition and subtraction. Expressions are evaluated from left to right if the precedence of the operators is the same, as it is when division and multiplication are used.</p>
 <p><strong>Today I learned about Parameters, Arguments and Operators in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -826,7 +826,7 @@
 
 ]]></content:encoded></item><item><title>JavaScript Fundamentals: Mutable let,Comments, Functions</title><link>https://mranand.com/blogs/javascript-fundamentals-mutable-letcomments-functions/</link><pubDate>Fri, 16 Dec 2022 16:52:05 +0530</pubDate><guid>https://mranand.com/blogs/javascript-fundamentals-mutable-letcomments-functions/</guid><description>Day 2 of #100DaysOfCode</description><content:encoded><![CDATA[<p>Today is the 2nd day of my <strong>#100DaysOfCode</strong> journey with JavaScript.</p>
 <p>I am going to write about my learnings in an explained way through my blogs and socials. If you want to join me on the learning journey, make sure to follow my blogs and social and share yours too. <strong>Let&rsquo;s learn together!🫱🏼‍🫲🏼</strong></p>
-<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/">JavaScript Fundamentals</a> series.</p>
+<p>This Article is a part of the <a href="https://mranand.com/series/javascript-fundamentals/" target="_blank" class="highlight-line">JavaScript Fundamentals</a> series.</p>
 <h3 id="mutable-let">Mutable let</h3>
 <p>We worked on variables in the last section and now going further with variables, how can we change the stored value inside of a variable?</p>
 <p>We used <code>const</code> keyword to declare a constant variable, but if we try to change the value it will give errors.</p>
@@ -871,7 +871,7 @@
 <p>Ending with an extra bit of information about JavaScript functions&hellip;</p>
 <p>If we define/declare a function once, it can be called elsewhere in the program.</p>
 <p><strong>Today I learned about Mutable let, Comments, and Functions in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
@@ -947,7 +947,7 @@
 <p>Ending with an extra bit of information about JavaScript&hellip;</p>
 <p>JavaScript also uses <strong>upper snake case</strong> sometimes like <code>const SERVER_KEY_VALUE = &quot;abcdefg&quot;;</code> This casing is typically reserved for environment variables or values that are needed to be determined before code executions. Like, if you have some secret key that you want to store on the server but not on the local machine, then You might keep that variable tucked away on the server in an environment variable that will require permissions to access or change. These are the types of variables we&rsquo;ll often see with this casing.</p>
 <p><strong>Today I learned about Number variables, multiple variables, booleans, quotes and strings in JavaScript.</strong></p>
-<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on-twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 

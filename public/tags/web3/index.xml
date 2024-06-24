@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>web3 on Mr. Ånand</title><link>https://mranand.com/tags/web3/</link><description>Recent content in web3 on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 11:22:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/web3/index.xml" rel="self" type="application/rss+xml"/><item><title>Some Useful GitHub Repositories To Enhance Your Web3 Skills</title><link>https://mranand.com/blogs/some-useful-github-repositories-to-enhance-your-web3-skills/</link><pubDate>Mon, 30 May 2022 11:22:05 +0530</pubDate><guid>https://mranand.com/blogs/some-useful-github-repositories-to-enhance-your-web3-skills/</guid><description>GitHub Repositories you can contribute to and enhance your practical knowledge of web3 technologies.</description><content:encoded><![CDATA[<p>As the world is moving towards new technology, Web3 is the most trending of them. Developers are learning this new technology very fast, many companies are also shifting towards decentralized blockchain technology. To become a good web3 developer one need good skills related to tech, and for that, they will need practical knowledge of web3 technologies. Like working on or making projects based on blockchain.</p>
 <p>In this article, I am going to share ** Some Useful GitHub Repositories you can contribute** to and enhance your practical knowledge of web3 technologies.</p>
-<h3 id="1-100-days-of-web3httpsgithubcomfrancescoxxfree-web3-resources">1. <a href="https://github.com/FrancescoXX/free-Web3-resources">100 Days Of Web3</a></h3>
+<h3 id="1-100-days-of-web3httpsgithubcomfrancescoxxfree-web3-resources">1. <a href="https://github.com/FrancescoXX/free-Web3-resources" target="_blank" class="highlight-line">100 Days Of Web3</a></h3>
 <p>This is a list of Tons of Free Web3 Resources.</p>
 <p>This is primarily for Ethereum Developers, but many concepts are shared among different Blockchain or involve different blockchains.</p>
-<h3 id="2-awesome-solidityhttpsgithubcombkremawesome-solidity">2. <a href="https://github.com/bkrem/awesome-solidity">Awesome Solidity</a></h3>
+<h3 id="2-awesome-solidityhttpsgithubcombkremawesome-solidity">2. <a href="https://github.com/bkrem/awesome-solidity" target="_blank" class="highlight-line">Awesome Solidity</a></h3>
 <p>⟠ A curated list of awesome Solidity resources, libraries, tools and more.</p>
-<h3 id="3-gunhttpsgithubcomamarkgun">3. <a href="https://github.com/amark/gun">Gun</a></h3>
+<h3 id="3-gunhttpsgithubcomamarkgun">3. <a href="https://github.com/amark/gun" target="_blank" class="highlight-line">Gun</a></h3>
 <p>An open source cybersecurity protocol for syncing decentralized graph data. GUN is a toolkit that allows you to create community-run and encrypted applications, such as an Open Source Firebase or a Decentralized Dropbox. GUN is in use by the Internet Archive and hundreds of other apps. Twitter&rsquo;s Bluesky program includes GUN!</p>
-<h3 id="4-web3-uihttpsgithubcomdeveloper-daoweb3-ui">4. <a href="https://github.com/Developer-DAO/web3-ui">Web3 Ui</a></h3>
+<h3 id="4-web3-uihttpsgithubcomdeveloper-daoweb3-ui">4. <a href="https://github.com/Developer-DAO/web3-ui" target="_blank" class="highlight-line">Web3 Ui</a></h3>
 <p>A React UI library for Web3. A library of UI components specifically crafted for web3 use cases.</p>
-<h3 id="5-metamask-mobilehttpsgithubcommetamaskmetamask-mobile">5. <a href="https://github.com/MetaMask/metamask-mobile">Metamask Mobile</a></h3>
+<h3 id="5-metamask-mobilehttpsgithubcommetamaskmetamask-mobile">5. <a href="https://github.com/MetaMask/metamask-mobile" target="_blank" class="highlight-line">Metamask Mobile</a></h3>
 <p>Mobile web browser providing access to websites that use the Ethereum blockchain.</p>
-<h3 id="6-nucypherhttpsgithubcomnucyphernucypher">6. <a href="https://github.com/nucypher/nucypher">Nucypher</a></h3>
+<h3 id="6-nucypherhttpsgithubcomnucyphernucypher">6. <a href="https://github.com/nucypher/nucypher" target="_blank" class="highlight-line">Nucypher</a></h3>
 <p>A decentralized threshold cryptography network focused on proxy reencryption.</p>
-<h3 id="7-nft-apihttpsgithubcomnft-apinft-api">7. <a href="https://github.com/nft-api/nft-api">Nft Api</a></h3>
+<h3 id="7-nft-apihttpsgithubcomnft-apinft-api">7. <a href="https://github.com/nft-api/nft-api" target="_blank" class="highlight-line">Nft Api</a></h3>
 <p>NFT API that returns resolved metadata and has all information about all NFT collections, users, transactions. Cross-Chain NFT API.</p>
-<h3 id="8-maticjshttpsgithubcommaticnetworkmaticjs">8. <a href="https://github.com/maticnetwork/matic.js">Matic.js</a></h3>
+<h3 id="8-maticjshttpsgithubcommaticnetworkmaticjs">8. <a href="https://github.com/maticnetwork/matic.js" target="_blank" class="highlight-line">Matic.js</a></h3>
 <p>This repository contains the maticjs client library. maticjs makes it easy for developers, who may not be deeply familiar with smart contract development, to interact with the various components of Matic Network.</p>
 <p>This library will help developers to move assets from Ethereum chain to Matic chain, and withdraw from Matic to Ethereum using fraud proofs.</p>
-<h3 id="9-blockchain-bookshttpsgithubcomblockchainbooksblockchainbooksgithubio">9. <a href="https://github.com/BlockchainBooks/blockchainbooks.github.io">Blockchain Books</a></h3>
+<h3 id="9-blockchain-bookshttpsgithubcomblockchainbooksblockchainbooksgithubio">9. <a href="https://github.com/BlockchainBooks/blockchainbooks.github.io" target="_blank" class="highlight-line">Blockchain Books</a></h3>
 <p>A collection of blockchain books to help people learn and become Awesome.</p>
-<h3 id="10-web3httpsgithubcomlife-itselfweb3">10. <a href="https://github.com/life-itself/web3">web3</a></h3>
+<h3 id="10-web3httpsgithubcomlife-itselfweb3">10. <a href="https://github.com/life-itself/web3" target="_blank" class="highlight-line">web3</a></h3>
 <p>Making sense of web3 &amp; crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.</p>
-<h3 id="11-learn-web3-dapphttpsgithubcomfigment-networkslearn-web3-dapp">11. <a href="https://github.com/figment-networks/learn-web3-dapp">Learn Web3 Dapp</a></h3>
+<h3 id="11-learn-web3-dapphttpsgithubcomfigment-networkslearn-web3-dapp">11. <a href="https://github.com/figment-networks/learn-web3-dapp" target="_blank" class="highlight-line">Learn Web3 Dapp</a></h3>
 <p>This Next.js app is designed to be used with the Figment Learn Pathways, to help developers learn about various blockchain protocols such as Solana, NEAR, Secret, Polygon and Polkadot!</p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 

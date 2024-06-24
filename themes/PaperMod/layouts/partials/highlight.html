@@ -1,0 +1,115 @@
+<style>
+  :root {
+    --highlight-color-1: #FF6B6B;
+    --highlight-color-2: #00ffee;
+    --highlight-color-3: #45B7D1;
+    --highlight-color-4: #FFA07A;
+    --highlight-color-5: #98D8C8;
+    --highlight-color-6: #FF9FF3;
+    --highlight-color-7: #54A0FF;
+    --highlight-color-8: #5CD85A;
+    --highlight-color-9: #FF6B8B;
+    --highlight-color-10: #FFC312;
+    --highlight-color-11: #9980FA;
+    --highlight-color-12: #FDA7DF;
+    --highlight-color-13: #ED4C67;
+    --highlight-color-14: #b5dbc8;
+    --highlight-color-15: #1289A7;
+  }
+
+  .highlight-underline {
+    text-decoration: none;
+    background-image: linear-gradient(to right, var(--highlight-color, currentColor) 100%, var(--highlight-color, currentColor) 100%);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 100% var(--underline-thickness, 2px);
+    transition: background-image 0.3s ease;
+  }
+
+  .highlight-underline:hover {
+    background-image: linear-gradient(to right, var(--highlight-hover-color, var(--highlight-color, currentColor)) 100%, var(--highlight-hover-color, var(--highlight-color, currentColor)) 100%);
+  }
+
+  /* Menu */
+  .menu a {
+    --underline-thickness: 2px;
+  }
+
+  /* Table of Contents */
+  .toc a {
+    --underline-thickness: 1px;
+  }
+
+  /* Headings and Titles */
+  .post-title,
+  .post-content h1,
+  .post-content h2,
+  .post-content h3,
+  .post-content h4,
+  .post-content h5,
+  .post-content h6 {
+    --underline-thickness: 3px;
+  }
+
+  /* Links in post content */
+  .post-content a {
+    --underline-thickness: 1px;
+  }
+
+  /* Pagination */
+  .paginav a {
+    --underline-thickness: 2px;
+  }
+
+  /* Remove default underline and box shadow */
+  a {
+    text-decoration: none;
+    box-shadow: none !important;
+  }
+
+  /* Apply highlight to specific elements */
+  .menu a,
+  .toc a,
+  .post-title,
+  .post-content h1,
+  .post-content h2,
+  .post-content h3,
+  .post-content h4,
+  .post-content h5,
+  .post-content h6,
+  .post-content a,
+  .paginav a,
+  .terms-tags a,
+  .breadcrumbs a,
+  .post-entry .entry-content a,
+  .post-meta a,
+  .footer a {
+    display: inline-block;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const colors = [
+      '--highlight-color-1', '--highlight-color-2', '--highlight-color-3', '--highlight-color-4', '--highlight-color-5',
+      '--highlight-color-6', '--highlight-color-7', '--highlight-color-8', '--highlight-color-9', '--highlight-color-10',
+      '--highlight-color-11', '--highlight-color-12', '--highlight-color-13', '--highlight-color-14', '--highlight-color-15'
+    ];
+
+    const elements = document.querySelectorAll('.menu a, .toc a, .post-title, .post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6, .post-content a, .paginav a, .terms-tags a, .breadcrumbs a, .post-entry .entry-content a, .post-meta a, .footer a');
+
+    elements.forEach(element => {
+      element.classList.add('highlight-underline');
+      const baseColor = colors[Math.floor(Math.random() * colors.length)];
+      element.style.setProperty('--highlight-color', `var(${baseColor})`);
+      
+      element.addEventListener('mouseenter', () => {
+        let hoverColor;
+        do {
+          hoverColor = colors[Math.floor(Math.random() * colors.length)];
+        } while (hoverColor === baseColor);
+        element.style.setProperty('--highlight-hover-color', `var(${hoverColor})`);
+      });
+    });
+  });
+</script>

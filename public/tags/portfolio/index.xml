@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>portfolio on Mr. Ånand</title><link>https://mranand.com/tags/portfolio/</link><description>Recent content in portfolio on Mr. Ånand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 19 Mar 2022 11:00:05 +0530</lastBuildDate><atom:link href="https://mranand.com/tags/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Make Your GitHub Profile Standout To Attract Better Opportunities</title><link>https://mranand.com/blogs/make-your-github-profile-standout-to-attract-better-opportunities/</link><pubDate>Sat, 19 Mar 2022 11:00:05 +0530</pubDate><guid>https://mranand.com/blogs/make-your-github-profile-standout-to-attract-better-opportunities/</guid><description>To screen candidates, the industry is shifting away from resumes and toward GitHub profiles. In the software industry, Open Source projects are widely regarded now. How can recruiters know that the abilities you claim to have are truly the skills you have? When you&amp;#39;re a fresher with no professional experience open-source contributions come in useful. Without any prior industry expertise, GitHub allows you to exhibit your work. As a result, it&amp;#39;s important to make GitHub Profile stand out and present the best version of yourself.</description><content:encoded><![CDATA[<p>To screen candidates, the industry is shifting away from resumes and toward GitHub profiles. In the software industry, Open Source projects are widely regarded now. How can recruiters know that the abilities you claim to have are truly the skills you have? When you&rsquo;re a fresher with no professional experience open-source contributions come in useful. Without any prior industry expertise, GitHub allows you to exhibit your work. As a result, it&rsquo;s important to make GitHub Profile stand out and present the best version of yourself.</p>
 <p>In this article, I am shedding light on tips to <strong>Make Your GitHub Profile Standout To Attract Better Opportunities</strong>.</p>
 <h2 id="introduction">Introduction!</h2>
-<p><a href="https://github.com/Astrodevil"><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643986105138/0oFtVvL6rO.png" alt="screely-1643985124626.png"  />
+<p><a href="https://github.com/Astrodevil" target="_blank" class="highlight-line"><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643986105138/0oFtVvL6rO.png" alt="screely-1643985124626.png"  />
 </a></p>
 <p>The above screenshot is of my GitHub profile. I have mentioned my bio in a detailed manner, including contribution graphs, badges, tech stack, proper name, username, profile picture, social handles, and my side hustles. You can also create your GitHub profile like mine or even better. Isn&rsquo;t my profile more detailed and attractive than resume? I hope after seeing the above screenshot you also want to make your GitHub profile stand out. <em>Let&rsquo;s get started!</em></p>
 <h2 id="foundation-stone">Foundation Stone</h2>
@@ -9,8 +9,8 @@
 <p>Let&rsquo;s start by creating a special repository after signing in to your GitHub account. <strong>This repository name must be same as your GitHub username</strong>.</p>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643985010957/IkhnHnKtE.png" alt="screely-1643984983985.png"  />
 </p>
-<p>This is a ✨special ✨ repository that you can use to add a <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes">README.md</a> to your GitHub profile. Make sure it’s public and initialize it with a README or create a README.md file inside this repository to get started.</p>
-<p><a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> will be used to add contents and details in <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes">README</a> file. Learn Markdown syntax from this <a href="https://github.com/Astrodevil/Open-Source-Gallery/blob/main/src/markdown-cheatsheet.pdf">cheetsheet</a>. README files are commonly used to write documentation for the project repositories.</p>
+<p>This is a ✨special ✨ repository that you can use to add a <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes" target="_blank" class="highlight-line">README.md</a> to your GitHub profile. Make sure it’s public and initialize it with a README or create a README.md file inside this repository to get started.</p>
+<p><a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" class="highlight-line">Markdown</a> will be used to add contents and details in <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes" target="_blank" class="highlight-line">README</a> file. Learn Markdown syntax from this <a href="https://github.com/Astrodevil/Open-Source-Gallery/blob/main/src/markdown-cheatsheet.pdf" target="_blank" class="highlight-line">cheetsheet</a>. README files are commonly used to write documentation for the project repositories.</p>
 <p>It&rsquo;s time to add contents in your profile README.</p>
 <ul>
 <li>
@@ -59,10 +59,10 @@
 <h3 id="icons--badges">Icons &amp; Badges</h3>
 </li>
 </ul>
-<p>Adding <strong>social handles</strong> on GitHub profile is the best way to connect with peoples and transfer more audience towards your socials. You can use badges for that or icons. You can create badges from <a href="https://shields.io/">shields.io</a> and also use icons from <a href="https://www.flaticon.com/free-icons/social-media">flaticon</a>. There are tons of site to find attractive icons. You can also add information about your tech stack and tools you are familiar with by using badges and icons.
+<p>Adding <strong>social handles</strong> on GitHub profile is the best way to connect with peoples and transfer more audience towards your socials. You can use badges for that or icons. You can create badges from <a href="https://shields.io/" target="_blank" class="highlight-line">shields.io</a> and also use icons from <a href="https://www.flaticon.com/free-icons/social-media" target="_blank" class="highlight-line">flaticon</a>. There are tons of site to find attractive icons. You can also add information about your tech stack and tools you are familiar with by using badges and icons.
 <img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644000346031/NDAKl8FYz.png" alt="screely-1644000227962.png"  />
 
-<a href="https://github.com/adityaoberai"><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644000356557/-3x4Rkzzb.png" alt="screely-1644000240039.png"  />
+<a href="https://github.com/adityaoberai" target="_blank" class="highlight-line"><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644000356557/-3x4Rkzzb.png" alt="screely-1644000240039.png"  />
 </a></p>
 <ul>
 <li>
@@ -108,21 +108,21 @@ jobs:
 </code></pre><p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644003241309/oKOBcwt09.png" alt="screely-1644003225209.png"  />
 </p>
 <ul>
-<li>You can also add your <strong>blogs and side hustles</strong> on your profile README by manually adding it or automating the tasks by using GitHub Actions. Check this <a href="https://astrodevil.hashnode.dev/some-cool-github-actions-you-wont-believe-exists">article</a> to know more about helpful actions. You can impress recruiters by showcasing your awesome side hustles.</li>
+<li>You can also add your <strong>blogs and side hustles</strong> on your profile README by manually adding it or automating the tasks by using GitHub Actions. Check this <a href="https://astrodevil.hashnode.dev/some-cool-github-actions-you-wont-believe-exists" target="_blank" class="highlight-line">article</a> to know more about helpful actions. You can impress recruiters by showcasing your awesome side hustles.</li>
 </ul>
 <p><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644005000197/gFSVDnWjN.png" alt="screely-1644004991863.png"  />
 </p>
 <h2 id="final-touch">Final Touch</h2>
 <ul>
 <li>
-<p>If you don&rsquo;t want to learn Markdown or don&rsquo;t have enough time to write from scratch. You can use <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GitHub Profile README Generator</a>, <a href="https://gprm.itsvg.in/">GPRM</a> or <a href="https://readme.so/">readme generator</a> to create your profile README.</p>
+<p>If you don&rsquo;t want to learn Markdown or don&rsquo;t have enough time to write from scratch. You can use <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank" class="highlight-line">GitHub Profile README Generator</a>, <a href="https://gprm.itsvg.in/" target="_blank" class="highlight-line">GPRM</a> or <a href="https://readme.so/" target="_blank" class="highlight-line">readme generator</a> to create your profile README.</p>
 </li>
 <li>
-<p>You can also take inspiration from other profiles by copy-pasting markdown codes in your README to customize accordingly. Here are the <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/profiles">example profiles</a> you can take inspiration from.</p>
+<p>You can also take inspiration from other profiles by copy-pasting markdown codes in your README to customize accordingly. Here are the <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/profiles" target="_blank" class="highlight-line">example profiles</a> you can take inspiration from.</p>
 </li>
 </ul>
-<p>I hope, This will help you to make your GitHub profile stand-out! What are you waiting for? Now go create your own profile README and open a world of opportunities for yourself. Check out my <a href="https://github.com/Astrodevil">GitHub</a>🤝</p>
-<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_">Twitter</a></h4>
+<p>I hope, This will help you to make your GitHub profile stand-out! What are you waiting for? Now go create your own profile README and open a world of opportunities for yourself. Check out my <a href="https://github.com/Astrodevil" target="_blank" class="highlight-line">GitHub</a>🤝</p>
+<h4 id="if-you--my-content-connect-me-on--twitterhttpsmobiletwittercomastrodevil_">If You ❤️ My Content! Connect Me on  <a href="https://mobile.twitter.com/Astrodevil_" target="_blank" class="highlight-line">Twitter</a></h4>
 
 
 
