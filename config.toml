@@ -18,13 +18,39 @@ minifyOutput = true
 
 [params]
 env = "production"
+images = "https://dynamic-og-image-generator.vercel.app/api/generate?title=Technical+Writer%2C+Developer+Advocate&author=Mr.+%C3%85nand&websiteUrl=mranand.com&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F73425223%3Fv%3D4&theme=default"
 ShowShareButtons = true
 ShowCodeCopyButtons = true
 ShowFullTextinRSS = true
 # comments = true
 defaultTheme = "auto"
-description = "Tech blogger from India. Open-Source and Self-Learning. Love to create different types of content. Student | Content Creator | Explorer and Learner"
-keywords = [ "Blogger", "India", "Selflearning", "Blog", "Portfolio", "PaperMod", "GitHub", "open source", "JavaScript", "Astrodevil", "Content", "Developers", "100Daysofcode", "codesastro", "Webdevelopment", "Student", "Web3", "Programming", "Coding", "Technicalwriter", "Creator", "mranand", "Mr. Ånand", "Amitesh", "Amitesh Anand", "Programming", "Tutorial", "Books", "Project", "Hugo" ]
+description = "Mr. Ånand: Freelance technical writer and developer advocate. Crafting insightful content on software development and technical writing. Community enthusiast passionate about knowledge sharing and collaboration."
+keywords = [ "Mr. Ånand",
+    "technical writer",
+    "developer advocate",
+    "freelance writer",
+    "software development",
+    "technical writing",
+    "content creation",
+    "community building",
+    "tech community",
+    "coding tutorials",
+    "programming guides",
+    "software documentation",
+    "API documentation",
+    "developer relations",
+    "tech blogging",
+    "open source",
+    "knowledge sharing",
+    "tech collaboration",
+    "software engineering",
+    "developer tools",
+    "tech mentorship",
+    "coding best practices",
+    "software architecture",
+    "tech communication",
+    "developer experience"
+]
 enableEmoji = true
 
 
@@ -82,8 +108,8 @@ weight = 70
 [params.profileMode]
 enabled = true
 title = "Mr. Ånand"
-subtitle = "Student | Content Creator | Explorer and Learner"
-subtitle1 = "CSE Undergraduate👨🏼‍💻 | Blogger✍🏼"
+subtitle = "Technical Writer✍🏼 | Developer Advocate👨🏼‍💻"
+subtitle1 = "Content & Community"
 imageUrl = "https://cdn.bio.link/uploads/profile_pictures/2021-12-17/rIgWZLgFZMi84ZKzAZ2Rw3K2PbIJ5PJk.png"
 imageTitle = "Mr. Ånand"
 imageWidth = 120
