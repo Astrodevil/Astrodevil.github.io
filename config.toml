@@ -18,7 +18,7 @@ minifyOutput = true
 
 [params]
 env = "production"
-images = "https://dynamic-og-image-generator.vercel.app/api/generate?title=Technical+Writer%2C+Developer+Advocate&author=Mr.+%C3%85nand&websiteUrl=mranand.com&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F73425223%3Fv%3D4&theme=default"
+images = ["https://dynamic-og-image-generator.vercel.app/api/generate?title=Technical+Writer%2C+Developer+Advocate&author=Mr.+%C3%85nand&websiteUrl=mranand.com&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F73425223%3Fv%3D4&theme=default"]
 ShowShareButtons = true
 ShowCodeCopyButtons = true
 ShowFullTextinRSS = true
