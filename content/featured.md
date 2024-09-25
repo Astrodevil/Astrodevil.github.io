@@ -1,11 +1,11 @@
-I have published over 80k words in last 3 years across articles and [newsletters](https://mranand.substack.com/), reaching more than 250k readers. I believe in content distribution over relying on a single viral template. The goal is to deliver long-term value, not just short-term impact. See what others are saying about [my work](https://senja.io/p/mranand/AmCR2n)! 
+I have published over **80k words** in last 3 years across articles and [newsletters](https://mranand.substack.com/), reaching more than **250k readers**. I believe in content **distribution** over relying on a single viral template. The goal is to deliver **long-term** value, not just short-term impact. See what others are saying about **[my work](https://senja.io/p/mranand/AmCR2n)**! 
 
 ## Collab Posts🤝🏼
 
 - [A Beginner's Guide to Vector Embeddings](https://code.pieces.app/blog/a-beginners-guide-to-vector-embeddings)
 - [Introduction to AI Prompt Engineering](https://code.pieces.app/blog/introduction-to-ai-prompt-engineering)
 - [Top 15 No Code SaaS Tools to Help Developers](https://code.pieces.app/blog/top-15-no-code-saas-tools-to-help-developers)
-- [Secure Customer Privacy with Differential Privacy and Versatile Data Kit (VDK)](https://medium.com/versatile-data-kit/secure-customer-privacy-with-differential-privacy-and-versatile-data-kit-vdk-b08bee5d54bd) (Co-authored)
+- [Secure Customer Privacy with Differential Privacy and Versatile Data Kit (VDK)](https://medium.com/versatile-data-kit/secure-customer-privacy-with-differential-privacy-and-versatile-data-kit-vdk-b08bee5d54bd) **(Co-authored)**
 - [Productionizing Jupyter Notebooks with Versatile Data Kit (VDK)](https://medium.com/versatile-data-kit/productionizing-jupyter-notebooks-with-versatile-data-kit-vdk-ec5824d31b77)
 - [How to Contribute to Open Source: The Ultimate Guide to Collaborative Software Development](https://code.pieces.app/blog/how-to-contribute-to-open-source-the-ultimate-guide)
 - [Conversational AI vs Generative AI: Benefits for Developers](https://code.pieces.app/blog/conversational-ai-vs-generative-ai-benefits)
@@ -21,11 +21,11 @@ I have published over 80k words in last 3 years across articles and [newsletters
 - [How to Use Versatile Data Kit to Turn Your Jupyter Notebooks Into Scalable & Reliable Data Pipelines](https://hackernoon.com/how-to-use-versatile-data-kit-to-turn-your-jupyter-notebooks-into-scalable-and-reliable-data-pipelines)
 - [Essential AI Tools for Developers in 2023: 20 Must-Try Solutions](https://hackernoon.com/essential-ai-tools-for-developers-in-2023-20-must-try-solutions)
 
-## Nomination for [The Noonies 2022](https://noonies.hackernoon.com/)🔥
+## Nominated for [The Noonies 2022](https://noonies.hackernoon.com/)🔥
 
-- [HackerNoon Contributor of the Year - Books](https://noonies.hackernoon.com/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-books) (Runner-Up)
-- [HackerNoon Contributor of the Year - Developer](https://noonies.hackernoon.com/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-developer) (Runner-Up)
-- [HackerNoon Contributor of the Year - Job Hunting](https://noonies.hackernoon.com/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-job-hunting) (Runner-Up)
+- [HackerNoon Contributor of the Year - Books](https://noonies.hackernoon.com/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-books) **(Runner-Up)**
+- [HackerNoon Contributor of the Year - Developer](https://noonies.hackernoon.com/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-developer) **(Runner-Up)**
+- [HackerNoon Contributor of the Year - Job Hunting](https://noonies.hackernoon.com/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-job-hunting) **(Runner-Up)**
 - [HackerNoon Contributor of the Year - GitHub](https://noonies.hackernoon.com/2022/programming/2022-hackernoon-contributor-of-the-year-github)
 
 ## Featured On [daily.dev](https://app.daily.dev/)🔥
