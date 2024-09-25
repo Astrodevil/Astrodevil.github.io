@@ -1,9 +1,11 @@
-## Collabs Posts🤝🏼
+I have published over 80k words in last 3 years across articles and [newsletters](https://mranand.substack.com/), reaching more than 250k readers. I believe in content distribution over relying on a single viral template. The goal is to deliver long-term value, not just short-term impact. See what others are saying about [my work](https://senja.io/p/mranand/AmCR2n)! 
+
+## Collab Posts🤝🏼
 
 - [A Beginner's Guide to Vector Embeddings](https://code.pieces.app/blog/a-beginners-guide-to-vector-embeddings)
 - [Introduction to AI Prompt Engineering](https://code.pieces.app/blog/introduction-to-ai-prompt-engineering)
 - [Top 15 No Code SaaS Tools to Help Developers](https://code.pieces.app/blog/top-15-no-code-saas-tools-to-help-developers)
-- [Secure Customer Privacy with Differential Privacy and Versatile Data Kit (VDK)](https://medium.com/versatile-data-kit/secure-customer-privacy-with-differential-privacy-and-versatile-data-kit-vdk-b08bee5d54bd)
+- [Secure Customer Privacy with Differential Privacy and Versatile Data Kit (VDK)](https://medium.com/versatile-data-kit/secure-customer-privacy-with-differential-privacy-and-versatile-data-kit-vdk-b08bee5d54bd) (Co-authored)
 - [Productionizing Jupyter Notebooks with Versatile Data Kit (VDK)](https://medium.com/versatile-data-kit/productionizing-jupyter-notebooks-with-versatile-data-kit-vdk-ec5824d31b77)
 - [How to Contribute to Open Source: The Ultimate Guide to Collaborative Software Development](https://code.pieces.app/blog/how-to-contribute-to-open-source-the-ultimate-guide)
 - [Conversational AI vs Generative AI: Benefits for Developers](https://code.pieces.app/blog/conversational-ai-vs-generative-ai-benefits)
