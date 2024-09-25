@@ -19,6 +19,12 @@
 - [How to Use Versatile Data Kit to Turn Your Jupyter Notebooks Into Scalable & Reliable Data Pipelines](https://hackernoon.com/how-to-use-versatile-data-kit-to-turn-your-jupyter-notebooks-into-scalable-and-reliable-data-pipelines)
 - [Essential AI Tools for Developers in 2023: 20 Must-Try Solutions](https://hackernoon.com/essential-ai-tools-for-developers-in-2023-20-must-try-solutions)
 
+## Nomination for [The Noonies 2022](https://noonies.hackernoon.com/)🔥
+
+- [HackerNoon Contributor of the Year - Books](https://noonies.hackernoon.com/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-books) (Runner-Up)
+- [HackerNoon Contributor of the Year - Developer](https://noonies.hackernoon.com/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-developer) (Runner-Up)
+- [HackerNoon Contributor of the Year - Job Hunting](https://noonies.hackernoon.com/2022/internet-heroes/2022-hackernoon-contributor-of-the-year-job-hunting) (Runner-Up)
+- [HackerNoon Contributor of the Year - GitHub](https://noonies.hackernoon.com/2022/programming/2022-hackernoon-contributor-of-the-year-github)
 
 ## Featured On [daily.dev](https://app.daily.dev/)🔥
 
