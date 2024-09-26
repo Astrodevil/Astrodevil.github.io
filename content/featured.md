@@ -1,4 +1,4 @@
-I have published over **80k words** in last 3 years across articles and [newsletters](https://mranand.substack.com/), reaching more than **250k readers**. I believe in content **distribution** over relying on a single viral template. The goal is to deliver **long-term** value, not just short-term impact. See what others are saying about **[my work](https://senja.io/p/mranand/AmCR2n)**! 
+I have published over **80k words** across articles and [newsletters](https://mranand.substack.com/), reaching more than **250k readers**. I believe in content **distribution** over relying on a single viral template. The goal is to deliver **long-term** value, not just short-term impact. See what others are saying about **[my work](https://senja.io/p/mranand/AmCR2n)**! 
 
 ## Collab Posts🤝🏼
 
